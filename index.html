@@ -1,9 +1,69 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; URL='https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?usp=sharing'" />
-  </head>
-  <body>
-    <p>If you’re not redirected, <a href="https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?usp=sharing">click here</a>.</p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Launching...</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: #f0f0f5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    .notification {
+      background: #fff;
+      border-radius: 20px;
+      padding: 20px 30px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      animation: slideIn 0.6s ease-out forwards;
+      opacity: 0;
+    }
+
+    .icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #007aff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-size: 20px;
+    }
+
+    @keyframes slideIn {
+      from {
+        transform: translateY(30px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="notification">
+    <div class="icon">🔔</div>
+    <div>
+      <strong>Launching Event Sheet...</strong><br/>
+      Redirecting you shortly
+    </div>
+  </div>
+
+  <script>
+    setTimeout(() => {
+      window.location.href = "https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?usp=sharing";
+    }, 2000); // delay 2 seconds
+  </script>
+</body>
 </html>
