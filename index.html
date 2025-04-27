@@ -10,8 +10,9 @@
       height: 100vh;
       background: #f9f9f9;
       display: flex;
-      justify-content: center;
-      align-items: start;
+      flex-direction: column;
+      justify-content: start;
+      align-items: center;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
 
@@ -68,12 +69,48 @@
         opacity: 0.6;
       }
     }
+
+    /* 🍏 Apple Notification style */
+    .notification {
+      margin-top: 20px;
+      background: white;
+      color: black;
+      border-radius: 20px;
+      padding: 20px 24px;
+      width: 320px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+      text-align: left;
+      font-size: 16px;
+      animation: fadeIn 1s ease forwards;
+      opacity: 0;
+      transform: translateY(20px);
+    }
+
+    @keyframes fadeIn {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .notification strong {
+      display: block;
+      margin-top: 8px;
+    }
   </style>
 </head>
 <body>
+  <!-- 🏝️ Dynamic Island -->
   <div class="island">
     <div class="dot"></div>
-    <div class="text">Get Ready <span class="countdown">3</span></div>
+    <div class="text">Please Wait <span class="countdown">3</span></div>
+  </div>
+
+  <!-- 🍏 Apple Notification -->
+  <div class="notification">
+    Our AI Model
+    <strong>DeepSeek V3</strong>
+    <strong>Meta Llama 3</strong>
   </div>
 
   <script>
@@ -86,7 +123,7 @@
         span.textContent = countdown;
       } else {
         clearInterval(interval);
-        window.location.href = "https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?usp=sharing";
+        window.location.href = "https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?gid=1274405383";
       }
     }, 1000);
   </script>
