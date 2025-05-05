@@ -1,137 +1,208 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>On My Way...</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Today's Events</title>
   <style>
     body {
-      margin: 0;
-      height: 100vh;
-      background: #f9f9f9;
-      display: flex;
-      flex-direction: column;
-      justify-content: start;
-      align-items: center;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    }
-
-    .island {
-      margin-top: 60px;
-      background: #1c1c1e;
-      color: white;
-      border-radius: 40px;
-      padding: 14px 24px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      animation: popIn 0.6s ease-out forwards;
-      opacity: 0;
-      transform: scale(0.95);
-    }
-
-    .dot {
-      background: #0a84ff;
-      width: 12px;
-      height: 12px;
-      border-radius: 50%;
-      animation: pulse 1.2s infinite ease-in-out;
-    }
-
-    .text {
-      font-size: 16px;
-    }
-
-    .countdown {
-      font-weight: bold;
-      margin-left: 8px;
-      color: #0a84ff;
-      font-size: 16px;
-      min-width: 20px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: linear-gradient(-45deg, #f5f5f5, #e0e7ff, #f0fdf4, #f5f0ff);
+      background-size: 400% 400%;
+      animation: gradientBG 15s ease infinite;
+      padding: 20px;
       text-align: center;
+      margin: 0;
+      overflow-x: hidden;
+    }
+      @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+      }
+    /* Dynamic Island style */
+    .dynamic-island {
+      display: inline-block;
+      background-color: black;
+      color: white;
+      padding: 8px 20px 8px 30px; /* <-- more left padding */
+      border-radius: 30px;
+      font-size: 1.2em;
+      margin-bottom: 30px;
+      position: relative;
+      opacity: 0;
+      animation: fadeIn 2s ease-out forwards; /* Fade-in animation */
     }
 
-    @keyframes popIn {
-      to {
-        opacity: 1;
-        transform: scale(1);
-      }
+    /* Breathing green dot */
+    .green-dot {
+      width: 10px;
+      height: 10px;
+      background-color: limegreen;
+      border-radius: 50%;
+      position: absolute;
+      top: 50%;
+      left: 12px; /* <-- left side inside */
+      transform: translateY(-50%);
+      animation: pulse 1.5s infinite;
     }
 
     @keyframes pulse {
-      0%, 100% {
-        transform: scale(1);
-        opacity: 1;
-      }
-      50% {
-        transform: scale(1.5);
-        opacity: 0.6;
-      }
+      0% { transform: translateY(-50%) scale(1); opacity: 1; }
+      50% { transform: translateY(-50%) scale(1.5); opacity: 0.5; }
+      100% { transform: translateY(-50%) scale(1); opacity: 1; }
     }
 
-    /* 🍏 Apple Notification style */
-    .notification {
-      margin-top: 20px;
-      background: white;
-      color: black;
+    /* Apple-style Notification */
+    .event-notification {
+      background: rgba(255, 255, 255, 0.2); /* 半透明背景 */
+      backdrop-filter: blur(10px); /* 毛玻璃模糊效果 */
+      -webkit-backdrop-filter: blur(10px); /* 兼容 Safari */
       border-radius: 20px;
-      padding: 20px 24px;
-      width: 320px;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+      padding: 20px;
+      margin: 10px auto;
+      max-width: 400px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); /* 更柔和的阴影 */
+      border: 1px solid rgba(255, 255, 255, 0.2); /* 半透明边框增强质感 */
       text-align: left;
-      font-size: 16px;
-      animation: fadeIn 1s ease forwards;
       opacity: 0;
-      transform: translateY(20px);
+      animation: slideUp 1s ease-out forwards;
     }
 
-    @keyframes fadeIn {
-      to {
+    @keyframes slideUp {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
         opacity: 1;
         transform: translateY(0);
       }
     }
 
-    .notification strong {
-      display: block;
-      margin-top: 8px;
+    .event-title {
+      font-size: 1.2em;
+      font-weight: 600;
+      margin-bottom: 10px;
     }
+
+    .event-info {
+      font-size: 0.95em;
+      margin: 4px 0;
+    }
+
+    .register-link {
+      margin-top: 10px;
+      display: inline-block;
+      background: #007aff;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-size: 0.9em;
+    }
+
+    .register-link:hover {
+      background: #0051a8;
+    }
+
+    /* Fade-in animation for page content */
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    .time-range {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .time-separator {
+      color: #666;
+    }
+
   </style>
 </head>
 <body>
-  <!-- 🏝️ Dynamic Island -->
-  <div class="island">
-    <div class="dot"></div>
-    <div class="text">Please Wait <span class="countdown">3</span></div>
-  </div>
 
-  <!-- 🍏 Apple Notification -->
-<div class="notification">
-  Our AI Model
-  <div style="display: flex; align-items: center; margin-top: 8px;">
-    <img src="deepseek-logo-1.png" style="height:24px; margin-right:8px;">
-    <strong>DeepSeek V3</strong>
-  </div>
-  <div style="display: flex; align-items: center; margin-top: 8px;">
-    <img src="meta-logo.png" style="height:24px; margin-right:8px;">
-    <strong>Meta Llama 3</strong>
-  </div>
+<!-- Dynamic Island -->
+<div class="dynamic-island">
+  Today's Events
+  <div class="green-dot"></div>
 </div>
 
-  <script>
-    let countdown = 3;
-    const span = document.querySelector(".countdown");
+<!-- Events -->
+<div id="events-container" style="opacity: 0; animation: fadeIn 1s ease-out forwards;">
+  Loading events...
+</div>
 
-    const interval = setInterval(() => {
-      countdown--;
-      if (countdown > 0) {
-        span.textContent = countdown;
-      } else {
-        clearInterval(interval);
-        window.location.href = "https://docs.google.com/spreadsheets/d/1IZEED9wozrcDKd2y5zMmFW2npT5NpJYCyz5d52sYXRM/edit?gid=1274405383";
+<script>
+async function loadEvents() {
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/mycsd/demo1/main/events.json');
+    const events = await response.json();
+    
+    const container = document.getElementById('events-container');
+    container.innerHTML = '';
+
+    if (events.length === 0) {
+      container.innerHTML = '<p>No events today.</p>';
+      return;
+    }
+
+    events.forEach(event => {
+      const card = document.createElement('div');
+      card.className = 'event-notification';
+
+      // Check if registration link is not "Walk In" or empty
+      let registerHTML = '';
+      if (event["registration link"] && event["registration link"].toLowerCase() !== 'walk in') {
+        registerHTML = `<a class="register-link" href="${event["registration link"]}" target="_blank">Register</a>`;
+      } else if (event["registration link"] && event["registration link"].toLowerCase() === 'walk in') {
+        registerHTML = '<span class="register-link">Walk In</span>';
       }
-    }, 1000);
-  </script>
+
+      // Format time range if end time exists
+      let timeHTML = '';
+      if (event["end time"]) {
+        timeHTML = `
+          <div class="event-info">
+            <strong>🕒 Time:</strong> 
+            <span class="time-range">
+              ${event.time}
+              <span class="time-separator">→</span>
+              ${event["end time"]}
+            </span>
+          </div>
+        `;
+      } else {
+        timeHTML = `<div class="event-info"><strong>🕒 Time:</strong> ${event.time}</div>`;
+      }
+
+      card.innerHTML = `
+        <div class="event-title">${event["event name"]}</div>
+        <div class="event-info"><strong>📅 Date:</strong> ${event.date}</div>
+        ${timeHTML}
+        <div class="event-info"><strong>📍 Platform:</strong> ${event.venue}</div>
+        ${registerHTML}
+      `;
+
+      container.appendChild(card);
+    });
+
+  } catch (error) {
+    console.error('Error loading events:', error);
+    document.getElementById('events-container').innerText = 'Failed to load events.';
+  }
+}
+
+loadEvents();
+</script>
+
 </body>
 </html>
