@@ -1,208 +1,332 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Today's Events</title>
   <style>
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      background: linear-gradient(-45deg, #f5f5f5, #e0e7ff, #f0fdf4, #f5f0ff);
-      background-size: 400% 400%;
-      animation: gradientBG 15s ease infinite;
-      padding: 20px;
-      text-align: center;
       margin: 0;
-      overflow-x: hidden;
-    }
-      @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-      }
-    /* Dynamic Island style */
-    .dynamic-island {
-      display: inline-block;
-      background-color: black;
+      padding: 15px;
+      background: #000;
       color: white;
-      padding: 8px 20px 8px 30px; /* <-- more left padding */
-      border-radius: 30px;
-      font-size: 1.2em;
-      margin-bottom: 30px;
-      position: relative;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      min-height: 100vh;
       opacity: 0;
-      animation: fadeIn 2s ease-out forwards; /* Fade-in animation */
+      transition: opacity 1s ease;
     }
 
-    /* Breathing green dot */
-    .green-dot {
-      width: 10px;
-      height: 10px;
-      background-color: limegreen;
-      border-radius: 50%;
-      position: absolute;
-      top: 50%;
-      left: 12px; /* <-- left side inside */
-      transform: translateY(-50%);
-      animation: pulse 1.5s infinite;
+    body.loaded {
+      opacity: 1;
     }
 
-    @keyframes pulse {
-      0% { transform: translateY(-50%) scale(1); opacity: 1; }
-      50% { transform: translateY(-50%) scale(1.5); opacity: 0.5; }
-      100% { transform: translateY(-50%) scale(1); opacity: 1; }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
     }
 
-    /* Apple-style Notification */
-    .event-notification {
-      background: rgba(255, 255, 255, 0.2); /* 半透明背景 */
-      backdrop-filter: blur(10px); /* 毛玻璃模糊效果 */
-      -webkit-backdrop-filter: blur(10px); /* 兼容 Safari */
-      border-radius: 20px;
-      padding: 20px;
-      margin: 10px auto;
-      max-width: 400px;
-      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); /* 更柔和的阴影 */
-      border: 1px solid rgba(255, 255, 255, 0.2); /* 半透明边框增强质感 */
-      text-align: left;
-      opacity: 0;
-      animation: slideUp 1s ease-out forwards;
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
     }
 
-    @keyframes slideUp {
-      0% {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      100% {
-        opacity: 1;
-        transform: translateY(0);
-      }
+    .header h1 {
+      color: #ffa500;
+      margin-bottom: 8px;
+      font-size: 1.5em;
     }
 
-    .event-title {
-      font-size: 1.2em;
-      font-weight: 600;
-      margin-bottom: 10px;
-    }
-
-    .event-info {
-      font-size: 0.95em;
-      margin: 4px 0;
-    }
-
-    .register-link {
-      margin-top: 10px;
-      display: inline-block;
-      background: #007aff;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 12px;
-      text-decoration: none;
+    .header p {
+      margin: 0;
+      color: #aaa;
       font-size: 0.9em;
     }
 
-    .register-link:hover {
-      background: #0051a8;
+    .events-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
     }
 
-    /* Fade-in animation for page content */
-    @keyframes fadeIn {
-      0% {
-        opacity: 0;
-      }
-      100% {
-        opacity: 1;
-      }
+    .card {
+      display: flex;
+      align-items: center;
+      background: #1c1c1e;
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+      gap: 20px;
+      max-width: 100%;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 0.8s ease forwards;
+    }
+
+    .event-details {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .event-details h2 {
+      margin: 0 0 8px;
+      font-size: 1.1em;
+      color: #ffa500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .event-details p {
+      margin: 4px 0;
+      color: #ccc;
+      font-size: 0.85em;
+    }
+
+    .timer-container {
+      position: relative;
+      width: 80px;
+      height: 80px;
+      flex-shrink: 0;
+    }
+
+    svg {
+      transform: rotate(-90deg);
+    }
+
+    .circle-bg {
+      fill: none;
+      stroke: #444;
+      stroke-width: 6;
+    }
+
+    .circle {
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      transition: stroke-dashoffset 1s linear, stroke 0.5s ease;
+    }
+
+    .timer-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      font-size: 0.8em;
+      width: 100%;
+    }
+
+    .register-link {
+      display: inline-block;
+      margin-top: 8px;
+      padding: 6px 12px;
+      background-color: #007aff;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 0.8em;
+      transition: background-color 0.3s;
+    }
+
+    .register-link:hover {
+      background-color: #0051a8;
+    }
+
+    .walk-in {
+      display: inline-block;
+      margin-top: 8px;
+      padding: 6px 12px;
+      background-color: #34c759;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      font-size: 0.8em;
+    }
+
+    .no-events {
+      text-align: center;
+      color: #ccc;
+      font-size: 1em;
+      margin-top: 30px;
     }
 
     .time-range {
-      display: flex;
+      display: inline-flex;
+      gap: 3px;
       align-items: center;
-      gap: 5px;
     }
 
     .time-separator {
       color: #666;
     }
 
+    @keyframes glowGreen {
+      0%, 100% {
+        stroke: #666;
+      }
+      50% {
+        stroke: limegreen;
+      }
+    }
+
+    .circle.glow {
+      animation: glowGreen 2s infinite;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 400px) {
+      .card {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 12px;
+      }
+
+      .timer-container {
+        align-self: center;
+        margin-top: 5px;
+      }
+
+      .event-details h2 {
+        white-space: normal;
+      }
+    }
   </style>
 </head>
 <body>
+  <div class="container">
+    <div class="header">
+      <h1>Today's Events</h1>
+      <p>Check out what's happening today</p>
+    </div>
 
-<!-- Dynamic Island -->
-<div class="dynamic-island">
-  Today's Events
-  <div class="green-dot"></div>
-</div>
+    <div id="events-container" class="events-list">
+      Loading events...
+    </div>
+  </div>
 
-<!-- Events -->
-<div id="events-container" style="opacity: 0; animation: fadeIn 1s ease-out forwards;">
-  Loading events...
-</div>
+  <script>
+    const FULL_CIRCLE = 2 * Math.PI * 30;
 
-<script>
-async function loadEvents() {
-  try {
-    const response = await fetch('https://raw.githubusercontent.com/mycsd/demo1/main/events.json');
-    const events = await response.json();
-    
-    const container = document.getElementById('events-container');
-    container.innerHTML = '';
+    async function loadEvents() {
+      try {
+        const response = await fetch('https://raw.githubusercontent.com/mycsd/demo1/main/events.json');
+        const events = await response.json();
 
-    if (events.length === 0) {
-      container.innerHTML = '<p>No events today.</p>';
-      return;
+        const container = document.getElementById('events-container');
+        container.innerHTML = '';
+
+        if (events.length === 0) {
+          container.innerHTML = '<div class="no-events">No events scheduled for today.</div>';
+          return;
+        }
+
+        events.forEach((event, index) => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.style.animationDelay = `${index * 0.15}s`;
+
+          let timeHTML = '';
+          if (event["end time"]) {
+            timeHTML = `
+              <span class="time-range">
+                ${event.time}
+                <span class="time-separator">→</span>
+                ${event["end time"]}
+              </span>
+            `;
+          } else {
+            timeHTML = event.time;
+          }
+
+          const timerHTML = `
+            <div class="timer-container">
+              <svg width="80" height="80">
+                <circle class="circle-bg" cx="40" cy="40" r="30"/>
+                <circle class="circle" cx="40" cy="40" r="30"/>
+              </svg>
+              <div class="timer-text">--</div>
+            </div>
+          `;
+
+          let registerHTML = '';
+          if (event["registration link"] && event["registration link"].toLowerCase() !== 'walk in') {
+            registerHTML = `<a class="register-link" href="${event["registration link"]}" target="_blank">Register</a>`;
+          } else if (event["registration link"] && event["registration link"].toLowerCase() === 'walk in') {
+            registerHTML = '<span class="walk-in">Walk In</span>';
+          }
+
+          card.innerHTML = `
+            <div class="event-details">
+              <h2>${event["event name"]}</h2>
+              <p>📅 ${event.date}<br>🕒 ${timeHTML}</p>
+              <p>📍 ${event.venue}</p>
+              ${registerHTML}
+            </div>
+            ${timerHTML}
+          `;
+
+          container.appendChild(card);
+          initTimer(card, event);
+        });
+
+      } catch (error) {
+        console.error('Error loading events:', error);
+        document.getElementById('events-container').innerHTML = '<div class="no-events">Failed to load events. Please try again later.</div>';
+      }
     }
 
-    events.forEach(event => {
-      const card = document.createElement('div');
-      card.className = 'event-notification';
+    function initTimer(card, event) {
+      const circle = card.querySelector(".circle");
+      const timerText = card.querySelector(".timer-text");
 
-      // Check if registration link is not "Walk In" or empty
-      let registerHTML = '';
-      if (event["registration link"] && event["registration link"].toLowerCase() !== 'walk in') {
-        registerHTML = `<a class="register-link" href="${event["registration link"]}" target="_blank">Register</a>`;
-      } else if (event["registration link"] && event["registration link"].toLowerCase() === 'walk in') {
-        registerHTML = '<span class="register-link">Walk In</span>';
+      circle.style.strokeDasharray = FULL_CIRCLE;
+      circle.style.strokeDashoffset = 0;
+      circle.style.stroke = "orange";
+
+      const startTime = new Date(`${event.date}T${event.time}`);
+      const endTime = event["end time"] ? new Date(`${event.date}T${event["end time"]}`) : new Date(startTime.getTime() + 2 * 60 * 60 * 1000);
+      const dayStart = new Date(event.date + 'T00:00:00');
+      const totalSeconds = (startTime - dayStart) / 1000;
+
+      function updateTimer() {
+        const now = new Date();
+        if (now < startTime) {
+          const remainingSeconds = (startTime - now) / 1000;
+          const percent = Math.max(0, Math.min(1, remainingSeconds / totalSeconds));
+          const offset = FULL_CIRCLE * (1 - percent);
+          circle.classList.remove("glow");
+          circle.style.stroke = "orange";
+          circle.style.strokeDashoffset = offset;
+          const h = Math.floor(remainingSeconds / 3600);
+          const m = Math.floor((remainingSeconds % 3600) / 60);
+          timerText.textContent = `${h}h ${m}m`;
+        } else if (now >= startTime && now < endTime) {
+          circle.classList.add("glow");
+          circle.style.strokeDashoffset = 0;
+          timerText.textContent = "Live";
+        } else {
+          circle.classList.remove("glow");
+          circle.style.stroke = "red";
+          circle.style.strokeDashoffset = 0;
+          timerText.textContent = "Ended";
+        }
       }
 
-      // Format time range if end time exists
-      let timeHTML = '';
-      if (event["end time"]) {
-        timeHTML = `
-          <div class="event-info">
-            <strong>🕒 Time:</strong> 
-            <span class="time-range">
-              ${event.time}
-              <span class="time-separator">→</span>
-              ${event["end time"]}
-            </span>
-          </div>
-        `;
-      } else {
-        timeHTML = `<div class="event-info"><strong>🕒 Time:</strong> ${event.time}</div>`;
-      }
+      updateTimer();
+      setInterval(updateTimer, 1000);
+    }
 
-      card.innerHTML = `
-        <div class="event-title">${event["event name"]}</div>
-        <div class="event-info"><strong>📅 Date:</strong> ${event.date}</div>
-        ${timeHTML}
-        <div class="event-info"><strong>📍 Platform:</strong> ${event.venue}</div>
-        ${registerHTML}
-      `;
-
-      container.appendChild(card);
-    });
-
-  } catch (error) {
-    console.error('Error loading events:', error);
-    document.getElementById('events-container').innerText = 'Failed to load events.';
-  }
-}
-
-loadEvents();
-</script>
-
+    window.onload = () => {
+      document.body.classList.add('loaded');
+      loadEvents();
+    }
+  </script>
 </body>
 </html>
