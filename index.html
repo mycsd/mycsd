@@ -206,8 +206,8 @@
             animation: pulse 1.5s infinite;
         }
 
-        .dot-orange { background-color: #FF9800; } /* Countdown */
-        .dot-green { background-color: #4CAF50; }  /* Live */
+        .dot-orange { background-color: #FFC400; } /* Countdown */
+        .dot-green { background-color: #32CD32; }  /* Live */
         .dot-red { background-color: #D32F2F; animation: none; }   /* Ended */
 
         @keyframes pulse {
@@ -318,7 +318,7 @@
 
             return `
                 <div class="event-card">
-                    ${isToday ? '<div class="today-badge">Happening Today</div>' : ''}
+                    ${isToday ? '<div class="today-badge">Today</div>' : ''}
                     ${countdownBadge}
                     <div class="event-date">${formatDate(event.date)}</div>
                     ${timeDisplay ? `<div class="event-time">${timeDisplay}</div>` : ''}
