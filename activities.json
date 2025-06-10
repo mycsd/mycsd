@@ -19,6 +19,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/ZkPB3XmpgXPqTofx5",
       "status": "today"
+    },
+    {
+      "date": "2025-06-10",
+      "event name": "NEW MYCSD WEB",
+      "time": "23:30",
+      "end time": "23:45",
+      "venue": "GITHUB",
+      "fee": "Free",
+      "registration link": "",
+      "status": "today"
     }
   ],
   "upcoming_events": [
