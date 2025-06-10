@@ -1,1 +1,90 @@
-
+{
+  "today_events": [
+    {
+      "date": "2025-06-10",
+      "event name": "BREATHE IN DONT BURN OUT",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/YRj11TxEtFGAQjKv8",
+      "status": "today"
+    },
+    {
+      "date": "2025-06-10",
+      "event name": "IGNITE YOUR CONFIDENCE",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/ZkPB3XmpgXPqTofx5",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
+    {
+      "date": "2025-06-11",
+      "event name": "孟母4Q",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/sqFFHQkZ9zX9osGDA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "USM KKJ Online Chess Arena 2025",
+      "venue": "Lichess.org",
+      "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "How Student Engineers Can Lead Sustainable Change",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "理大工程系分院华文班 | 文化碰碰乐",
+      "venue": "Cafe Lembaran, USMKKJ",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd8miggZ7AjYvo-zWBRrj86_itD8Cj6rPPGQdfZKQoKV-wtow/closedform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "Bengkel Penulisan Skrip: Tinta Pentas",
+      "venue": "Cisco Webex",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScndr5qGEuqhqG3h79G2N5rvBJGILB0qQAGYkD6VNi6lFaQYQ/viewform?usp=header",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-12",
+      "event name": "Physics Coffee Talk – Understanding Via The Postulates Of Quantum Mechanics",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/5ooAZovSS6pmmHwj6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-13",
+      "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
+      "venue": "Online",
+      "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-16",
+      "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-16",
+      "event name": "Unmasking Emotions: Be Real, Be You!",
+      "venue": "Cisco Webex",
+      "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-25",
+      "event name": "EXCHANGE STUDENT TALK – Beyond Borders: Exploring International Opportunities",
+      "venue": "Cisco Webex",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc31MqQdTGRH8lz8OzilpGYFrxM3s7GK-cAJoVapO4vydMiwg/viewform?usp=preview",
+      "status": "upcoming"
+    }
+  ]
+}
