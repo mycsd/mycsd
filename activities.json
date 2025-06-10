@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-10",
-      "event name": "BREATHE IN DONT BURN OUT",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/YRj11TxEtFGAQjKv8",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-10",
-      "event name": "IGNITE YOUR CONFIDENCE",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/ZkPB3XmpgXPqTofx5",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-11",
       "event name": "孟母4Q",
       "time": "15:00",
@@ -30,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": "Free",
       "registration link": "https://forms.gle/sqFFHQkZ9zX9osGDA",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-11",
@@ -40,7 +18,7 @@
       "venue": "Cafe Lembaran, USMKKJ",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd8miggZ7AjYvo-zWBRrj86_itD8Cj6rPPGQdfZKQoKV-wtow/closedform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-11",
@@ -50,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScndr5qGEuqhqG3h79G2N5rvBJGILB0qQAGYkD6VNi6lFaQYQ/viewform?usp=header",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-11",
@@ -60,7 +38,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-11",
@@ -70,8 +48,10 @@
       "venue": "Lichess.org",
       "fee": 1,
       "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-12",
       "event name": "Physics Coffee Talk – Understanding Via The Postulates Of Quantum Mechanics",
