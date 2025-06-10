@@ -99,6 +99,7 @@
             padding: 1.5rem;
             transition: all 0.3s ease;
             box-shadow: var(--shadow);
+            position: relative; /* Added for badge positioning */
         }
 
         .event-card:hover {
@@ -182,18 +183,52 @@
             margin-bottom: 0.5rem;
         }
 
+        /* Countdown Badge Styles */
+        .countdown-badge {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.4rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+            animation: pulse 1.5s infinite;
+        }
+
+        .dot-orange { background-color: #FF9800; } /* Countdown */
+        .dot-green { background-color: #4CAF50; }  /* Live */
+        .dot-red { background-color: #D32F2F; animation: none; }   /* Ended */
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.2); opacity: 0.7; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
         .loading {
             text-align: center;
             padding: 2rem;
             font-size: 1.2rem;
         }
 
-        .error-message {
-            background: rgba(255, 0, 0, 0.2);
+        .error-message, .no-events {
+            background: rgba(255, 255, 255, 0.1);
             padding: 1rem;
             border-radius: var(--card-radius);
             text-align: center;
             margin: 1rem 0;
+            opacity: 0.8;
         }
 
         @media (max-width: 768px) {
@@ -216,8 +251,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>EVENTS</h1>
-            <p class="subtitle">Please do not share this to public</p>
+            <h1>USM Events</h1>
+            <p class="subtitle">Discover upcoming activities and join the community</p>
         </header>
 
         <div class="tabs">
@@ -258,15 +293,33 @@
             return `${hour12}:${minutes} ${ampm}`;
         }
 
+        // Function to get current time in HH:MM format (local time in Penang)
+        function getCurrentTimePenang() {
+            const now = new Date();
+            const options = {
+                timeZone: 'Asia/Kuala_Lumpur', // Penang's timezone
+                hour: '2-digit',
+                minute: '2-digit',
+                hourCycle: 'h23' // 24-hour format
+            };
+            return now.toLocaleTimeString('en-US', options);
+        }
+
         // Function to create event card HTML
         function createEventCard(event, isToday = false) {
             const startTime = formatTime(event.time);
             const endTime = formatTime(event['end time']);
             const timeDisplay = startTime && endTime ? `${startTime} - ${endTime}` : startTime || '';
 
+            let countdownBadge = '';
+            if (isToday) {
+                countdownBadge = `<div class="countdown-badge" id="countdown-${event['event name'].replace(/\s/g, '-')}-${event.date}"></div>`;
+            }
+
             return `
                 <div class="event-card">
                     ${isToday ? '<div class="today-badge">Happening Today</div>' : ''}
+                    ${countdownBadge}
                     <div class="event-date">${formatDate(event.date)}</div>
                     ${timeDisplay ? `<div class="event-time">${timeDisplay}</div>` : ''}
                     <h3 class="event-name">${event['event name']}</h3>
@@ -277,12 +330,66 @@
                         </div>
                         <div class="detail-item">
                             <i>💵</i>
-                            <span>Fee: ${event.fee === 1 ? 'RM1' : event.fee}</span>
+                            <span>Fee: ${event.fee === 0 ? 'Free' : `${event.fee}`}</span>
                         </div>
                     </div>
                     <a href="${event['registration link']}" target="_blank" class="register-btn">Register Now</a>
                 </div>
             `;
+        }
+
+        // Function to update countdown for today's events
+        function updateCountdown() {
+            const todayEventsContainer = document.getElementById('today-events');
+            const eventCards = todayEventsContainer.querySelectorAll('.event-card');
+            const now = new Date();
+            const today = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
+            today.setHours(0, 0, 0, 0); // Set to start of today in Penang timezone
+
+            eventCards.forEach(card => {
+                const eventName = card.querySelector('.event-name').textContent;
+                const eventDateText = card.querySelector('.event-date').textContent;
+                const eventTimeText = card.querySelector('.event-time') ? card.querySelector('.event-time').textContent : '';
+
+                // Extract original time strings from the event object if available (better for precise calculation)
+                const originalEvent = window.allEvents.today_events.find(e => e['event name'] === eventName && formatDate(e.date) === eventDateText);
+
+                if (!originalEvent) return; // Skip if event not found in the original data
+
+                const [startHourStr, startMinuteStr] = originalEvent.time.split(':');
+                const [endHourStr, endMinuteStr] = originalEvent['end time'].split(':');
+
+                const eventStart = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
+                eventStart.setHours(parseInt(startHourStr), parseInt(startMinuteStr), 0, 0);
+
+                const eventEnd = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
+                eventEnd.setHours(parseInt(endHourStr), parseInt(endMinuteStr), 0, 0);
+
+                const countdownBadge = card.querySelector('.countdown-badge');
+                if (!countdownBadge) return;
+
+                let content = '';
+                let dotClass = '';
+
+                if (now < eventStart) {
+                    // Event is in the future
+                    const diffMs = eventStart - now;
+                    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                    const diffMinutes = Math.floor((diffMs % (1000 * 60 * 60)) / (1000 * 60));
+                    content = `${diffHours}H ${diffMinutes}M`;
+                    dotClass = 'dot-orange';
+                } else if (now >= eventStart && now <= eventEnd) {
+                    // Event is live
+                    content = 'LIVE';
+                    dotClass = 'dot-green';
+                } else {
+                    // Event has ended
+                    content = 'ENDED';
+                    dotClass = 'dot-red';
+                }
+
+                countdownBadge.innerHTML = `<span class="status-dot ${dotClass}"></span><span>${content}</span>`;
+            });
         }
 
         // Function to load events from GitHub
@@ -299,6 +406,7 @@
                 }
                 
                 const eventData = await response.json();
+                window.allEvents = eventData; // Store globally for countdown update
 
                 // Clear loading messages
                 todayEventsContainer.innerHTML = '';
@@ -309,6 +417,9 @@
                     eventData.today_events.forEach(event => {
                         todayEventsContainer.innerHTML += createEventCard(event, true);
                     });
+                    // Start updating countdown every minute for today's events
+                    setInterval(updateCountdown, 60 * 1000); // Update every minute
+                    updateCountdown(); // Initial call
                 } else {
                     todayEventsContainer.innerHTML = '<div class="no-events">No events scheduled for today</div>';
                 }
