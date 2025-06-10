@@ -112,6 +112,15 @@
             margin-bottom: 0.5rem;
         }
 
+        .event-time {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            margin-bottom: 0.8rem;
+        }
+
         .event-name {
             font-size: 1.3rem;
             font-weight: 600;
@@ -173,6 +182,20 @@
             margin-bottom: 0.5rem;
         }
 
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            font-size: 1.2rem;
+        }
+
+        .error-message {
+            background: rgba(255, 0, 0, 0.2);
+            padding: 1rem;
+            border-radius: var(--card-radius);
+            text-align: center;
+            margin: 1rem 0;
+        }
+
         @media (max-width: 768px) {
             .events-container {
                 grid-template-columns: 1fr;
@@ -204,121 +227,20 @@
 
         <div id="today" class="tab-content active">
             <div class="events-container" id="today-events">
-                <!-- Today's events will be inserted here by JavaScript -->
+                <div class="loading">Loading today's events...</div>
             </div>
         </div>
 
         <div id="upcoming" class="tab-content">
             <div class="events-container" id="upcoming-events">
-                <!-- Upcoming events will be inserted here by JavaScript -->
+                <div class="loading">Loading upcoming events...</div>
             </div>
         </div>
     </div>
 
     <script>
-        // Event data (in a real scenario, you would fetch this from activities.json)
-        const eventData = {
-            "today_events": [
-                {
-                    "date": "2025-06-10",
-                    "event name": "BREATHE IN DONT BURN OUT",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/YRj11TxEtFGAQjKv8",
-                    "status": "today"
-                },
-                {
-                    "date": "2025-06-10",
-                    "event name": "IGNITE YOUR CONFIDENCE",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/ZkPB3XmpgXPqTofx5",
-                    "status": "today"
-                }
-            ],
-            "upcoming_events": [
-                {
-                    "date": "2025-06-11",
-                    "event name": "孟母4Q",
-                    "venue": "Cisco Webex",
-                    "fee": "Free",
-                    "registration link": "https://forms.gle/sqFFHQkZ9zX9osGDA",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-11",
-                    "event name": "USM KKJ Online Chess Arena 2025",
-                    "venue": "Lichess.org",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-11",
-                    "event name": "How Student Engineers Can Lead Sustainable Change",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-11",
-                    "event name": "理大工程系分院华文班 | 文化碰碰乐",
-                    "venue": "Cafe Lembaran, USMKKJ",
-                    "fee": 1,
-                    "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd8miggZ7AjYvo-zWBRrj86_itD8Cj6rPPGQdfZKQoKV-wtow/closedform",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-11",
-                    "event name": "Bengkel Penulisan Skrip: Tinta Pentas",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScndr5qGEuqhqG3h79G2N5rvBJGILB0qQAGYkD6VNi6lFaQYQ/viewform?usp=header",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-12",
-                    "event name": "Physics Coffee Talk – Understanding Via The Postulates Of Quantum Mechanics",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/5ooAZovSS6pmmHwj6",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-13",
-                    "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
-                    "venue": "Online",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-16",
-                    "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-16",
-                    "event name": "Unmasking Emotions: Be Real, Be You!",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
-                    "status": "upcoming"
-                },
-                {
-                    "date": "2025-06-25",
-                    "event name": "EXCHANGE STUDENT TALK – Beyond Borders: Exploring International Opportunities",
-                    "venue": "Cisco Webex",
-                    "fee": 1,
-                    "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc31MqQdTGRH8lz8OzilpGYFrxM3s7GK-cAJoVapO4vydMiwg/viewform?usp=preview",
-                    "status": "upcoming"
-                }
-            ]
-        };
+        // URL to your JSON file on GitHub (use raw.githubusercontent.com)
+        const JSON_URL = 'https://raw.githubusercontent.com/mycsd/mycsd/main/activities.json';
 
         // Function to format date
         function formatDate(dateString) {
@@ -326,12 +248,27 @@
             return new Date(dateString).toLocaleDateString('en-US', options);
         }
 
+        // Function to format time (24h to 12h format)
+        function formatTime(timeString) {
+            if (!timeString) return '';
+            const [hours, minutes] = timeString.split(':');
+            const hour = parseInt(hours);
+            const ampm = hour >= 12 ? 'PM' : 'AM';
+            const hour12 = hour % 12 || 12;
+            return `${hour12}:${minutes} ${ampm}`;
+        }
+
         // Function to create event card HTML
         function createEventCard(event, isToday = false) {
+            const startTime = formatTime(event.time);
+            const endTime = formatTime(event['end time']);
+            const timeDisplay = startTime && endTime ? `${startTime} - ${endTime}` : startTime || '';
+
             return `
                 <div class="event-card">
                     ${isToday ? '<div class="today-badge">Happening Today</div>' : ''}
                     <div class="event-date">${formatDate(event.date)}</div>
+                    ${timeDisplay ? `<div class="event-time">${timeDisplay}</div>` : ''}
                     <h3 class="event-name">${event['event name']}</h3>
                     <div class="event-details">
                         <div class="detail-item">
@@ -348,20 +285,47 @@
             `;
         }
 
-        // Function to load events
-        function loadEvents() {
+        // Function to load events from GitHub
+        async function loadEvents() {
             const todayEventsContainer = document.getElementById('today-events');
             const upcomingEventsContainer = document.getElementById('upcoming-events');
 
-            // Load today's events
-            eventData.today_events.forEach(event => {
-                todayEventsContainer.innerHTML += createEventCard(event, true);
-            });
+            try {
+                // Fetch the JSON data from GitHub
+                const response = await fetch(JSON_URL);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const eventData = await response.json();
 
-            // Load upcoming events
-            eventData.upcoming_events.forEach(event => {
-                upcomingEventsContainer.innerHTML += createEventCard(event);
-            });
+                // Clear loading messages
+                todayEventsContainer.innerHTML = '';
+                upcomingEventsContainer.innerHTML = '';
+
+                // Load today's events
+                if (eventData.today_events && eventData.today_events.length > 0) {
+                    eventData.today_events.forEach(event => {
+                        todayEventsContainer.innerHTML += createEventCard(event, true);
+                    });
+                } else {
+                    todayEventsContainer.innerHTML = '<div class="no-events">No events scheduled for today</div>';
+                }
+
+                // Load upcoming events
+                if (eventData.upcoming_events && eventData.upcoming_events.length > 0) {
+                    eventData.upcoming_events.forEach(event => {
+                        upcomingEventsContainer.innerHTML += createEventCard(event);
+                    });
+                } else {
+                    upcomingEventsContainer.innerHTML = '<div class="no-events">No upcoming events scheduled</div>';
+                }
+            } catch (error) {
+                console.error('Error loading events:', error);
+                todayEventsContainer.innerHTML = `<div class="error-message">Failed to load events. Please try again later.</div>`;
+                upcomingEventsContainer.innerHTML = `<div class="error-message">Failed to load events. Please try again later.</div>`;
+            }
         }
 
         // Function to switch tabs
