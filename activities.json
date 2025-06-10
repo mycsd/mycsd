@@ -19,16 +19,6 @@
       "fee": 1,
       "registration link": "https://forms.gle/ZkPB3XmpgXPqTofx5",
       "status": "today"
-    },
-    {
-      "date": "2025-06-10",
-      "event name": "NEW MYCSD WEB",
-      "time": "23:30",
-      "end time": "23:45",
-      "venue": "GITHUB",
-      "fee": "Free",
-      "registration link": "",
-      "status": "today"
     }
   ],
   "upcoming_events": [
@@ -36,30 +26,10 @@
       "date": "2025-06-11",
       "event name": "孟母4Q",
       "time": "15:00",
-      "end time": "16:00",
+      "end time": "16:30",
       "venue": "Cisco Webex",
       "fee": "Free",
       "registration link": "https://forms.gle/sqFFHQkZ9zX9osGDA",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "USM KKJ Online Chess Arena 2025",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Lichess.org",
-      "fee": 1,
-      "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "How Student Engineers Can Lead Sustainable Change",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
       "status": "upcoming"
     },
     {
@@ -80,6 +50,26 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScndr5qGEuqhqG3h79G2N5rvBJGILB0qQAGYkD6VNi6lFaQYQ/viewform?usp=header",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "How Student Engineers Can Lead Sustainable Change",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-11",
+      "event name": "Online Chess Arena 2025",
+      "time": "21:00",
+      "end time": "22:00",
+      "venue": "Lichess.org",
+      "fee": 1,
+      "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
       "status": "upcoming"
     },
     {
@@ -104,22 +94,22 @@
     },
     {
       "date": "2025-06-16",
-      "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
-      "time": "20:00",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-06-16",
       "event name": "Unmasking Emotions: Be Real, Be You!",
       "time": "19:45",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-16",
+      "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
       "status": "upcoming"
     },
     {
