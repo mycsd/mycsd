@@ -1,58 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-11",
-      "event name": "孟母4Q",
-      "time": "15:00",
-      "end time": "16:30",
-      "venue": "Cisco Webex",
-      "fee": "Free",
-      "registration link": "https://forms.gle/sqFFHQkZ9zX9osGDA",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "理大工程系分院华文班 | 文化碰碰乐",
-      "time": "17:30",
-      "end time": "19:30",
-      "venue": "Cafe Lembaran, USMKKJ",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd8miggZ7AjYvo-zWBRrj86_itD8Cj6rPPGQdfZKQoKV-wtow/closedform",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "Bengkel Penulisan Skrip: Tinta Pentas",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScndr5qGEuqhqG3h79G2N5rvBJGILB0qQAGYkD6VNi6lFaQYQ/viewform?usp=header",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "How Student Engineers Can Lead Sustainable Change",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/22LgkK2naKVZd48SA",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-11",
-      "event name": "Online Chess Arena 2025",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Lichess.org",
-      "fee": 1,
-      "registration link": "https://forms.gle/QB4iPvLDBqLC2zwe8",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-12",
       "event name": "Physics Coffee Talk – Understanding Via The Postulates Of Quantum Mechanics",
       "time": "20:00",
@@ -60,26 +8,38 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/5ooAZovSS6pmmHwj6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-13",
       "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
       "time": "20:00",
       "end time": "21:00",
-      "venue": "Online",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
       "status": "upcoming"
     },
     {
-      "date": "2025-06-16",
-      "event name": "Unmasking Emotions: Be Real, Be You!",
-      "time": "19:45",
+      "date": "2025-06-13",
+      "event name": "Safeguarding Your Future: Strategies for Financial Protection in Uncertain Times",
+      "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/kNeNeRn8VbU8jrN26",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-14",
+      "event name": "TALK: TVET",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
+      "registration link": "https://forms.gle/kRLVJkkGdL6wAJQS6",
       "status": "upcoming"
     },
     {
@@ -93,6 +53,26 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-06-16",
+      "event name": "Unmasking Emotions: Be Real, Be You!",
+      "time": "19:45",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-17",
+      "event name": "SAVE OUR SMILE : ROHANI SEJAHTERA (S.O.S)",
+      "time": "19:45",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjQckSU8ynur1LZ4VOHFedUc052KDN-GCHjldOpHzQAhKy1g/viewform",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-06-25",
       "event name": "EXCHANGE STUDENT TALK – Beyond Borders: Exploring International Opportunities",
       "time": "15:00",
@@ -100,6 +80,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc31MqQdTGRH8lz8OzilpGYFrxM3s7GK-cAJoVapO4vydMiwg/viewform?usp=preview",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-26",
+      "event name": "Wired for Control: The World of Embedded Systems",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tAmTPb7EZsaMDmiW7",
       "status": "upcoming"
     }
   ]
