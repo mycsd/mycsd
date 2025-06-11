@@ -372,14 +372,8 @@
 
                 if (!originalEvent) return; // Skip if event not found in the original data structure
 
-                const [startHourStr, startMinuteStr] = originalEvent.time.split(':');
-                const [endHourStr, endMinuteStr] = originalEvent['end time'].split(':');
-
-                const eventStart = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
-                eventStart.setHours(parseInt(startHourStr), parseInt(startMinuteStr), 0, 0);
-
-                const eventEnd = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
-                eventEnd.setHours(parseInt(endHourStr), parseInt(endMinuteStr), 0, 0);
+                const eventStart = new Date(`${originalEvent.date}T${originalEvent.time}:00+08:00`);
+                const eventEnd = new Date(`${originalEvent.date}T${originalEvent['end time']}:00+08:00`);
 
                 const countdownBadge = card.querySelector('.countdown-badge');
                 if (!countdownBadge) return;
