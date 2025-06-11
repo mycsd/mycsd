@@ -3,7 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USM Events</title>
+    <title>Events</title>
+
+    <link rel="icon" href="/sahur%20eye.png" type="image/png"> 
+    <link rel="apple-touch-icon" href="/sahur%20eye.png"> 
+    
+
     <style>
         :root {
             --primary-color: rgba(255, 255, 255, 0.8);
@@ -316,6 +321,16 @@
                 countdownBadge = `<div class="countdown-badge" id="countdown-${event['event name'].replace(/\s/g, '-')}-${event.date}"></div>`;
             }
 
+            // Determine registration button text and link
+            const registrationLink = event['registration link'];
+            let buttonText = 'Register Now';
+            let hrefLink = registrationLink;
+
+            if (!registrationLink || registrationLink.toLowerCase() === 'walk in') {
+                buttonText = 'Walk In';
+                hrefLink = '#'; // Or a specific page for walk-ins if you have one
+            }
+
             return `
                 <div class="event-card">
                     ${isToday ? '<div class="today-badge">Today</div>' : ''}
@@ -330,10 +345,10 @@
                         </div>
                         <div class="detail-item">
                             <i>💵</i>
-                            <span>Fee: ${event.fee === 0 ? 'Free' : `${event.fee}`}</span>
+                            <span>Fee: ${event.fee === 0 ? 'Free' : `RM${event.fee}`}</span>
                         </div>
                     </div>
-                    <a href="${event['registration link']}" target="_blank" class="register-btn">Register Now</a>
+                    <a href="${hrefLink}" target="_blank" class="register-btn">${buttonText}</a>
                 </div>
             `;
         }
@@ -349,12 +364,13 @@
             eventCards.forEach(card => {
                 const eventName = card.querySelector('.event-name').textContent;
                 const eventDateText = card.querySelector('.event-date').textContent;
-                const eventTimeText = card.querySelector('.event-time') ? card.querySelector('.event-time').textContent : '';
+                // const eventTimeText = card.querySelector('.event-time') ? card.querySelector('.event-time').textContent : ''; // Not needed for logic
 
-                // Extract original time strings from the event object if available (better for precise calculation)
+                // Extract original time strings from the event object for precise calculation
+                // It's better to get the event data directly from window.allEvents if available
                 const originalEvent = window.allEvents.today_events.find(e => e['event name'] === eventName && formatDate(e.date) === eventDateText);
 
-                if (!originalEvent) return; // Skip if event not found in the original data
+                if (!originalEvent) return; // Skip if event not found in the original data structure
 
                 const [startHourStr, startMinuteStr] = originalEvent.time.split(':');
                 const [endHourStr, endMinuteStr] = originalEvent['end time'].split(':');
