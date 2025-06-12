@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-12",
-      "event name": "Physics Coffee Talk – Understanding Via The Postulates Of Quantum Mechanics",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/5ooAZovSS6pmmHwj6",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-13",
       "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
       "time": "20:00",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-13",
@@ -30,6 +18,18 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://forms.gle/kNeNeRn8VbU8jrN26",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
+    {
+      "date": "2025-06-14",
+      "event name": "Journey Into Traditional Moves 2.0",
+      "time": "10:00",
+      "end time": "11:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/zpWqQmCd7Ljywhvw6",
       "status": "upcoming"
     },
     {
