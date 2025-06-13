@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-13",
-      "event name": "Safeguarding Your Future: Strategies for Financial Protection in Uncertain Times",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/kNeNeRn8VbU8jrN26",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-14",
       "event name": "Journey Into Traditional Moves 2.0",
       "time": "10:00",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/zpWqQmCd7Ljywhvw6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-14",
@@ -30,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/kRLVJkkGdL6wAJQS6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-16",
       "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
