@@ -13,16 +13,6 @@
   ],
   "upcoming_events": [
     {
-      "date": "2025-06-16",
-      "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
-      "status": "upcoming"
-    },
-    {
       "date": "2025-06-14",
       "event name": "Journey Into Traditional Moves 2.0",
       "time": "10:00",
@@ -50,6 +40,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-16",
+      "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
       "status": "upcoming"
     },
     {
