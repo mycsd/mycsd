@@ -1,26 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-06-14",
-      "event name": "Journey Into Traditional Moves 2.0",
-      "time": "10:00",
-      "end time": "11:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/zpWqQmCd7Ljywhvw6",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-14",
-      "event name": "TALK: TVET",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/kRLVJkkGdL6wAJQS6",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-06-16",
