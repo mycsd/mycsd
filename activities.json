@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-16",
-      "event name": "Beauty Without Compromise – Choosing the Right Product for Your Skin",
-      "time": "20:00",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/6uNbZchN8vtWmaAT8",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-16",
-      "event name": "RC Plane Club Online Talk Series: Airworthiness – Ensuring Safety And Reliability In Aviation",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/mttzSzXzCUSvkrRN6",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-16",
-      "event name": "Unmasking Emotions: Be Real, Be You!",
-      "time": "19:45",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/dgoEb9yZkNCDvvC9A",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-17",
       "event name": "SAVE OUR SMILE : ROHANI SEJAHTERA (S.O.S)",
       "time": "19:45",
@@ -40,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjQckSU8ynur1LZ4VOHFedUc052KDN-GCHjldOpHzQAhKy1g/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-18",
       "event name": "Infineon Career Talk",
