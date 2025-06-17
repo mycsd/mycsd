@@ -24,22 +24,22 @@
     },
     {
       "date": "2025-06-18",
-      "event name": "Let's Talk Minda Sihat 2.0",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2IwCy2k_b04AxGf0edVeFoYw7ULyW9h6Fg7NIO-PBN__8EQ/viewform?usp=header",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-06-18",
       "event name": "迎战HSK：照亮你的未来！",
       "time": "14:00",
       "end time": "16:00",
       "venue": "Cisco Webex",
       "fee": "Free",
       "registration link": "https://forms.gle/ZPTHWbgxJQsWpwXKA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-18",
+      "event name": "Let's Talk Minda Sihat 2.0",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2IwCy2k_b04AxGf0edVeFoYw7ULyW9h6Fg7NIO-PBN__8EQ/viewform?usp=header",
       "status": "upcoming"
     },
     {
