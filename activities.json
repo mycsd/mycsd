@@ -1,26 +1,14 @@
 {
   "today_events": [
     {
-      "date": "2025-06-17",
-      "event name": "SAVE OUR SMILE : ROHANI SEJAHTERA (S.O.S)",
-      "time": "19:45",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjQckSU8ynur1LZ4VOHFedUc052KDN-GCHjldOpHzQAhKy1g/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-18",
       "event name": "Infineon Career Talk",
       "time": "14:00",
       "end time": "17:00",
       "venue": "DK5 USMKKJ",
-      "fee": "Free",
+      "fee": "✨Free",
       "registration link": "https://forms.gle/VDuXHU8eFVHYo5B68",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-18",
@@ -28,9 +16,9 @@
       "time": "14:00",
       "end time": "16:00",
       "venue": "Cisco Webex",
-      "fee": "Free",
+      "fee": "✨Free",
       "registration link": "https://forms.gle/ZPTHWbgxJQsWpwXKA",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-18",
@@ -40,6 +28,38 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2IwCy2k_b04AxGf0edVeFoYw7ULyW9h6Fg7NIO-PBN__8EQ/viewform?usp=header",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
+    {
+      "date": "2025-06-19",
+      "event name": "Burnout Alert: How to Stay Calm When Life Gets Too Academic!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSffPLXGLfoA-9DyKiSZC5XNBaeQ1Vn12hB6imjciVu_uLfXDQ/viewform?usp=dialog",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-20",
+      "event name": "Rig Life & Rock Science: An Offshore Adventure",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "Microsoft Teams",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSevH0SPcQb58Kj8moHcLSApJKOe7s9S6Gp5odKbQqXZnCttnA/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-21",
+      "event name": "ONLINE TALK ADVOKASI KEPENGGUNAAN SISWA",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/SxMFkZfoktTUrenX8",
       "status": "upcoming"
     },
     {
@@ -70,6 +90,26 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/tAmTPb7EZsaMDmiW7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-28",
+      "event name": "NEON GROOVY",
+      "time": "08:00",
+      "end time": "12:00",
+      "venue": "Dewan PUMA USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/QoRg8gSqK9EZbJD37",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-28",
+      "event name": "Program Celik Saham Kewangan & Kerja 2.0",
+      "time": "10:00",
+      "end time": "13:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
       "status": "upcoming"
     }
   ]
