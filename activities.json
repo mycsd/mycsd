@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-18",
-      "event name": "Infineon Career Talk",
-      "time": "14:00",
-      "end time": "17:00",
-      "venue": "DK5 USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/VDuXHU8eFVHYo5B68",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-18",
-      "event name": "迎战HSK：照亮你的未来！",
-      "time": "14:00",
-      "end time": "16:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/ZPTHWbgxJQsWpwXKA",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-18",
-      "event name": "Let's Talk Minda Sihat 2.0",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2IwCy2k_b04AxGf0edVeFoYw7ULyW9h6Fg7NIO-PBN__8EQ/viewform?usp=header",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-19",
       "event name": "Burnout Alert: How to Stay Calm When Life Gets Too Academic!",
       "time": "20:00",
@@ -40,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSffPLXGLfoA-9DyKiSZC5XNBaeQ1Vn12hB6imjciVu_uLfXDQ/viewform?usp=dialog",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-20",
       "event name": "Rig Life & Rock Science: An Offshore Adventure",
