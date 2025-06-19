@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-19",
-      "event name": "Burnout Alert: How to Stay Calm When Life Gets Too Academic!",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSffPLXGLfoA-9DyKiSZC5XNBaeQ1Vn12hB6imjciVu_uLfXDQ/viewform?usp=dialog",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-20",
       "event name": "Rig Life & Rock Science: An Offshore Adventure",
       "time": "14:30",
@@ -20,8 +8,10 @@
       "venue": "Microsoft Teams",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSevH0SPcQb58Kj8moHcLSApJKOe7s9S6Gp5odKbQqXZnCttnA/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-21",
       "event name": "ONLINE TALK ADVOKASI KEPENGGUNAAN SISWA",
