@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-20",
-      "event name": "Rig Life & Rock Science: An Offshore Adventure",
-      "time": "14:30",
-      "end time": "16:00",
-      "venue": "Microsoft Teams",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSevH0SPcQb58Kj8moHcLSApJKOe7s9S6Gp5odKbQqXZnCttnA/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-21",
       "event name": "ESG Forum 2025",
       "time": "10:00",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://forms.gle/gBbozquDtAxoZVmz8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-06-21",
@@ -30,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/SxMFkZfoktTUrenX8",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-22",
       "event name": "AUTISME: KEUPAYAAN BERBEZA, POTENSI LUAR BIASA",
