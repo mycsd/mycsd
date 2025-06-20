@@ -14,6 +14,16 @@
   "upcoming_events": [
     {
       "date": "2025-06-21",
+      "event name": "ESG Forum 2025",
+      "time": "10:00",
+      "end time": "12:15",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/gBbozquDtAxoZVmz8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-21",
       "event name": "ONLINE TALK ADVOKASI KEPENGGUNAAN SISWA",
       "time": "20:00",
       "end time": "22:00",
@@ -40,6 +50,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc31MqQdTGRH8lz8OzilpGYFrxM3s7GK-cAJoVapO4vydMiwg/viewform?usp=preview",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-25",
+      "event name": "Final Exam Advanced Calculus Tips",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/E6KiCdX3BHGoUEQ39",
       "status": "upcoming"
     },
     {
