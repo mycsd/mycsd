@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-06-22",
-      "event name": "AUTISME: KEUPAYAAN BERBEZA, POTENSI LUAR BIASA",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/hp2e1oUGXSCGLc5N9",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-06-25",
