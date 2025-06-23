@@ -50,6 +50,26 @@
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-06-25",
+      "event name": "Final Exam Advanced Calculus Tips",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/E6KiCdX3BHGoUEQ39",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-06-26",
+      "event name": "TVET TALKS : KEPIMPINAN MASA DEPAN IBOS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/JXaaWnappnswQ5K1A",
+      "status": "upcoming"
     }
   ]
 }
