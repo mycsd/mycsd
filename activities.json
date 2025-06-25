@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-06-25",
-      "event name": "EXCHANGE STUDENT TALK – Beyond Borders: Exploring International Opportunities",
-      "time": "15:00",
-      "end time": "17:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc31MqQdTGRH8lz8OzilpGYFrxM3s7GK-cAJoVapO4vydMiwg/viewform?usp=preview",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-25",
-      "event name": "Final Exam Advanced Calculus Tips",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/E6KiCdX3BHGoUEQ39",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-25",
-      "event name": "Final Exam Advanced Calculus Tips",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/E6KiCdX3BHGoUEQ39",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-06-26",
       "event name": "Wired for Control: The World of Embedded Systems",
       "time": "20:30",
@@ -40,8 +8,20 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/tAmTPb7EZsaMDmiW7",
-      "status": "upcoming"
+      "status": "today"
     },
+    {
+      "date": "2025-06-26",
+      "event name": "TVET TALKS : KEPIMPINAN MASA DEPAN IBOS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/JXaaWnappnswQ5K1A",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-06-28",
       "event name": "NEON GROOVY",
@@ -60,16 +40,6 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-06-26",
-      "event name": "TVET TALKS : KEPIMPINAN MASA DEPAN IBOS",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/JXaaWnappnswQ5K1A",
       "status": "upcoming"
     }
   ]
