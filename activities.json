@@ -1,43 +1,43 @@
 {
   "today_events": [
     {
-      "date": "2025-06-26",
-      "event name": "Wired for Control: The World of Embedded Systems",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/tAmTPb7EZsaMDmiW7",
-      "status": "today"
-    },
-    {
-      "date": "2025-06-26",
-      "event name": "TVET TALKS : KEPIMPINAN MASA DEPAN IBOS",
+      "date": "2025-08-05",
+      "event name": "tes1",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/JXaaWnappnswQ5K1A",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
       "status": "today"
     }
   ],
   "upcoming_events": [
     {
-      "date": "2025-06-28",
-      "event name": "NEON GROOVY",
-      "time": "08:00",
-      "end time": "12:00",
-      "venue": "Dewan PUMA USMKKJ",
+      "date": "2025-08-06",
+      "event name": "tes2",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
       "fee": "✨Free",
-      "registration link": "https://forms.gle/QoRg8gSqK9EZbJD37",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
       "status": "upcoming"
     },
     {
-      "date": "2025-06-28",
-      "event name": "Program Celik Saham Kewangan & Kerja 2.0",
-      "time": "10:00",
-      "end time": "13:00",
+      "date": "2025-08-07",
+      "event name": "tes3",
+      "time": "20:00",
+      "end time": "22:00",
       "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-08-08",
+      "event name": "tes4",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "GITHUB",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
       "status": "upcoming"
