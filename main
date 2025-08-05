@@ -1,1 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
 
+    <link rel="icon" href="/mycsd/sahur%20eye.png" type="image/png">
+    <link rel="apple-touch-icon" href="/mycsd/sahur%20eye.png">
+    
+    <style>
+        :root {
+            --primary-color: rgba(255, 255, 255, 0.8);
+            --secondary-color: rgba(255, 255, 255, 0.6);
+            --glass-blur: 10px;
+            --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+            --card-radius: 20px;
+            --shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            color: white;
+            padding: 2rem;
+            display: flex; /* For centering the login form */
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        @keyframes gradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: none; /* Hide the content by default */
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 2rem;
+            gap: 1rem;
+        }
+
+        .tab {
+            padding: 0.8rem 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(var(--glass-blur));
+            border: var(--glass-border);
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .tab.active {
+            background: rgba(255, 255, 255, 0.3);
+            font-weight: 600;
+        }
+
+        .tab:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .events-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .event-card {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(var(--glass-blur));
+            border: var(--glass-border);
+            border-radius: var(--card-radius);
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow);
+            position: relative;
+        }
+
+        .event-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+        }
+
+        .event-date {
+            font-size: 0.9rem;
+            opacity: 0.8;
+            margin-bottom: 0.5rem;
+        }
+
+        .event-time {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.85rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .event-name {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            line-height: 1.3;
+        }
+
+        .event-details {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .detail-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.95rem;
+        }
+
+        .detail-item i {
+            opacity: 0.7;
+        }
+
+        .register-btn {
+            display: inline-block;
+            padding: 0.7rem 1.5rem;
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            border-radius: 50px;
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            text-align: center;
+        }
+
+        .register-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .today-badge {
+            background: rgba(255, 255, 255, 0.3);
+            padding: 0.3rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 0.5rem;
+        }
+
+        /* Countdown Badge Styles */
+        .countdown-badge {
+            position: absolute;
+            top: 1.5rem;
+            right: 1.5rem;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 0.4rem 0.8rem;
+            border-radius: 50px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+            animation: pulse 1.5s infinite;
+        }
+
+        .dot-orange { background-color: #FFC400; }
+        .dot-green { background-color: #32CD32; }
+        .dot-red { background-color: #D32F2F; animation: none; }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.2); opacity: 0.7; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            font-size: 1.2rem;
+        }
+
+        .error-message, .no-events {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 1rem;
+            border-radius: var(--card-radius);
+            text-align: center;
+            margin: 1rem 0;
+            opacity: 0.8;
+        }
+
+        @media (max-width: 768px) {
+            .events-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .tabs {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .tab {
+                width: 100%;
+                text-align: center;
+            }
+        }
+
+        /* Login Form Styles */
+        #login-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            align-items: center;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(var(--glass-blur));
+            border: var(--glass-border);
+            border-radius: var(--card-radius);
+            box-shadow: var(--shadow);
+            max-width: 400px;
+            width: 90%;
+            text-align: center;
+            transition: opacity 0.5s ease;
+        }
+
+        #login-container h2 {
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+
+        #password-input {
+            width: 100%;
+            padding: 0.8rem;
+            border: var(--glass-border);
+            border-radius: 50px;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            font-size: 1rem;
+            text-align: center;
+        }
+
+        #password-input::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        #password-input:focus {
+            outline: none;
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        #login-button {
+            width: 100%;
+            padding: 0.8rem;
+            border: none;
+            border-radius: 50px;
+            background: rgba(255, 255, 255, 0.4);
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        #login-button:hover {
+            background: rgba(255, 255, 255, 0.5);
+        }
+
+        #login-error {
+            color: #ffcccc;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div id="login-container">
+        <h2>Enter Passcode</h2>
+        <input type="password" id="password-input" placeholder="Enter password" autocomplete="off">
+        <button id="login-button">Login</button>
+        <p id="login-error">Incorrect password. Please try again.</p>
+    </div>
+
+    <div class="container" id="main-content">
+        <header>
+            <h1>EVENTS</h1>
+            <p class="subtitle">PLEASE DO NOT SHARE TO PUBLIC</p>
+        </header>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('today')">Today's Events</div>
+            <div class="tab" onclick="switchTab('upcoming')">Upcoming Events</div>
+        </div>
+
+        <div id="today" class="tab-content active">
+            <div class="events-container" id="today-events">
+                <div class="loading">Loading today's events...</div>
+            </div>
+        </div>
+
+        <div id="upcoming" class="tab-content">
+            <div class="events-container" id="upcoming-events">
+                <div class="loading">Loading upcoming events...</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // URL to your JSON file on GitHub (use raw.githubusercontent.com)
+        const JSON_URL = 'https://raw.githubusercontent.com/mycsd/mycsd/main/activities.json';
+        
+        // --- SECURE PASSWORD ---
+        // IMPORTANT: Replace 'your_secure_password_here' with a strong password.
+        const CORRECT_PASSWORD = 'your_secure_password_here';
+
+        // --- PASSWORD CHECK LOGIC ---
+        const loginContainer = document.getElementById('login-container');
+        const mainContent = document.getElementById('main-content');
+        const passwordInput = document.getElementById('password-input');
+        const loginButton = document.getElementById('login-button');
+        const loginError = document.getElementById('login-error');
+
+        function handleLogin() {
+            if (passwordInput.value === CORRECT_PASSWORD) {
+                // Correct password, show the main content
+                loginContainer.style.opacity = '0';
+                setTimeout(() => {
+                    loginContainer.style.display = 'none';
+                    mainContent.style.display = 'block';
+                    loadEvents(); // Load the events only after successful login
+                }, 500); // Wait for the fade-out transition
+            } else {
+                // Incorrect password, show error message
+                loginError.style.opacity = '1';
+                setTimeout(() => {
+                    loginError.style.opacity = '0';
+                }, 2000); // Hide error after 2 seconds
+            }
+        }
+
+        loginButton.addEventListener('click', handleLogin);
+        passwordInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                handleLogin();
+            }
+        });
+        
+        // --- EXISTING CODE FROM YOUR PAGE, MODIFIED TO BE CALLED AFTER LOGIN ---
+
+        function formatDate(dateString) {
+            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+            return new Date(dateString).toLocaleDateString('en-US', options);
+        }
+
+        function formatTime(timeString) {
+            if (!timeString) return '';
+            const [hours, minutes] = timeString.split(':');
+            const hour = parseInt(hours);
+            const ampm = hour >= 12 ? 'PM' : 'AM';
+            const hour12 = hour % 12 || 12;
+            return `${hour12}:${minutes} ${ampm}`;
+        }
+
+        function getCurrentTimePenang() {
+            const now = new Date();
+            const options = {
+                timeZone: 'Asia/Kuala_Lumpur',
+                hour: '2-digit',
+                minute: '2-digit',
+                hourCycle: 'h23'
+            };
+            return now.toLocaleTimeString('en-US', options);
+        }
+
+        function createEventCard(event, isToday = false) {
+            const startTime = formatTime(event.time);
+            const endTime = formatTime(event['end time']);
+            const timeDisplay = startTime && endTime ? `${startTime} - ${endTime}` : startTime || '';
+            let countdownBadge = '';
+            if (isToday) {
+                countdownBadge = `<div class="countdown-badge" id="countdown-${event['event name'].replace(/\s/g, '-')}-${event.date}"></div>`;
+            }
+
+            const registrationLink = event['registration link'];
+            let buttonText = 'Register Now';
+            let hrefLink = registrationLink;
+
+            if (!registrationLink || registrationLink.toLowerCase() === 'walk in') {
+                buttonText = 'Walk In';
+                hrefLink = '#';
+            }
+
+            return `
+                <div class="event-card">
+                    ${isToday ? '<div class="today-badge">Today</div>' : ''}
+                    ${countdownBadge}
+                    <div class="event-date">${formatDate(event.date)}</div>
+                    ${timeDisplay ? `<div class="event-time">${timeDisplay}</div>` : ''}
+                    <h3 class="event-name">${event['event name']}</h3>
+                    <div class="event-details">
+                        <div class="detail-item">
+                            <i>📍</i>
+                            <span>${event.venue}</span>
+                        </div>
+                        <div class="detail-item">
+                            <i>💵</i>
+                            <span>Fee: ${event.fee === 0 ? 'Free' : `${event.fee}`}</span>
+                        </div>
+                    </div>
+                    <a href="${hrefLink}" target="_blank" class="register-btn">${buttonText}</a>
+                </div>
+            `;
+        }
+
+        function updateCountdown() {
+            const todayEventsContainer = document.getElementById('today-events');
+            const eventCards = todayEventsContainer.querySelectorAll('.event-card');
+            const now = new Date();
+            const today = new Date(now.toLocaleString('en-US', { timeZone: 'Asia/Kuala_Lumpur' }));
+            today.setHours(0, 0, 0, 0);
+
+            eventCards.forEach(card => {
+                const eventName = card.querySelector('.event-name').textContent;
+                const eventDateText = card.querySelector('.event-date').textContent;
+                const originalEvent = window.allEvents.today_events.find(e => e['event name'] === eventName && formatDate(e.date) === eventDateText);
+                if (!originalEvent) return;
+
+                const eventStart = new Date(`${originalEvent.date}T${originalEvent.time}:00+08:00`);
+                const eventEnd = new Date(`${originalEvent.date}T${originalEvent['end time']}:00+08:00`);
+
+                const countdownBadge = card.querySelector('.countdown-badge');
+                if (!countdownBadge) return;
+
+                let content = '';
+                let dotClass = '';
+
+                if (now < eventStart) {
+                    const diffMs = eventStart - now;
+                    const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
+                    const diffMinutes = Math.floor((diffMs % (1000 * 60 * 60)) / (1000 * 60));
+                    content = `${diffHours}H ${diffMinutes}M`;
+                    dotClass = 'dot-orange';
+                } else if (now >= eventStart && now <= eventEnd) {
+                    content = 'LIVE';
+                    dotClass = 'dot-green';
+                } else {
+                    content = 'ENDED';
+                    dotClass = 'dot-red';
+                }
+
+                countdownBadge.innerHTML = `<span class="status-dot ${dotClass}"></span><span>${content}</span>`;
+            });
+        }
+
+        async function loadEvents() {
+            const todayEventsContainer = document.getElementById('today-events');
+            const upcomingEventsContainer = document.getElementById('upcoming-events');
+
+            try {
+                const response = await fetch(JSON_URL);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                const eventData = await response.json();
+                window.allEvents = eventData;
+
+                todayEventsContainer.innerHTML = '';
+                upcomingEventsContainer.innerHTML = '';
+
+                if (eventData.today_events && eventData.today_events.length > 0) {
+                    eventData.today_events.forEach(event => {
+                        todayEventsContainer.innerHTML += createEventCard(event, true);
+                    });
+                    setInterval(updateCountdown, 60 * 1000);
+                    updateCountdown();
+                } else {
+                    todayEventsContainer.innerHTML = '<div class="no-events">No events scheduled for today</div>';
+                }
+
+                if (eventData.upcoming_events && eventData.upcoming_events.length > 0) {
+                    eventData.upcoming_events.forEach(event => {
+                        upcomingEventsContainer.innerHTML += createEventCard(event);
+                    });
+                } else {
+                    upcomingEventsContainer.innerHTML = '<div class="no-events">No upcoming events scheduled</div>';
+                }
+            } catch (error) {
+                console.error('Error loading events:', error);
+                todayEventsContainer.innerHTML = `<div class="error-message">Failed to load events. Please try again later.</div>`;
+                upcomingEventsContainer.innerHTML = `<div class="error-message">Failed to load events. Please try again later.</div>`;
+            }
+        }
+
+        function switchTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.getElementById(tabId).classList.add('active');
+            document.querySelector(`.tab[onclick="switchTab('${tabId}')"]`).classList.add('active');
+        }
+
+        // Initially, the events are not loaded. They are only loaded on successful login.
+        // window.onload = loadEvents; // Removed this line
+    </script>
+</body>
+</html>
