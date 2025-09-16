@@ -2,44 +2,24 @@
   "today_events": [
     {
       "date": "2025-09-16",
-      "event name": "test1",
+      "event name": "event 1",
       "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
+      "end time": "21:00",
+      "venue": "GITHUB",
+      "fee": "✨Free",
+      "registration link": "none",
       "status": "today"
     }
   ],
   "upcoming_events": [
     {
-      "date": "2025-09-16",
-      "event name": "test2",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
-      "status": "upcoming"
-    },
-    {
       "date": "2025-09-17",
-      "event name": "tes3",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-08-08",
-      "event name": "tes4",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "GITHUB",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRZV8Lp2AJxIWE0X9HRKBhoo6uqaBZr6vA0o6N6BrmaZIRVA/viewform",
+      "event name": "",
+      "time": "",
+      "end time": "",
+      "venue": "",
+      "fee": "",
+      "registration link": "",
       "status": "upcoming"
     }
   ]
