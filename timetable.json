@@ -1,27 +1,57 @@
 {
   "day": "Tuesday",
-  "timetable": {
-    "ELECTRONIC": {
-      "Sat Dec 30 1899 07:18:43 GMT+0655 (Singapore Standard Time)": "HFF225",
-      "Sat Dec 30 1899 08:18:43 GMT+0655 (Singapore Standard Time)": "HFF225",
-      "Sat Dec 30 1899 09:18:43 GMT+0655 (Singapore Standard Time)": "",
-      "Sat Dec 30 1899 10:18:43 GMT+0655 (Singapore Standard Time)": "EEE208",
-      "Sat Dec 30 1899 11:18:43 GMT+0655 (Singapore Standard Time)": "EEE208",
-      "Sat Dec 30 1899 12:18:43 GMT+0655 (Singapore Standard Time)": "",
-      "Sat Dec 30 1899 13:18:43 GMT+0655 (Singapore Standard Time)": "EEE231",
-      "Sat Dec 30 1899 14:18:43 GMT+0655 (Singapore Standard Time)": "EEE231",
-      "Sat Dec 30 1899 15:18:43 GMT+0655 (Singapore Standard Time)": "EEE231"
+  "timetable": [
+    {
+      "time": "",
+      "subject": "HFF225"
     },
-    "MECHATRONIC": {
-      "Sat Dec 30 1899 07:18:43 GMT+0655 (Singapore Standard Time)": "HFF225",
-      "Sat Dec 30 1899 08:18:43 GMT+0655 (Singapore Standard Time)": "HFF225",
-      "Sat Dec 30 1899 09:18:43 GMT+0655 (Singapore Standard Time)": "",
-      "Sat Dec 30 1899 10:18:43 GMT+0655 (Singapore Standard Time)": "EEM201",
-      "Sat Dec 30 1899 11:18:43 GMT+0655 (Singapore Standard Time)": "EEM201",
-      "Sat Dec 30 1899 12:18:43 GMT+0655 (Singapore Standard Time)": "",
-      "Sat Dec 30 1899 13:18:43 GMT+0655 (Singapore Standard Time)": "EEM242",
-      "Sat Dec 30 1899 14:18:43 GMT+0655 (Singapore Standard Time)": "EEM242",
-      "Sat Dec 30 1899 15:18:43 GMT+0655 (Singapore Standard Time)": ""
+    {
+      "time": "EEE228",
+      "subject": "HFF225"
+    },
+    {
+      "time": "EEE236",
+      "subject": "EEE208"
+    },
+    {
+      "time": "",
+      "subject": "EEE208"
+    },
+    {
+      "time": "EEE231",
+      "subject": "EEE231"
+    },
+    {
+      "time": "EEE231",
+      "subject": "EEE231"
+    },
+    {
+      "time": "EEE231",
+      "subject": "EEE231"
+    },
+    {
+      "time": "",
+      "subject": "HFF225"
+    },
+    {
+      "time": "EEE228",
+      "subject": "HFF225"
+    },
+    {
+      "time": "EEE236",
+      "subject": "EEM201"
+    },
+    {
+      "time": "",
+      "subject": "EEM201"
+    },
+    {
+      "time": "EEE231",
+      "subject": "EEM242"
+    },
+    {
+      "time": "EEE231",
+      "subject": "EEM242"
     }
-  }
+  ]
 }
