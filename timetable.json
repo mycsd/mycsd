@@ -1,56 +1,58 @@
 {
   "day": "Tuesday",
-  "timetable": [
+  "electronic": [
     {
-      "time": "",
+      "time": "1899-12-30T00:23:18.000Z",
       "subject": "HFF225"
     },
     {
-      "time": "EEE228",
+      "time": "1899-12-30T01:23:18.000Z",
       "subject": "HFF225"
     },
     {
-      "time": "EEE236",
+      "time": "1899-12-30T03:23:18.000Z",
       "subject": "EEE208"
     },
     {
-      "time": "",
+      "time": "1899-12-30T04:23:18.000Z",
       "subject": "EEE208"
     },
     {
-      "time": "EEE231",
+      "time": "1899-12-30T06:23:18.000Z",
       "subject": "EEE231"
     },
     {
-      "time": "EEE231",
+      "time": "1899-12-30T07:23:18.000Z",
       "subject": "EEE231"
     },
     {
-      "time": "EEE231",
+      "time": "1899-12-30T08:23:18.000Z",
       "subject": "EEE231"
-    },
+    }
+  ],
+  "mechatronic": [
     {
-      "time": "",
+      "time": "1899-12-30T00:23:18.000Z",
       "subject": "HFF225"
     },
     {
-      "time": "EEE228",
+      "time": "1899-12-30T01:23:18.000Z",
       "subject": "HFF225"
     },
     {
-      "time": "EEE236",
+      "time": "1899-12-30T03:23:18.000Z",
       "subject": "EEM201"
     },
     {
-      "time": "",
+      "time": "1899-12-30T04:23:18.000Z",
       "subject": "EEM201"
     },
     {
-      "time": "EEE231",
+      "time": "1899-12-30T06:23:18.000Z",
       "subject": "EEM242"
     },
     {
-      "time": "EEE231",
+      "time": "1899-12-30T07:23:18.000Z",
       "subject": "EEM242"
     }
   ]
