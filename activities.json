@@ -1,15 +1,15 @@
 {
-  "today_events": [
+  "today_events": [],
+  "upcoming_events": [
     {
-      "date": "2025-09-17",
-      "event name": "event 2",
-      "time": "",
-      "end time": "",
-      "venue": "",
-      "fee": "",
-      "registration link": "",
-      "status": "today"
+      "date": "2025-10-25",
+      "event name": "WMHD 2025: Your Mind Matters",
+      "time": "08:00",
+      "end time": "18:00",
+      "venue": "Google Form",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA",
+      "status": "upcoming"
     }
-  ],
-  "upcoming_events": []
+  ]
 }
