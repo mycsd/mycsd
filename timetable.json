@@ -1,35 +1,5 @@
 {
-  "day": "Wednesday",
-  "electronic": [
-    {
-      "time": "08:00",
-      "subject": "LSP201"
-    },
-    {
-      "time": "09:00",
-      "subject": "LSP201"
-    }
-  ],
-  "mechatronic": [
-    {
-      "time": "08:00",
-      "subject": "LSP201"
-    },
-    {
-      "time": "09:00",
-      "subject": "LSP201"
-    },
-    {
-      "time": "10:00",
-      "subject": "EEM223"
-    },
-    {
-      "time": "11:00",
-      "subject": "EEM223"
-    },
-    {
-      "time": "12:00",
-      "subject": "EEM201"
-    }
-  ]
+  "day": "Sunday",
+  "electronic": [],
+  "mechatronic": []
 }
