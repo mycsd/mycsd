@@ -1,8 +1,8 @@
 {
   "today_events": [
     {
-      "date": "2025-09-22",
-      "event name": "event 1",
+      "date": "2025-09-23",
+      "event name": "event 2",
       "time": "20:00",
       "end time": "22:00",
       "venue": "GITHUB",
@@ -12,26 +12,6 @@
     }
   ],
   "upcoming_events": [
-    {
-      "date": "2025-10-25",
-      "event name": "WMHD 2025: Your Mind Matters",
-      "time": "08:00",
-      "end time": "18:00",
-      "venue": "Google Form",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-09-23",
-      "event name": "event 2",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "GITHUB",
-      "fee": 1,
-      "registration link": "",
-      "status": "upcoming"
-    },
     {
       "date": "2025-09-24",
       "event name": "event 3",
@@ -50,6 +30,16 @@
       "venue": "GITHUB",
       "fee": "✨Free",
       "registration link": "",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-10-25",
+      "event name": "WMHD 2025: Your Mind Matters",
+      "time": "08:00",
+      "end time": "18:00",
+      "venue": "Google Form",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA",
       "status": "upcoming"
     }
   ]
