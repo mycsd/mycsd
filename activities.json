@@ -1,8 +1,8 @@
 {
   "today_events": [
     {
-      "date": "2025-09-24",
-      "event name": "event 3",
+      "date": "2025-09-25",
+      "event name": "event 4",
       "time": "20:00",
       "end time": "22:00",
       "venue": "GITHUB",
@@ -12,16 +12,6 @@
     }
   ],
   "upcoming_events": [
-    {
-      "date": "2025-09-25",
-      "event name": "event 4",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "GITHUB",
-      "fee": "✨Free",
-      "registration link": "",
-      "status": "upcoming"
-    },
     {
       "date": "2025-10-25",
       "event name": "WMHD 2025: Your Mind Matters",
