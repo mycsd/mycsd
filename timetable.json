@@ -1,47 +1,14 @@
 {
-  "day": "Thursday",
+  "day": "Friday",
   "electronic": [
     {
-      "time": "08:00",
-      "subject": "LSP201"
-    },
-    {
       "time": "10:00",
-      "subject": "EEE208"
+      "subject": "EEE244"
     },
     {
       "time": "11:00",
       "subject": "EEE244"
-    },
-    {
-      "time": "12:00",
-      "subject": "EEE244"
-    },
-    {
-      "time": "14:00",
-      "subject": "EEE228"
-    },
-    {
-      "time": "15:00",
-      "subject": "EEE228"
     }
   ],
-  "mechatronic": [
-    {
-      "time": "08:00",
-      "subject": "LSP201"
-    },
-    {
-      "time": "09:00",
-      "subject": "EEM223"
-    },
-    {
-      "time": "14:00",
-      "subject": "EEE228"
-    },
-    {
-      "time": "15:00",
-      "subject": "EEE228"
-    }
-  ]
+  "mechatronic": []
 }
