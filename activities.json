@@ -1,5 +1,16 @@
 {
-  "today_events": [],
+  "today_events": [
+    {
+      "date": "2025-10-07",
+      "event name": "ROADSHOW IDEA Fair 2025",
+      "time": "14:00",
+      "end time": "17:00",
+      "venue": "CAFE LEMBARAN",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/JUghL2mp9PzAZxMs5",
+      "status": "today"
+    }
+  ],
   "upcoming_events": [
     {
       "date": "2025-10-15",
