@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-10-15",
       "event name": "Beyond Boundaries Online Talk",
@@ -9,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyzxvCPNqJK8wsjeAjESp4vftUnCslZXlXldHp01Z1Nk9PRA/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-15",
@@ -19,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/eUr6rwztSJSsqZwn7",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-17",
       "event name": "Balancing: Health, Medicine & Happiness",
