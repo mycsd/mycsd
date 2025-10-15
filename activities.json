@@ -23,6 +23,16 @@
   ],
   "upcoming_events": [
     {
+      "date": "2025-10-16",
+      "event name": "SSI Volunteer Voices: Episode 1",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://tinyurl.com/SSIVV1-Registration",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-10-17",
       "event name": "Balancing: Health, Medicine & Happiness",
       "time": "20:00",
@@ -150,6 +160,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/SLNX7du3LfoW2Mf4A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "MedHealth Phase 3: Online Talk 2",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/aga12Pbs5LEJ6ps97",
       "status": "upcoming"
     }
   ]
