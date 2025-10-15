@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-15",
-      "event name": "Beyond Boundaries Online Talk",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyzxvCPNqJK8wsjeAjESp4vftUnCslZXlXldHp01Z1Nk9PRA/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-15",
-      "event name": "Beyond Prescriptions: Health Literacy in Action for Safe and Responsible Medicine Practices",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/eUr6rwztSJSsqZwn7",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-16",
       "event name": "SSI Volunteer Voices: Episode 1",
       "time": "20:00",
@@ -30,8 +8,10 @@
       "venue": "Webex",
       "fee": "✨Free",
       "registration link": "https://tinyurl.com/SSIVV1-Registration",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-17",
       "event name": "Balancing: Health, Medicine & Happiness",
