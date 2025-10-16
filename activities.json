@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-16",
-      "event name": "SSI Volunteer Voices: Episode 1",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVV1-Registration",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-17",
       "event name": "GREEN CONVEX Episode 1 – Ethics of Recycling",
       "time": "19:45",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex & YouTube",
       "fee": 1,
       "registration link": "https://forms.gle/TjMsEHKm8bQ5HsER6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-17",
@@ -30,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfg_N4ghIXbsyjUfHmszlFgwh--ETTskSmGAvalamoFoFsseA/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-23",
       "event name": "理工佛学会迎新夜",
