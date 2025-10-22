@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-10-23",
       "event name": "理工佛学会迎新夜",
@@ -9,7 +8,7 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/2YtZ9vsUMnvX8uyC8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-23",
@@ -19,7 +18,7 @@
       "venue": "Mechanical School MEK 2",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdvLmiRjMJChkpAWTrI8UR8WAQTDXvHz7BPl3-afl9s5smuAA/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-23",
@@ -29,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://tinyurl.com/Registration-Form-OT1",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-23",
@@ -39,8 +38,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/ZCqhrUs7nHQeijf68",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-24",
       "event name": "Zero Tolerance: Katakan Tidak Pada Buli dan Amang Seksual",
