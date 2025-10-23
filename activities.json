@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-23",
-      "event name": "理工佛学会迎新夜",
-      "time": "19:00",
-      "end time": "23:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/2YtZ9vsUMnvX8uyC8",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-23",
-      "event name": "ASHRAE USM Welcoming Night",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Mechanical School MEK 2",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdvLmiRjMJChkpAWTrI8UR8WAQTDXvHz7BPl3-afl9s5smuAA/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-23",
-      "event name": "Cancer Clues: What Early Signs Can Tell Us",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/Registration-Form-OT1",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-23",
-      "event name": "GREEN CONVEX Episode 2 – AI & Water Consumption",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/ZCqhrUs7nHQeijf68",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-24",
       "event name": "Zero Tolerance: Katakan Tidak Pada Buli dan Amang Seksual",
       "time": "20:30",
@@ -50,8 +8,10 @@
       "venue": "Microsoft Teams",
       "fee": 1,
       "registration link": "https://forms.gle/rjKgxWQvo1WnpBmK9",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-25",
       "event name": "WMHD 2025: Your Mind Matters",
