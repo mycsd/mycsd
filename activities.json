@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-24",
-      "event name": "Zero Tolerance: Katakan Tidak Pada Buli dan Amang Seksual",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Microsoft Teams",
-      "fee": 1,
-      "registration link": "https://forms.gle/rjKgxWQvo1WnpBmK9",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-25",
       "event name": "WMHD 2025: Your Mind Matters",
       "time": "08:00",
@@ -20,8 +8,10 @@
       "venue": "DSG USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-29",
       "event name": "IEEE Engagement Day 2025",
