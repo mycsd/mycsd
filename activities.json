@@ -1,19 +1,8 @@
 {
-  "today_events": [
-    {
-      "date": "2025-10-25",
-      "event name": "WMHD 2025: Your Mind Matters",
-      "time": "08:00",
-      "end time": "18:00",
-      "venue": "DSG USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
-      "date": "2025-10-29",
+      "date": "2025-10-28",
       "event name": "IEEE Engagement Day 2025",
       "time": "17:30",
       "end time": "20:00",
@@ -94,22 +83,22 @@
     },
     {
       "date": "2025-11-05",
-      "event name": "理工华乐团迎新夜",
-      "time": "19:00",
-      "end time": "22:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/x8br2MeHpWDWmth59",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-05",
       "event name": "IEEE USM Welcoming Day 2025",
       "time": "14:00",
       "end time": "16:00",
       "venue": "DSG USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdLVynCbz7T6C06bG2yO0Kna2GUOH5aeZ3SKsm7lPPbY_TJiA/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "理工华乐团迎新夜",
+      "time": "19:00",
+      "end time": "22:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/x8br2MeHpWDWmth59",
       "status": "upcoming"
     },
     {
