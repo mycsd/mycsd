@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-10-28",
       "event name": "IEEE Engagement Day 2025",
@@ -9,6 +8,18 @@
       "venue": "CAFE LEMBARAN USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdlK2ODUb7uFUQSbHWk8F594GdVU7l5yMLURCGs6wfdUUDfMw/viewform",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
+    {
+      "date": "2025-10-29",
+      "event name": "Japan Career Talk",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "Auditorium USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/tsYkLwLfRwchy3u36",
       "status": "upcoming"
     },
     {
@@ -19,6 +30,16 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://tinyurl.com/5btcfe47",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "Balancing Mind and Body: Complementary Therapies for Student Well-Being",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/dXZRoQUcZtNZFn1h8",
       "status": "upcoming"
     },
     {
@@ -43,6 +64,16 @@
     },
     {
       "date": "2025-10-30",
+      "event name": "PHARMATRADE WEBINAR 1 : Immunity in Aging",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://shorturl.at/RxNXO",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-10-30",
       "event name": "舞蹈组迎新夜",
       "time": "20:00",
       "end time": "22:30",
@@ -59,6 +90,16 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeds3DtZFk2crhHP1J8O-S49W9tG8LNj4U8P43wtJ_tHXov5g/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-10-31",
+      "event name": "SSI Volunteer Voices: Episode 2",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://tinyurl.com/SSIVV2",
       "status": "upcoming"
     },
     {
