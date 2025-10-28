@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-28",
-      "event name": "IEEE Engagement Day 2025",
-      "time": "17:30",
-      "end time": "20:00",
-      "venue": "CAFE LEMBARAN USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdlK2ODUb7uFUQSbHWk8F594GdVU7l5yMLURCGs6wfdUUDfMw/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-29",
       "event name": "Japan Career Talk",
       "time": "14:30",
@@ -20,7 +8,7 @@
       "venue": "Auditorium USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/tsYkLwLfRwchy3u36",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-29",
@@ -30,7 +18,7 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://tinyurl.com/5btcfe47",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-29",
@@ -40,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/dXZRoQUcZtNZFn1h8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-29",
@@ -50,8 +38,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/W4grqKkkqWqbYAQh6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-30",
       "event name": "Compassion in Action: Uplifting Orphaned Lives",
