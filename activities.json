@@ -1,58 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-29",
-      "event name": "Micron & the Moment: Opportunities in Semiconductor Memory and Storage",
-      "time": "14:30",
-      "end time": "15:30",
-      "venue": "Auditorium USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.office.com/r/L2x8pJSz7A",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-29",
-      "event name": "Japan Career Talk",
-      "time": "14:30",
-      "end time": "16:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/tsYkLwLfRwchy3u36",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-29",
-      "event name": "小草颂迎新夜",
-      "time": "19:30",
-      "end time": "22:30",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://tinyurl.com/5btcfe47",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-29",
-      "event name": "Balancing Mind and Body: Complementary Therapies for Student Well-Being",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/dXZRoQUcZtNZFn1h8",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-29",
-      "event name": "Physics Trivia Quiz Night",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/W4grqKkkqWqbYAQh6",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-30",
       "event name": "Compassion in Action: Uplifting Orphaned Lives",
       "time": "20:00",
@@ -60,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/7w2LLKkZwTNpbMVG9",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-30",
@@ -70,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/R1TxHVhsanuikSKk7",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-30",
@@ -80,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://shorturl.at/RxNXO",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-30",
@@ -90,8 +38,10 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdTvWPSnrbYeLb5-84eubqXaRVq6SZxAhQ79hSAums6z4FbHQ/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-10-31",
       "event name": "理工华协文娱夜迎新夜",
