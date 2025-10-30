@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-30",
-      "event name": "Compassion in Action: Uplifting Orphaned Lives",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/7w2LLKkZwTNpbMVG9",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-30",
-      "event name": "GREEN CONVEX Episode 3 – Global Policies & Natural Resources",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/R1TxHVhsanuikSKk7",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-30",
-      "event name": "PHARMATRADE WEBINAR 1 : Immunity in Aging",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://shorturl.at/RxNXO",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-30",
-      "event name": "舞蹈组迎新夜",
-      "time": "20:30",
-      "end time": "23:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdTvWPSnrbYeLb5-84eubqXaRVq6SZxAhQ79hSAums6z4FbHQ/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-10-31",
       "event name": "理工华协文娱夜迎新夜",
       "time": "19:30",
@@ -50,7 +8,7 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeds3DtZFk2crhHP1J8O-S49W9tG8LNj4U8P43wtJ_tHXov5g/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-10-31",
@@ -60,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://tinyurl.com/SSIVV2",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-01",
       "event name": "华文班迎新夜",
