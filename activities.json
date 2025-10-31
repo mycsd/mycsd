@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-10-31",
-      "event name": "理工华协文娱夜迎新夜",
-      "time": "19:30",
-      "end time": "22:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeds3DtZFk2crhHP1J8O-S49W9tG8LNj4U8P43wtJ_tHXov5g/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-10-31",
-      "event name": "SSI Volunteer Voices: Episode 2",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVV2",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-01",
       "event name": "华文班迎新夜",
       "time": "20:00",
@@ -30,8 +8,10 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/fBALcppTdTHV7gEm6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-03",
       "event name": "理工辩迎新夜",
@@ -60,6 +40,16 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/x8br2MeHpWDWmth59",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "Pharmacy Compounding Challenge Webinar 1: The Future of Pharmacy: From Compounding to AI-Driven Care",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/3J8hnwoHXASDoYjJ8",
       "status": "upcoming"
     },
     {
@@ -100,6 +90,46 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScnn9G2ZXpiLbmwlm8Qx1sCyQqwEfvdqiQW9uSatU3GZcxN9Q/viewform?pli=1",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-14",
+      "event name": "Financial Planning Workshop",
+      "time": "20:30",
+      "end time": "23:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "Vaccines: Myths vs. Facts – What You Need to Know",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/PYSTeQQCZfdDXsKp7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Unlock Your Best Self",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Limitless Lights",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/TS-LLIGHT",
       "status": "upcoming"
     },
     {
