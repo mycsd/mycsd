@@ -1,14 +1,5 @@
 {
-  "day": "Friday",
-  "electronic": [
-    {
-      "time": "10:00",
-      "subject": "EEE244"
-    },
-    {
-      "time": "11:00",
-      "subject": "EEE244"
-    }
-  ],
+  "day": "Saturday",
+  "electronic": [],
   "mechatronic": []
 }
