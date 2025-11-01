@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-01",
-      "event name": "华文班迎新夜",
-      "time": "20:00",
-      "end time": "22:40",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/fBALcppTdTHV7gEm6",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-11-03",
