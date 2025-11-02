@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-11-03",
       "event name": "理工辩迎新夜",
@@ -9,8 +8,10 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/PLVWhuqFaq1Fznb6A",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-05",
       "event name": "IEEE USM Welcoming Day 2025",
