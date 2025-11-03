@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-03",
-      "event name": "理工辩迎新夜",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/PLVWhuqFaq1Fznb6A",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-11-05",
@@ -53,6 +42,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-11-06",
+      "event name": "Academic Integrity in the Digital Era: Copyright, Plagiarism and AI in Research Writing",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/N1ce6iuzJbS8qEQf6",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-11-07",
       "event name": "理升迎新夜",
       "time": "20:00",
@@ -83,6 +82,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-11-12",
+      "event name": "The Case Unfolds: Rights, Arrest and Trials",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfu5pfZ6_cXSgytrUc2uztr_oMtMwjZykGeqaQLjbz8_gHXPw/viewform",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-11-14",
       "event name": "Financial Planning Workshop",
       "time": "20:30",
@@ -90,6 +99,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "⚠️PLS REGISTER BEFORE 12 NOV⚠️ \n看不见的学校：影子里的教育故事",
+      "time": "18:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/nj7HTVxvwNaKmcAo8",
       "status": "upcoming"
     },
     {
@@ -104,22 +123,22 @@
     },
     {
       "date": "2025-11-17",
-      "event name": "Unlock Your Best Self",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-17",
       "event name": "Limitless Lights",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://tinyurl.com/TS-LLIGHT",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Unlock Your Best Self",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
       "status": "upcoming"
     },
     {
