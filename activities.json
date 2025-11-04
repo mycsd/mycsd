@@ -13,6 +13,16 @@
     },
     {
       "date": "2025-11-05",
+      "event name": "Level Up Your Career: Internship Recruitment with NI Emerson",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "Dewan Kuliah 5 (Kompleks Dewan Kuliah DK5), USM",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/kqoRxRzpCqFGiSeQA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-05",
       "event name": "理工华乐团迎新夜",
       "time": "19:00",
       "end time": "22:00",
@@ -169,6 +179,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/FwDxGvxQAmBLMtcD9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-21",
+      "event name": "Webinar: Stress Management in a Fast-Paced World",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vqJUV5U4V64VjHHBA",
       "status": "upcoming"
     },
     {
