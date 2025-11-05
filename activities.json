@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-05",
-      "event name": "IEEE USM Welcoming Day 2025",
-      "time": "14:00",
-      "end time": "16:00",
-      "venue": "DSG USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdLVynCbz7T6C06bG2yO0Kna2GUOH5aeZ3SKsm7lPPbY_TJiA/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-05",
-      "event name": "Level Up Your Career: Internship Recruitment with NI Emerson",
-      "time": "14:30",
-      "end time": "16:00",
-      "venue": "DK5 USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/kqoRxRzpCqFGiSeQA",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-05",
-      "event name": "理工华乐团迎新夜",
-      "time": "19:00",
-      "end time": "22:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/x8br2MeHpWDWmth59",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-05",
-      "event name": "Pharmacy Compounding Challenge Webinar 1: The Future of Pharmacy: From Compounding to AI-Driven Care",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/3J8hnwoHXASDoYjJ8",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-06",
       "event name": "下乡迎新夜",
       "time": "19:45",
@@ -50,7 +8,7 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfrbsOy24kylDfAZ4UJ_6PlHcqQ7kCA0POvFijpD8WTO8DN5Q/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-06",
@@ -60,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/N1ce6iuzJbS8qEQf6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-07",
       "event name": "理升迎新夜",
