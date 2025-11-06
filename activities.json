@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-06",
-      "event name": "下乡迎新夜",
-      "time": "19:45",
-      "end time": "23:00",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfrbsOy24kylDfAZ4UJ_6PlHcqQ7kCA0POvFijpD8WTO8DN5Q/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-06",
-      "event name": "Academic Integrity in the Digital Era: Copyright, Plagiarism and AI in Research Writing",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/N1ce6iuzJbS8qEQf6",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-07",
       "event name": "理升迎新夜",
       "time": "20:00",
@@ -30,8 +8,10 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSekVRTuoP5BCl3727yJfpF6PMcn7Htbh474rmI1jp5oW5dleg/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-08",
       "event name": "Mind Over Matters — Coping with Stress and Finding Purpose in University",
@@ -85,7 +65,7 @@
     {
       "date": "2025-11-15",
       "event name": "PLS REGISTER BEFORE 12Nov⚠️ \n看不见的学校：影子里的教育故事",
-      "time": "18:00",
+      "time": "19:00",
       "end time": "22:30",
       "venue": "Cisco Webex",
       "fee": 1,
