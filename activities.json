@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-07",
-      "event name": "理升迎新夜",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "PUMA HALL USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSekVRTuoP5BCl3727yJfpF6PMcn7Htbh474rmI1jp5oW5dleg/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-08",
       "event name": "Mind Over Matters — Coping with Stress and Finding Purpose in University",
       "time": "20:00",
@@ -20,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc7bdjt1r5bnG_yKChJO7jq8XsO5QWFVIrxtUS_xsYpHP2Lyg/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-09",
       "event name": "Adikarma Mini Showcase 2025",
