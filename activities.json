@@ -1,27 +1,17 @@
 {
   "today_events": [
     {
-      "date": "2025-11-08",
-      "event name": "Mind Over Matters — Coping with Stress and Finding Purpose in University",
-      "time": "20:00",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc7bdjt1r5bnG_yKChJO7jq8XsO5QWFVIrxtUS_xsYpHP2Lyg/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-09",
       "event name": "Adikarma Mini Showcase 2025",
       "time": "20:30",
       "end time": "21:30",
       "venue": "Kafe Lembaran, USMKKJ",
       "fee": "✨Free",
-      "registration link": "",
-      "status": "upcoming"
-    },
+      "registration link": "walk in",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-11",
       "event name": "It's Okay to Not Be Okay: Break the Stigma of Mental Health",
@@ -110,6 +100,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/FwDxGvxQAmBLMtcD9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "Wild Wisdom Online Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/1Y8t6MaSkHv8J7Gy8",
       "status": "upcoming"
     },
     {
