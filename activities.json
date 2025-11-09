@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-09",
-      "event name": "Adikarma Mini Showcase 2025",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Kafe Lembaran, USMKKJ",
-      "fee": "✨Free",
-      "registration link": "walk in",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-11-15",
