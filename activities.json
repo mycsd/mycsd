@@ -11,5 +11,166 @@
       "status": "today"
     }
   ],
-  "upcoming_events": []
+  "upcoming_events": [
+    {
+      "date": "2025-11-15",
+      "event name": "Chemistry Interactive Talk 2.0- Why Chemistry Matters: From Molecule Design to Real- World Impact",
+      "time": "09:15",
+      "end time": "10:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m86aa0a43f28f13f2a27c82198ff7a2e6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-14",
+      "event name": "Financial Planning Workshop",
+      "time": "20:30",
+      "end time": "23:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-11",
+      "event name": "It's Okay to Not Be Okay: Break the Stigma of Mental Health",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScnn9G2ZXpiLbmwlm8Qx1sCyQqwEfvdqiQW9uSatU3GZcxN9Q/viewform?pli=1",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "LENSA PENTAS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FwDxGvxQAmBLMtcD9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Limitless Lights",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/TS-LLIGHT",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-18",
+      "event name": "MedHealth Phase 1: Online Talk",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tmDFbw9HR5mv7C3b7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-25",
+      "event name": "MedHealth Phase 2: Live Quiz",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/SLNX7du3LfoW2Mf4A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "MedHealth Phase 3: Online Talk 2",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/aga12Pbs5LEJ6ps97",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "PharmEx 25/26: Webinar 1 - Vape, Shisha & You — What’s the Truth About It?",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/caV1yArw9YCLwEj4A",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "PLS REGISTER BEFORE 12Nov⚠️ \n看不见的学校：影子里的教育故事",
+      "time": "19:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/nj7HTVxvwNaKmcAo8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-12",
+      "event name": "The Case Unfolds: Rights, Arrest and Trials",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfu5pfZ6_cXSgytrUc2uztr_oMtMwjZykGeqaQLjbz8_gHXPw/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Unlock Your Best Self",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "Vaccines: Myths vs. Facts – What You Need to Know",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/PYSTeQQCZfdDXsKp7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-21",
+      "event name": "Webinar: Stress Management in a Fast-Paced World",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vqJUV5U4V64VjHHBA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "Wild Wisdom Online Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/1Y8t6MaSkHv8J7Gy8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "Women in Sports: Achievements, Challenges and the Road Ahead",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7",
+      "status": "upcoming"
+    }
+  ]
 }
