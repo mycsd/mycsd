@@ -171,6 +171,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "下乡 FUN DAY 2.0",
+      "time": "16:00",
+      "end time": "20:00",
+      "venue": "Puma Hall",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdynr7dE6eHs3Zh6uU-C3h-byJgsWzbMaUJsui-gNftaDJXog/viewform",
+      "status": "upcoming"
     }
   ]
 }
