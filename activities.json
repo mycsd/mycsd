@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-11-11",
       "event name": "It's Okay to Not Be Okay: Break the Stigma of Mental Health",
@@ -9,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScnn9G2ZXpiLbmwlm8Qx1sCyQqwEfvdqiQW9uSatU3GZcxN9Q/viewform?pli=1",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-12",
       "event name": "The Case Unfolds: Rights, Arrest and Trials",
