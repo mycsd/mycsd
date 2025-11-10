@@ -189,7 +189,17 @@
       "end time": "22:30",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://tinyurl.com/43tkwhdt",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeue5yjbCDaPFeAtyphdznT3LXfpS9An7mgWEuUY4rciiKB2Q/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "BIJAKWANG CHALLENGE 2025",
+      "time": "13:00",
+      "end time": "14:00",
+      "venue": "ONLINE",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/XjiDkUm3YR8diokZ8",
       "status": "upcoming"
     }
   ]
