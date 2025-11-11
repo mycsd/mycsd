@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-11",
-      "event name": "It's Okay to Not Be Okay: Break the Stigma of Mental Health",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScnn9G2ZXpiLbmwlm8Qx1sCyQqwEfvdqiQW9uSatU3GZcxN9Q/viewform?pli=1",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-12",
       "event name": "The Case Unfolds: Rights, Arrest and Trials",
       "time": "20:00",
@@ -20,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfu5pfZ6_cXSgytrUc2uztr_oMtMwjZykGeqaQLjbz8_gHXPw/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-14",
       "event name": "Financial Planning Workshop",
