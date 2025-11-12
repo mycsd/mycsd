@@ -191,6 +191,36 @@
       "fee": 1,
       "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "Mathematics in Action: Structuring Success from the Ground Up",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "Mathematics in Action: Structuring Success from the Ground Up",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "HEAL & RISE: MASTER YOUR EMOTIONS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform",
+      "status": "upcoming"
     }
   ]
 }
