@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-12",
-      "event name": "The Case Unfolds: Rights, Arrest and Trials",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfu5pfZ6_cXSgytrUc2uztr_oMtMwjZykGeqaQLjbz8_gHXPw/viewform",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-11-14",
