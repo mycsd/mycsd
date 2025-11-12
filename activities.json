@@ -93,6 +93,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-11-16",
+      "event name": "HEAL & RISE: MASTER YOUR EMOTIONS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-11-17",
       "event name": "Limitless Lights",
       "time": "20:00",
@@ -197,19 +207,9 @@
       "event name": "Mathematics in Action: Structuring Success from the Ground Up",
       "time": "20:00",
       "end time": "22:30",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-16",
-      "event name": "HEAL & RISE: MASTER YOUR EMOTIONS",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform",
       "status": "upcoming"
     }
   ]
