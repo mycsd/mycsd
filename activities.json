@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-11-14",
       "event name": "Financial Planning Workshop",
@@ -9,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-15",
       "event name": "Chemistry Interactive Talk 2.0- Why Chemistry Matters: From Molecule Design to Real- World Impact",
