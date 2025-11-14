@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-14",
-      "event name": "Financial Planning Workshop",
-      "time": "20:30",
-      "end time": "23:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-15",
       "event name": "Chemistry Interactive Talk 2.0- Why Chemistry Matters: From Molecule Design to Real- World Impact",
       "time": "09:15",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m86aa0a43f28f13f2a27c82198ff7a2e6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-15",
@@ -30,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSedHftVwVx9TqCzONNM0OUVXsvsCdGqXndXzqSu9fROTCkjNg/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-15",
@@ -40,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/nj7HTVxvwNaKmcAo8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-15",
@@ -50,8 +38,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/PYSTeQQCZfdDXsKp7",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-16",
       "event name": "BIJAKWANG CHALLENGE 2025",
