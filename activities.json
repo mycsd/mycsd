@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-15",
-      "event name": "Chemistry Interactive Talk 2.0- Why Chemistry Matters: From Molecule Design to Real- World Impact",
-      "time": "09:15",
-      "end time": "10:30",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m86aa0a43f28f13f2a27c82198ff7a2e6",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-15",
-      "event name": "ASEAN Technopreneurship in 2025: Riding the Volatilities of AI, Funding and Geopolitics",
-      "time": "10:00",
-      "end time": "12:15",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSedHftVwVx9TqCzONNM0OUVXsvsCdGqXndXzqSu9fROTCkjNg/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-15",
-      "event name": " 看不见的学校：影子里的教育故事",
-      "time": "19:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/nj7HTVxvwNaKmcAo8",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-15",
-      "event name": "Vaccines: Myths vs. Facts – What You Need to Know",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/PYSTeQQCZfdDXsKp7",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-16",
       "event name": "BIJAKWANG CHALLENGE 2025",
       "time": "13:00",
@@ -50,7 +8,7 @@
       "venue": "ONLINE",
       "fee": "✨Free",
       "registration link": "https://forms.gle/XjiDkUm3YR8diokZ8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-16",
@@ -60,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 2,
       "registration link": "https://forms.gle/kg1BjAhNjyrVruS66",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-16",
@@ -70,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/caV1yArw9YCLwEj4A",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-16",
@@ -80,8 +38,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-17",
       "event name": "Limitless Lights",
