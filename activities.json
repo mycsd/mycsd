@@ -17,7 +17,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 2,
-      "registration link": "https://forms.gle/kg1BjAhNjyrVruS66",
+      "registration link": "https://forms.gle/srWEQY155C7vGhsdA",
       "status": "today"
     },
     {
@@ -93,6 +93,26 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-11-20",
+      "event name": "[NATIONAL MYCSD]\nTALK 3S SHOOT, STRIVE & SUCCEED",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/TpVsvpV2jhddXSA29",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-20",
+      "event name": "Bounce Back Better: The Journey Beyond Grief",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Webex Live, Facebook Live",
+      "fee": "✨Free",
+      "registration link": "https://shorturl.at/vZzqd",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-11-21",
       "event name": "Webinar: Stress Management in a Fast-Paced World",
       "time": "20:00",
@@ -144,36 +164,6 @@
     },
     {
       "date": "2025-12-04",
-      "event name": "Mathematics in Action: Structuring Success from the Ground Up",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-20",
-      "event name": "Bounce Back Better: The Journey Beyond Grief",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Webex Live, Facebook Live",
-      "fee": "✨Free",
-      "registration link": "https://shorturl.at/vZzqd",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-20",
-      "event name": "TALK 3S SHOOT, STRIVE & SUCCEED",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "CISCO WEBEX",
-      "fee": 2,
-      "registration link": "https://forms.gle/TpVsvpV2jhddXSA29",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-04",
       "event name": "Join Our Webinar: Early Detection and Lifestyle Interventions in Alzheimer’s Disease – What You Need to Know?!",
       "time": "20:00",
       "end time": "22:00",
@@ -183,13 +173,13 @@
       "status": "upcoming"
     },
     {
-      "date": "2025-12-11",
-      "event name": "HOPE: Honouring Caregivers - Live Quiz",
+      "date": "2025-12-04",
+      "event name": "Mathematics in Action: Structuring Success from the Ground Up",
       "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://tinyurl.com/2cyxjfm5",
+      "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
       "status": "upcoming"
     },
     {
@@ -200,6 +190,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Yf6LUqtfNVjohDNj6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "HOPE: Honouring Caregivers - Live Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/2cyxjfm5",
       "status": "upcoming"
     }
   ]
