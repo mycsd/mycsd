@@ -161,6 +161,46 @@
       "fee": "✨Free",
       "registration link": "https://shorturl.at/vZzqd",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-11-20",
+      "event name": "TALK 3S SHOOT, STRIVE & SUCCEED",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "CISCO WEBEX",
+      "fee": 2,
+      "registration link": "https://forms.gle/TpVsvpV2jhddXSA29",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "Join Our Webinar: Early Detection and Lifestyle Interventions in Alzheimer’s Disease – What You Need to Know?!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/LQxEpdzHiSNeTj5f6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "HOPE: Honouring Caregivers - Live Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/2cyxjfm5",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "Googling Your Symptoms: Finding Truth Amid Misinformation",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Yf6LUqtfNVjohDNj6",
+      "status": "upcoming"
     }
   ]
 }
