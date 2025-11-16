@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-16",
-      "event name": "BIJAKWANG CHALLENGE 2025",
-      "time": "13:00",
-      "end time": "14:00",
-      "venue": "ONLINE",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/XjiDkUm3YR8diokZ8",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-16",
-      "event name": "THEERAN 2025: SILAMBAM - A Legacy of Strength and Culture",
-      "time": "19:30",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/srWEQY155C7vGhsdA",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-16",
-      "event name": "PharmEx 25/26: Webinar 1 - Vape, Shisha & You — What’s the Truth About It?",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/caV1yArw9YCLwEj4A",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-16",
-      "event name": "HEAL & RISE: MASTER YOUR EMOTIONS",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-17",
       "event name": "Limitless Lights",
       "time": "20:00",
@@ -50,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://tinyurl.com/TS-LLIGHT",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-17",
@@ -60,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-18",
       "event name": "MedHealth Phase 1: Online Talk",
