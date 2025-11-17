@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-17",
-      "event name": "Limitless Lights",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/TS-LLIGHT",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-17",
-      "event name": "Unlock Your Best Self",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-18",
       "event name": "MedHealth Phase 1: Online Talk",
       "time": "20:00",
@@ -30,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/tmDFbw9HR5mv7C3b7",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-19",
       "event name": "LENSA PENTAS",
