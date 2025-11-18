@@ -1,0 +1,20 @@
+[
+    {
+        "activity name": "Ramadan Quiz Challenge",
+        "start_date": "2025-11-16",
+        "end_date": "2025-11-28",
+        "time": null,
+        "venue": "Online",
+        "fee": 0,
+        "registration link": "https://quiz-link.com"
+    },
+    {
+        "activity name": "Monthly Photo Contest",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-30",
+        "time": null,
+        "venue": "Instagram",
+        "fee": 0,
+        "registration link": "Walk In" 
+    }
+]
