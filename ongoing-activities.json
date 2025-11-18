@@ -1,20 +1,11 @@
 [
     {
-        "activity name": "Ramadan Quiz Challenge",
+        "activity name": "PharmaCare: Promoting Knowledge for Better Health",
         "start_date": "2025-11-16",
         "end_date": "2025-11-28",
         "time": null,
-        "venue": "Online",
-        "fee": 0,
-        "registration link": "https://quiz-link.com"
-    },
-    {
-        "activity name": "Monthly Photo Contest",
-        "start_date": "2025-11-01",
-        "end_date": "2025-11-30",
-        "time": null,
-        "venue": "Instagram",
-        "fee": 0,
-        "registration link": "Walk In" 
+        "venue": "Google Form",
+        "fee": 1,
+        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeMTeu7W7-A1fkggPXZ1Ixu2CjO1To0yHKHOn3tYxzSY0trCw/viewform?usp=sharing&ouid=103013791037563037366"
     }
 ]
