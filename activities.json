@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-18",
-      "event name": "MedHealth Phase 1: Online Talk",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/tmDFbw9HR5mv7C3b7",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-19",
       "event name": "LENSA PENTAS",
       "time": "20:00",
@@ -20,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/FwDxGvxQAmBLMtcD9",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-19",
@@ -30,8 +18,20 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/1Y8t6MaSkHv8J7Gy8",
-      "status": "upcoming"
+      "status": "today"
     },
+    {
+      "date": "2025-11-19",
+      "event name": "IMechE Welcoming Night",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Mechanical School, MEK 2",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/fsnKC564bURAtPsU6",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-20",
       "event name": "[NATIONAL MYCSD]\nTALK 3S SHOOT, STRIVE & SUCCEED",
@@ -150,16 +150,6 @@
       "venue": "Dewan Utama Desasiswa M08 RST, USM",
       "fee": 1,
       "registration link": "https://forms.gle/ykuuirpyDpMWHg6t7",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-11-19",
-      "event name": "IMechE Welcoming Night",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Mechanical School, MEK 2",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/fsnKC564bURAtPsU6",
       "status": "upcoming"
     }
   ]
