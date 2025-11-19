@@ -2,19 +2,43 @@
   {
     "name": "聚缘饮食中心",
     "hours": "Wednesday: Closed; Others: 10:30 AM - 10:00 PM",
-    "fee": "Varies",
-    "address": "5.1638215 N, 100.5000829 E",
     "location_link": "https://maps.app.goo.gl/TsPNkvuH9ftVupJv8",
-    "latitude": 5.1638215,
-    "longitude": 100.5000829
+    "latitude": 5.163645193,
+    "longitude": 100.4999072
   },
   {
     "name": "OK FOOD COURT",
     "hours": "Tuesday: Closed; Others: 9:00 AM - 10:00 PM",
-    "fee": "Varies",
-    "address": "5.1284787 N, 100.4894978 E",
-    "location_link": "https://maps.app.goo.gl/NtF4gmM4Mb4LuzE8A",
-    "latitude": 5.1284787,
-    "longitude": 100.4894978
+    "location_link": "https://maps.app.goo.gl/aPdgbQdsHJ9NgKb66",
+    "latitude": 5.12916262,
+    "longitude": 100.4891156
+  },
+  {
+    "name": "桥下煮东炎",
+    "hours": "Monday: Closed; Tuesday-Saturday: 12–2:30 PM, 5–11 PM; Sunday: 12–11 PM",
+    "location_link": "https://maps.app.goo.gl/dPiWHJCM5GPMEyJq9?g_st=it",
+    "latitude": 5.170126097,
+    "longitude": 100.4738026
+  },
+  {
+    "name": "Janestic Cafe",
+    "hours": "Daily: 12 PM - 10 PM",
+    "location_link": "https://maps.app.goo.gl/Ew7KejChBv77yuYdA",
+    "latitude": 5.124246578,
+    "longitude": 100.4896361
+  },
+  {
+    "name": "小时光咖啡店",
+    "hours": "Daily: 12–11:30 AM, 4 PM–12 AM",
+    "location_link": "https://maps.app.goo.gl/tKyu75aFarbSbfyq8?g_st=ipc",
+    "latitude": 5.122866364,
+    "longitude": 100.4882152
+  },
+  {
+    "name": "培德校友会",
+    "hours": "Thursday: Closed; Others: 11 AM - 10:30 PM",
+    "location_link": "https://maps.app.goo.gl/kgb6bpwgq7BeMU9Y6?g_st=ipc",
+    "latitude": 5.165807469,
+    "longitude": 100.4774245
   }
 ]
