@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Nasi Kandar Pelita",
+    "hours": "24 Hours Daily",
+    "fee": "Varies",
+    "address": "Jalan Penang, Georgetown",
+    "location_link": "https://maps.app.goo.gl/1hFv8P6Tz7mXy2kZ7",
+    "latitude": 5.4180,
+    "longitude": 100.3340
+  },
+  {
+    "name": "Little India Curry House",
+    "hours": "9:00 AM - 10:00 PM",
+    "fee": "RM 15 - RM 30",
+    "address": "Queen Street, Georgetown",
+    "location_link": "https://maps.app.goo.gl/2mXp7D9Qj8nY3lA2w",
+    "latitude": 5.4155,
+    "longitude": 100.3395
+  }
+]
