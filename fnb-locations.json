@@ -1,20 +1,20 @@
 [
   {
-    "name": "Nasi Kandar Pelita",
-    "hours": "24 Hours Daily",
+    "name": "聚缘饮食中心",
+    "hours": "Wednesday: Closed; Others: 10:30 AM - 10:00 PM",
     "fee": "Varies",
-    "address": "Jalan Penang, Georgetown",
-    "location_link": "https://maps.app.goo.gl/1hFv8P6Tz7mXy2kZ7",
-    "latitude": 5.4180,
-    "longitude": 100.3340
+    "address": "5.1638215 N, 100.5000829 E",
+    "location_link": "https://maps.app.goo.gl/TsPNkvuH9ftVupJv8",
+    "latitude": 5.1638215,
+    "longitude": 100.5000829
   },
   {
-    "name": "Little India Curry House",
-    "hours": "9:00 AM - 10:00 PM",
-    "fee": "RM 15 - RM 30",
-    "address": "Queen Street, Georgetown",
-    "location_link": "https://maps.app.goo.gl/2mXp7D9Qj8nY3lA2w",
-    "latitude": 5.4155,
-    "longitude": 100.3395
+    "name": "OK FOOD COURT",
+    "hours": "Tuesday: Closed; Others: 9:00 AM - 10:00 PM",
+    "fee": "Varies",
+    "address": "5.1284787 N, 100.4894978 E",
+    "location_link": "https://maps.app.goo.gl/NtF4gmM4Mb4LuzE8A",
+    "latitude": 5.1284787,
+    "longitude": 100.4894978
   }
 ]
