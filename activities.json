@@ -151,6 +151,16 @@
       "fee": 1,
       "registration link": "https://tinyurl.com/2cyxjfm5",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-11-21",
+      "event name": "PHYSICS COFFEE TALK: Exploring the World of Seismic Interpretation",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSf3f-ibl3yHbNiNadlBoq1JvRt1ZSmWM60mGWkCOKS60dQdFQ/viewform",
+      "status": "upcoming"
     }
   ]
 }
