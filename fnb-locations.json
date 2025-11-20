@@ -75,5 +75,12 @@
     "location_link": "https://maps.app.goo.gl/qAgQJJzBaYErRMNGA?g_st=ipc",
     "latitude": 5.11959311,
     "longitude": 100.4855118
+  },
+  {
+    "name": "皇马",
+    "hours": "Sunday: Closed; Tuesday: 7 AM - 1 PM; Others (Mon, Wed, Thu, Fri, Sat): 6 AM - 3 PM, 5:30 PM - 10 PM",
+    "location_link": "https://maps.app.goo.gl/nmCaA63ea2pFPrMv9",
+    "latitude": 5.139832113,
+    "longitude": 100.4903329
   }
 ]
