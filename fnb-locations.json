@@ -40,5 +40,40 @@
     "location_link": "https://maps.app.goo.gl/kgb6bpwgq7BeMU9Y6?g_st=ipc",
     "latitude": 5.165807469,
     "longitude": 100.4774245
+  },
+  {
+    "name": "NT SUSU",
+    "hours": "Monday: Closed; Others: 5 PM - 11 PM",
+    "location_link": "https://maps.app.goo.gl/fM6hfHeZCsbSbhZQA?g_st=ipc",
+    "latitude": 5.16787509,
+    "longitude": 100.4778721
+  },
+  {
+    "name": "YAWATA",
+    "hours": "Sunday: 12 PM - 5:30 PM; Others: 8 AM - 5:30 PM",
+    "location_link": "https://maps.app.goo.gl/ngNUbTBdVnsddEa16?g_st=ipc",
+    "latitude": 5.166974664,
+    "longitude": 100.4753814
+  },
+  {
+    "name": "ETS FOOD COURT",
+    "hours": "Tuesday: Closed; Others: 10 AM - 10 PM",
+    "location_link": "https://maps.app.goo.gl/ag5j9kPcfhPkPQ9e6?g_st=ipc",
+    "latitude": 5.167256387,
+    "longitude": 100.482568
+  },
+  {
+    "name": "七廊 Nibong Tebal",
+    "hours": "Sunday: 8 AM - 1 PM; Others: 8 AM - 9 PM",
+    "location_link": "https://maps.app.goo.gl/3Vqc7FnhtrJDTpCD9?g_st=ipc",
+    "latitude": 5.184564725,
+    "longitude": 100.4857332
+  },
+  {
+    "name": "七廊 Parit Buntar",
+    "hours": "Sunday: 7:30 AM - 1:30 PM; Others: 7:30 AM - 9 PM",
+    "location_link": "https://maps.app.goo.gl/qAgQJJzBaYErRMNGA?g_st=ipc",
+    "latitude": 5.11959311,
+    "longitude": 100.4855118
   }
 ]
