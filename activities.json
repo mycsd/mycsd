@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-11-20",
-      "event name": "[NATIONAL MYCSD]\nTALK 3S SHOOT, STRIVE & SUCCEED",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/TpVsvpV2jhddXSA29",
-      "status": "today"
-    },
-    {
-      "date": "2025-11-20",
-      "event name": "Bounce Back Better: The Journey Beyond Grief",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Webex Live, Facebook Live",
-      "fee": "✨Free",
-      "registration link": "https://shorturl.at/vZzqd",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-11-21",
       "event name": "PHYSICS COFFEE TALK: Exploring the World of Seismic Interpretation",
       "time": "20:00",
@@ -30,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSf3f-ibl3yHbNiNadlBoq1JvRt1ZSmWM60mGWkCOKS60dQdFQ/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-11-21",
@@ -40,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/vqJUV5U4V64VjHHBA",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-11-22",
       "event name": "AI Assisted Organ-on-Chip — A Future of Nano-Medicine",
