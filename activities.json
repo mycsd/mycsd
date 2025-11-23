@@ -52,16 +52,6 @@
       "status": "upcoming"
     },
     {
-      "date": "2025-12-06",
-      "event name": "USM Board & Card – Move and Mingle",
-      "time": "14:00",
-      "end time": "17:30",
-      "venue": "Dewan Utama Desasiswa M08 RST, USM",
-      "fee": 1,
-      "registration link": "https://forms.gle/ykuuirpyDpMWHg6t7",
-      "status": "upcoming"
-    },
-    {
       "date": "2025-12-08",
       "event name": "Googling Your Symptoms: Finding Truth Amid Misinformation",
       "time": "20:30",
@@ -79,6 +69,56 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://tinyurl.com/2cyxjfm5",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-03",
+      "event name": "USMCEC Technical Presentation Workshop 2025/2026",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Online Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Etqgt2VeGgNVfW738",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Let’s Talk Networking: Building Connections Beyond Borders",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/KfJghWvpXbShRh2P7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Join Our Webinar: Cancer and Lifestyle: How Daily Habits Shape Your Risk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-11-27",
+      "event name": "SSI Volunteer Voices : Episode 3",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco WebEx (Online)",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSI-VV3-Registration",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "SkinRx: Secrets of Healthy and Radiant Skin",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfxS4MeauXvk53C9OP6QAV6M4jLQcSOB84Vwl8SpExTfTW9xw/viewform?usp=header",
       "status": "upcoming"
     }
   ]
