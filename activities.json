@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-11-25",
       "event name": "MedHealth Phase 2: Live Quiz",
@@ -9,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/SLNX7du3LfoW2Mf4A",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-01",
       "event name": "MedHealth Phase 3: Online Talk 2",
