@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-25",
-      "event name": "MedHealth Phase 2: Live Quiz",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/SLNX7du3LfoW2Mf4A",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-11-27",
