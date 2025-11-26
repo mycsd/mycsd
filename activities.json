@@ -111,6 +111,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/KfJghWvpXbShRh2P7",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "The Power Of MyCSD",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/uMpg4k5yJMvvNFrU8",
+      "status": "upcoming"
     }
   ]
 }
