@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-11-27",
       "event name": "SSI Volunteer Voices : Episode 3",
@@ -9,8 +8,10 @@
       "venue": "Cisco WebEx (Online)",
       "fee": 1,
       "registration link": "https://tinyurl.com/SSI-VV3-Registration",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-01",
       "event name": "MedHealth Phase 3: Online Talk 2",
