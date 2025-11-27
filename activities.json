@@ -131,6 +131,26 @@
       "fee": 1,
       "registration link": "https://forms.gle/6MNMSLiV9FF4NfnH7",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-29",
+      "event name": "Talent Show Phase 4: A Star Is Born",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Project Young Minds : Phase 1 - Ignite The Vision",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/eDYfjWGQUP3hFCYC7",
+      "status": "upcoming"
     }
   ]
 }
