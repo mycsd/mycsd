@@ -1,16 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-11-27",
-      "event name": "SSI Volunteer Voices : Episode 3",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco WebEx (Online)",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSI-VV3-Registration",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-12-01",
