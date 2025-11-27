@@ -1,31 +1,23 @@
 {
-  "day": "Thursday",
+  "day": "Friday",
   "electronic": [
     {
-      "time": "11:00",
-      "subject": "EEE228"
+      "time": "08:00",
+      "subject": "EEE208"
     },
     {
-      "time": "12:00",
-      "subject": "EEE228"
-    },
-    {
-      "time": "14:00",
-      "subject": "EEE244"
-    },
-    {
-      "time": "15:00",
-      "subject": "EEE244"
+      "time": "09:00",
+      "subject": "EEE208"
     }
   ],
   "mechatronic": [
     {
-      "time": "11:00",
-      "subject": "EEE228"
+      "time": "10:00",
+      "subject": "EEM201"
     },
     {
-      "time": "12:00",
-      "subject": "EEE228"
+      "time": "11:00",
+      "subject": "EEM201"
     }
   ]
 }
