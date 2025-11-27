@@ -121,6 +121,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/uMpg4k5yJMvvNFrU8",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "The EngiQuest",
+      "time": "10:00",
+      "end time": "22:00",
+      "venue": "Quizizz (Online)",
+      "fee": 1,
+      "registration link": "https://forms.gle/6MNMSLiV9FF4NfnH7",
+      "status": "upcoming"
     }
   ]
 }
