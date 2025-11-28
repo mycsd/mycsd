@@ -1,23 +1,5 @@
 {
-  "day": "Friday",
-  "electronic": [
-    {
-      "time": "08:00",
-      "subject": "EEE208"
-    },
-    {
-      "time": "09:00",
-      "subject": "EEE208"
-    }
-  ],
-  "mechatronic": [
-    {
-      "time": "10:00",
-      "subject": "EEM201"
-    },
-    {
-      "time": "11:00",
-      "subject": "EEM201"
-    }
-  ]
+  "day": "Saturday",
+  "electronic": [],
+  "mechatronic": []
 }
