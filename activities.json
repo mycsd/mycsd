@@ -190,6 +190,36 @@
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScC4gcY6hs-RgijX_gETu6035xiJ32LVx8cryGCMB9WElkDrQ/viewform?usp=dialog",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-13",
+      "event name": "STIGMA VS REALITI: Jangan Kasihani Kami, Fahami Kami",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/cZXS8VYz9Vfw5eeB7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "Leadership and Time Management: The Power To Lead and Success",
+      "time": "21:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2fI0xRx9a6UYd-ZFoxCRWOyfK665uFmEa9TLwy6Q0peRMMA/viewform?usp=publish-editor",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-29",
+      "event name": "Jaga Minda, Jaga Diri: Kunci Ketenangan Dalam Tekanan",
+      "time": "20:00",
+      "end time": "23:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/CZAzC8UVCwmcaYPRA",
+      "status": "upcoming"
     }
   ]
 }
