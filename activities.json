@@ -150,6 +150,46 @@
       "fee": 1,
       "registration link": "https://forms.gle/RqzzAnRg4zcThnnp9",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "Nature's Voice: A Wake-Up Call for the Planet",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsPlryyLOsXMtevx4I8ACi8JCThID1e_HrzJHphHkHLoNyxg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-05",
+      "event name": "PANTUN: WARISAN BUDAYA MELAYU",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "WEBEX",
+      "fee": 1,
+      "registration link": "https://forms.gle/XhYSQZXVk3M2YJrk7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "RC PLANE CLUB Online Talk Series (OTS) 1",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe19Lu_tzFIPIlDb1WNaEQOg_8LJRRPHIpKOphhAbCf_NK_0g/viewform?usp=publish-editor",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-06",
+      "event name": "From Broke to Bold: How Financial Planning Shapes Your Future",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScC4gcY6hs-RgijX_gETu6035xiJ32LVx8cryGCMB9WElkDrQ/viewform?usp=dialog",
+      "status": "upcoming"
     }
   ]
 }
