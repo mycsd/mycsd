@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-12-01",
       "event name": "MedHealth Phase 3: Online Talk 2",
@@ -9,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/aga12Pbs5LEJ6ps97",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-01",
@@ -19,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-01",
@@ -29,8 +28,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe19Lu_tzFIPIlDb1WNaEQOg_8LJRRPHIpKOphhAbCf_NK_0g/viewform?usp=publish-editor",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-03",
       "event name": "USMCEC Technical Presentation Workshop 2025/2026",
