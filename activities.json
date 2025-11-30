@@ -36,7 +36,7 @@
       "event name": "USMCEC Technical Presentation Workshop 2025/2026",
       "time": "14:30",
       "end time": "17:00",
-      "venue": "Online Cisco Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Etqgt2VeGgNVfW738",
       "status": "upcoming"
@@ -76,7 +76,7 @@
       "event name": "The Power Of MyCSD",
       "time": "20:30",
       "end time": "22:30",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/uMpg4k5yJMvvNFrU8",
       "status": "upcoming"
@@ -86,9 +86,19 @@
       "event name": "PANTUN: WARISAN BUDAYA MELAYU",
       "time": "20:00",
       "end time": "22:00",
-      "venue": "WEBEX",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/XhYSQZXVk3M2YJrk7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-05",
+      "event name": "SSI Volunteer Voices : Episode 4",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSIVVEp4RegistrationForm",
       "status": "upcoming"
     },
     {
@@ -96,7 +106,7 @@
       "event name": "From Broke to Bold: How Financial Planning Shapes Your Future",
       "time": "20:00",
       "end time": "22:00",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScC4gcY6hs-RgijX_gETu6035xiJ32LVx8cryGCMB9WElkDrQ/viewform?usp=dialog",
       "status": "upcoming"
@@ -132,6 +142,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-09",
+      "event name": "Baktisiswa 25/26: Webinar 1 - The Resistance Awakens: When Antibiotics Fail in Superbugs",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdrwSZ6eVtiF74Y1Ml5F5Yb24sFCSjH_W2P9J7f-CTpLpyCRw/viewform",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-10",
       "event name": "SkinRx: Secrets of Healthy and Radiant Skin",
       "time": "20:00",
@@ -156,7 +176,7 @@
       "event name": "STIGMA VS REALITI: Jangan Kasihani Kami, Fahami Kami",
       "time": "20:30",
       "end time": "22:30",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/cZXS8VYz9Vfw5eeB7",
       "status": "upcoming"
@@ -186,7 +206,7 @@
       "event name": "Let’s Talk Networking: Building Connections Beyond Borders",
       "time": "20:00",
       "end time": "22:30",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/KfJghWvpXbShRh2P7",
       "status": "upcoming"
@@ -206,7 +226,7 @@
       "event name": "Jaga Minda, Jaga Diri: Kunci Ketenangan Dalam Tekanan",
       "time": "20:00",
       "end time": "23:00",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/CZAzC8UVCwmcaYPRA",
       "status": "upcoming"
@@ -219,26 +239,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-05",
-      "event name": "SSI Volunteer Voices : Episode 4",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco WebEx (Online)",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVVEp4RegistrationForm",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-09",
-      "event name": "Baktisiswa 25/26: Webinar 1 - The Resistance Awakens: When Antibiotics Fail in Superbugs",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex (Online)",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdrwSZ6eVtiF74Y1Ml5F5Yb24sFCSjH_W2P9J7f-CTpLpyCRw/viewform",
       "status": "upcoming"
     }
   ]
