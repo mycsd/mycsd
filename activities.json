@@ -1,36 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-12-01",
-      "event name": "MedHealth Phase 3: Online Talk 2",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/aga12Pbs5LEJ6ps97",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-01",
-      "event name": "Women in Sports: Achievements, Challenges and the Road Ahead",
-      "time": "20:00",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-01",
-      "event name": "RC PLANE CLUB Online Talk Series (OTS) 1",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe19Lu_tzFIPIlDb1WNaEQOg_8LJRRPHIpKOphhAbCf_NK_0g/viewform?usp=publish-editor",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-12-03",
