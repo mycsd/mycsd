@@ -1,6 +1,5 @@
 {
-  "today_events": [],
-  "upcoming_events": [
+  "today_events": [
     {
       "date": "2025-12-03",
       "event name": "USMCEC Technical Presentation Workshop 2025/2026",
@@ -9,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Etqgt2VeGgNVfW738",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-03",
@@ -19,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/RqzzAnRg4zcThnnp9",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-04",
       "event name": "Early Detection and Lifestyle Interventions in Alzheimer’s Disease – What You Need to Know?!",
@@ -83,6 +84,26 @@
     },
     {
       "date": "2025-12-07",
+      "event name": "第十五屆儒家道德思想講座會｜轉生之我成為儒家弟子這件事",
+      "time": "13:00",
+      "end time": "17:00",
+      "venue": "Dewan Serbaguna (DSG)",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/MTexuGNWEwcrAeGg8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "第十五屆儒家道德思想講座會｜杏壇到講堂",
+      "time": "19:30",
+      "end time": "22:00",
+      "venue": "USM KKJ DK5",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/snukyBNU2gmEJ3aK7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-07",
       "event name": "Leadership and Time Management: The Power To Lead and Success",
       "time": "21:00",
       "end time": "22:30",
@@ -123,6 +144,16 @@
     },
     {
       "date": "2025-12-10",
+      "event name": "CHRISTMAS NIGHT 2025 – JOY TO THE WORLD: THE GIFT OF GRACE",
+      "time": "19:00",
+      "end time": "22:00",
+      "venue": "PUMA Hall @ Engineering Campus",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeGM39Fu3Rzkx6B0CFzme4c_tjTDJUQFLBJc0joMPz414XWYQ/viewform?usp=sharing&ouid=109637154485609188906",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-10",
       "event name": "SkinRx: Secrets of Healthy and Radiant Skin",
       "time": "20:00",
       "end time": "22:00",
@@ -139,6 +170,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://tinyurl.com/2cyxjfm5",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "第十五屆儒家道德思想講座會｜由健康飲食談身心靈合一之道",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/S2Y9UCAAajvH3rBM6",
       "status": "upcoming"
     },
     {
@@ -182,6 +223,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-19",
+      "event name": "PHYSICS COFFEE TALK: Life Cycle of Field",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-20",
       "event name": "The EngiQuest",
       "time": "10:00",
@@ -212,53 +263,13 @@
       "status": "upcoming"
     },
     {
-      "date": "2025-12-19",
-      "event name": "PHYSICS COFFEE TALK: Life Cycle of Field",
+      "date": "2025-12-20",
+      "event name": "Develop Skills for the Future",
       "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-10",
-      "event name": "CHRISTMAS NIGHT 2025 – JOY TO THE WORLD: THE GIFT OF GRACE",
-      "time": "19:00",
-      "end time": "22:00",
-      "venue": "PUMA Hall @ Engineering Campus",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeGM39Fu3Rzkx6B0CFzme4c_tjTDJUQFLBJc0joMPz414XWYQ/viewform?usp=sharing&ouid=109637154485609188906",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "第十五屆儒家道德思想講座會｜杏壇到講堂",
-      "time": "19:30",
-      "end time": "22:00",
-      "venue": "USM KKJ DK5",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/snukyBNU2gmEJ3aK7",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "第十五屆儒家道德思想講座會｜轉生之我成為儒家弟子這件事",
-      "time": "13:00",
-      "end time": "17:00",
-      "venue": "Dewan Serbaguna (DSG)",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/MTexuGNWEwcrAeGg8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-11",
-      "event name": "第十五屆儒家道德思想講座會｜由健康飲食談身心靈合一之道",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "WEBEX",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/S2Y9UCAAajvH3rBM6",
+      "end time": "23:00",
+      "venue": "Webex Meeting Room",
+      "fee": 1,
+      "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
       "status": "upcoming"
     }
   ]
