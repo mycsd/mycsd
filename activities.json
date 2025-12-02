@@ -210,6 +210,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "PHYSICS COFFEE TALK: Life Cycle of Field",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform",
+      "status": "upcoming"
     }
   ]
 }
