@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-03",
-      "event name": "USMCEC Technical Presentation Workshop 2025/2026",
-      "time": "14:30",
-      "end time": "17:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/Etqgt2VeGgNVfW738",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-03",
-      "event name": "Webinar 2: Beyond Beauty — The Science & Safety of Skincare",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/RqzzAnRg4zcThnnp9",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-04",
       "event name": "Early Detection and Lifestyle Interventions in Alzheimer’s Disease – What You Need to Know?!",
       "time": "20:00",
@@ -30,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/LQxEpdzHiSNeTj5f6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-04",
@@ -40,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-04",
@@ -50,8 +28,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/uMpg4k5yJMvvNFrU8",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-05",
       "event name": "PANTUN: WARISAN BUDAYA MELAYU",
