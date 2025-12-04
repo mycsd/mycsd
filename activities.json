@@ -251,6 +251,26 @@
       "fee": 1,
       "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/5684T26BKegijxks9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Healthy Minds, Healthy Students: Balancing Wellness and Education",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
+      "status": "upcoming"
     }
   ]
 }
