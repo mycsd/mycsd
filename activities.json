@@ -271,6 +271,26 @@
       "fee": 1,
       "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-13",
+      "event name": "MedHealth 7.0",
+      "time": "10:00",
+      "end time": "16:00",
+      "venue": "Dewan Utama Desasiswa, Universiti Sains Malaysia",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/vbN6M7ATZayXiFfT8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "PRO-ETIQUETTE FORUM 2025",
+      "time": "14:30",
+      "end time": "18:00",
+      "venue": "Lattice Lounge, PPKBSM and WebEx",
+      "fee": "✨Free",
+      "registration link": "Walk In",
+      "status": "upcoming"
     }
   ]
 }
