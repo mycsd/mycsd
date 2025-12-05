@@ -261,6 +261,16 @@
       "fee": "✨Free",
       "registration link": "Walk In",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-24",
+      "event name": "Technical Video Workshop",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9",
+      "status": "upcoming"
     }
   ]
 }
