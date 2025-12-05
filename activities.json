@@ -1,27 +1,25 @@
 {
   "today_events": [
     {
-      "date": "2025-12-05",
-      "event name": "PANTUN: WARISAN BUDAYA MELAYU",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/XhYSQZXVk3M2YJrk7",
+      "date": "2025-12-06",
+      "event name": "Bengkel Artificial Intelligence",
+      "time": "09:00",
+      "end time": "11:00",
+      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/gfqNQVLuHWTz2tZJ8",
       "status": "today"
     },
     {
-      "date": "2025-12-05",
-      "event name": "SSI Volunteer Voices : Episode 4",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVVEp4RegistrationForm",
+      "date": "2025-12-06",
+      "event name": "Bengkel Canva di Festival Gegaq25",
+      "time": "15:00",
+      "end time": "17:00",
+      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58",
       "status": "today"
-    }
-  ],
-  "upcoming_events": [
+    },
     {
       "date": "2025-12-06",
       "event name": "From Broke to Bold: How Financial Planning Shapes Your Future",
@@ -30,6 +28,18 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScC4gcY6hs-RgijX_gETu6035xiJ32LVx8cryGCMB9WElkDrQ/viewform?usp=dialog",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
+    {
+      "date": "2025-12-07",
+      "event name": "BENGKEL DRON 2025 – LEVEL UP YOUR FLIGHT SKILLS!",
+      "time": "10:00",
+      "end time": "13:00",
+      "venue": "Bilik Seminar Hangar, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58",
       "status": "upcoming"
     },
     {
@@ -70,6 +80,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsPlryyLOsXMtevx4I8ACi8JCThID1e_HrzJHphHkHLoNyxg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "RC PLANE CLUB ONLINE TALK SERIES 2: The Future of Malaysia's Aerospace Industry",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/u5ZGCyF2r4N6tYuj8",
       "status": "upcoming"
     },
     {
@@ -174,12 +194,42 @@
     },
     {
       "date": "2025-12-16",
+      "event name": "Coping in the Modern World: Managing Stress, Anxiety, and Burnout",
+      "time": "19:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/g88Km9vsc1KsSabHA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-16",
       "event name": "Project Young Minds : Phase 1 - Ignite The Vision",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/eDYfjWGQUP3hFCYC7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "USMCEC Technical Infographic Workshop 2025/2026",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Online Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScT2TWdBv68QR66Pa0jCPG0KOs4Sk1FLE8II1X9T9XSuh-eZQ/viewform?usp=header",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "An Introduction to Drone Engineering",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfeQ7nlqX_aXz-WFarimhfO5oGcNC2fvDDRfzJt9MTM8gUruQ/viewform",
       "status": "upcoming"
     },
     {
@@ -237,7 +287,7 @@
       "event name": "Develop Skills for the Future",
       "time": "20:00",
       "end time": "23:00",
-      "venue": "Webex Meeting Room",
+      "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
       "status": "upcoming"
@@ -270,76 +320,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-17",
-      "event name": "An Introduction to Drone Engineering",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfeQ7nlqX_aXz-WFarimhfO5oGcNC2fvDDRfzJt9MTM8gUruQ/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-17",
-      "event name": "USMCEC Technical Infographic Workshop 2025/2026",
-      "time": "14:30",
-      "end time": "17:00",
-      "venue": "Online Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScT2TWdBv68QR66Pa0jCPG0KOs4Sk1FLE8II1X9T9XSuh-eZQ/viewform?usp=header",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-08",
-      "event name": "RC PLANE CLUB ONLINE TALK SERIES 2: The Future of Malaysia's Aerospace Industry",
-      "time": "20:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/u5ZGCyF2r4N6tYuj8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-06",
-      "event name": "Bengkel Artificial Intelligence",
-      "time": "09:00",
-      "end time": "11:00",
-      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/gfqNQVLuHWTz2tZJ8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-06",
-      "event name": "Bengkel Canva di Festival Gegaq25",
-      "time": "15:00",
-      "end time": "17:00",
-      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "BENGKEL DRON 2025 – LEVEL UP YOUR FLIGHT SKILLS!",
-      "time": "10:00",
-      "end time": "13:00",
-      "venue": "Bilik Seminar Hangar, USM Kampus Kejuruteraan, Nibong Tebal",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-16",
-      "event name": "Coping in the Modern World: Managing Stress, Anxiety, and Burnout",
-      "time": "19:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/g88Km9vsc1KsSabHA",
       "status": "upcoming"
     }
   ]
