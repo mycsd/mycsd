@@ -94,6 +94,16 @@
     },
     {
       "date": "2025-12-10",
+      "event name": "PRO-ETIQUETTE FORUM 2025",
+      "time": "14:30",
+      "end time": "18:00",
+      "venue": "Lattice Lounge, PPKBSM and WebEx",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCahjlOL0UWMjeR3drx0QhqjC3-RhBmO5VRSTAFslj97ykA/viewform?usp=header",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-10",
       "event name": "CHRISTMAS NIGHT 2025 – JOY TO THE WORLD: THE GIFT OF GRACE",
       "time": "19:00",
       "end time": "22:00",
@@ -114,6 +124,16 @@
     },
     {
       "date": "2025-12-11",
+      "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/5684T26BKegijxks9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-11",
       "event name": "HOPE: Honouring Caregivers - Live Quiz",
       "time": "20:00",
       "end time": "22:00",
@@ -130,6 +150,16 @@
       "venue": "WEBEX",
       "fee": "✨Free",
       "registration link": "https://forms.gle/S2Y9UCAAajvH3rBM6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-13",
+      "event name": "MedHealth 7.0",
+      "time": "10:00",
+      "end time": "16:00",
+      "venue": "Dewan Utama Desasiswa, Universiti Sains Malaysia",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/vbN6M7ATZayXiFfT8",
       "status": "upcoming"
     },
     {
@@ -164,6 +194,16 @@
     },
     {
       "date": "2025-12-19",
+      "event name": "Healthy Minds, Healthy Students: Balancing Wellness and Education",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
       "event name": "Let’s Talk Networking: Building Connections Beyond Borders",
       "time": "20:00",
       "end time": "22:30",
@@ -193,6 +233,26 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-20",
+      "event name": "Develop Skills for the Future",
+      "time": "20:00",
+      "end time": "23:00",
+      "venue": "Webex Meeting Room",
+      "fee": 1,
+      "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-24",
+      "event name": "Technical Video Workshop",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-29",
       "event name": "Jaga Minda, Jaga Diri: Kunci Ketenangan Dalam Tekanan",
       "time": "20:00",
@@ -210,66 +270,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-20",
-      "event name": "Develop Skills for the Future",
-      "time": "20:00",
-      "end time": "23:00",
-      "venue": "Webex Meeting Room",
-      "fee": 1,
-      "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-11",
-      "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/5684T26BKegijxks9",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-19",
-      "event name": "Healthy Minds, Healthy Students: Balancing Wellness and Education",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-13",
-      "event name": "MedHealth 7.0",
-      "time": "10:00",
-      "end time": "16:00",
-      "venue": "Dewan Utama Desasiswa, Universiti Sains Malaysia",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/vbN6M7ATZayXiFfT8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-10",
-      "event name": "PRO-ETIQUETTE FORUM 2025",
-      "time": "14:30",
-      "end time": "18:00",
-      "venue": "Lattice Lounge, PPKBSM and WebEx",
-      "fee": "✨Free",
-      "registration link": "Walk In",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-24",
-      "event name": "Technical Video Workshop",
-      "time": "14:30",
-      "end time": "17:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9",
       "status": "upcoming"
     }
   ]
