@@ -311,6 +311,16 @@
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYZrsyMhNtDxqWBVP7ZqD8nr21pjVZ26kelf-aZYKVdmZmXw/viewform",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-12",
+      "event name": "Grow Your Future",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
+      "status": "upcoming"
     }
   ]
 }
