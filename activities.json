@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-07",
-      "event name": "BENGKEL DRON 2025 – LEVEL UP YOUR FLIGHT SKILLS!",
-      "time": "10:00",
-      "end time": "13:00",
-      "venue": "Bilik Seminar Hangar, USM Kampus Kejuruteraan, Nibong Tebal",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "第十五屆儒家道德思想講座會｜轉生之我成為儒家弟子這件事",
-      "time": "13:00",
-      "end time": "17:00",
-      "venue": "Dewan Serbaguna (DSG)",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/MTexuGNWEwcrAeGg8",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "第十五屆儒家道德思想講座會｜杏壇到講堂",
-      "time": "19:30",
-      "end time": "22:00",
-      "venue": "USM KKJ DK5",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/snukyBNU2gmEJ3aK7",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-07",
-      "event name": "Leadership and Time Management: The Power To Lead and Success",
-      "time": "21:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2fI0xRx9a6UYd-ZFoxCRWOyfK665uFmEa9TLwy6Q0peRMMA/viewform?usp=publish-editor",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-08",
       "event name": "Nature's Voice: A Wake-Up Call for the Planet",
       "time": "20:00",
@@ -50,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsPlryyLOsXMtevx4I8ACi8JCThID1e_HrzJHphHkHLoNyxg/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-08",
@@ -60,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/u5ZGCyF2r4N6tYuj8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-08",
@@ -70,8 +28,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Yf6LUqtfNVjohDNj6",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-09",
       "event name": "Baktisiswa 25/26: Webinar 1 - The Resistance Awakens: When Antibiotics Fail in Superbugs",
@@ -143,6 +103,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-12",
+      "event name": "Grow Your Future",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "WEBEX",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-13",
       "event name": "MedHealth 7.0",
       "time": "10:00",
@@ -170,6 +140,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/g88Km9vsc1KsSabHA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Invisible Citizens：Statelessness in Our World \"当世界看不见你，谁来为你发声？\"",
+      "time": "19:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYZrsyMhNtDxqWBVP7ZqD8nr21pjVZ26kelf-aZYKVdmZmXw/viewform",
       "status": "upcoming"
     },
     {
@@ -273,6 +253,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-25",
+      "event name": "Kuiz Kewangan by Exco Muamalah PMI USMKKJ 25/26",
+      "time": "08:00",
+      "end time": "20:00",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-29",
       "event name": "Jaga Minda, Jaga Diri: Kunci Ketenangan Dalam Tekanan",
       "time": "20:00",
@@ -293,33 +283,23 @@
       "status": "upcoming"
     },
     {
-      "date": "2025-12-25",
-      "event name": "Kuiz Kewangan by Exco Muamalah PMI USMKKJ 25/26",
-      "time": "08:00",
-      "end time": "20:00",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-16",
-      "event name": "Invisible Citizens：Statelessness in Our World \"当世界看不见你，谁来为你发声？\"",
-      "time": "19:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYZrsyMhNtDxqWBVP7ZqD8nr21pjVZ26kelf-aZYKVdmZmXw/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-12",
-      "event name": "Grow Your Future",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "WEBEX",
+      "date": "2025-12-10",
+      "event name": "理工华乐团-基础乐理课",
+      "time": "20:00",
+      "end time": "23:00",
+      "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqclIWML86SZbWFYFn0g7rBFSIgAGSLLpS3G8vhxDZ-31xYg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/N6Zkp7DeqyU5zxg97",
       "status": "upcoming"
     }
   ]
