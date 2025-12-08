@@ -301,6 +301,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/N6Zkp7DeqyU5zxg97",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-18",
+      "event name": "Espresso Your Future: From Equation to Industry",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "Bilik Seminar 3, PPSF @ Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdQ_4JocGC_7vK5xZz_MnzTDNdGTbV_gl_-Z_YYFG-zJAHq_Q/viewform",
+      "status": "upcoming"
     }
   ]
 }
