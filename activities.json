@@ -1,18 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-09",
-      "event name": "Baktisiswa 25/26: Webinar 1 - The Resistance Awakens: When Antibiotics Fail in Superbugs",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdrwSZ6eVtiF74Y1Ml5F5Yb24sFCSjH_W2P9J7f-CTpLpyCRw/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-10",
       "event name": "PRO-ETIQUETTE FORUM 2025",
       "time": "14:30",
@@ -20,7 +8,7 @@
       "venue": "Lattice Lounge, PPKBSM and WebEx",
       "fee": 2,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCahjlOL0UWMjeR3drx0QhqjC3-RhBmO5VRSTAFslj97ykA/viewform?usp=header",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-10",
@@ -30,7 +18,7 @@
       "venue": "PUMA Hall @ Engineering Campus",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeGM39Fu3Rzkx6B0CFzme4c_tjTDJUQFLBJc0joMPz414XWYQ/viewform?usp=sharing&ouid=109637154485609188906",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-10",
@@ -40,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfxS4MeauXvk53C9OP6QAV6M4jLQcSOB84Vwl8SpExTfTW9xw/viewform?usp=header",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-10",
@@ -50,8 +38,10 @@
       "venue": "PUMA HALL USMKKJ",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqclIWML86SZbWFYFn0g7rBFSIgAGSLLpS3G8vhxDZ-31xYg/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-11",
       "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
