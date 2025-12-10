@@ -1,19 +1,31 @@
 {
-  "day": "Wednesday",
+  "day": "Thursday",
   "electronic": [
     {
+      "time": "11:00",
+      "subject": "EEE228"
+    },
+    {
       "time": "12:00",
-      "subject": "EEE208"
+      "subject": "EEE228"
+    },
+    {
+      "time": "14:00",
+      "subject": "EEE244"
+    },
+    {
+      "time": "15:00",
+      "subject": "EEE244"
     }
   ],
   "mechatronic": [
     {
-      "time": "10:00",
-      "subject": "EEM223"
+      "time": "11:00",
+      "subject": "EEE228"
     },
     {
-      "time": "11:00",
-      "subject": "EEM223"
+      "time": "12:00",
+      "subject": "EEE228"
     }
   ]
 }
