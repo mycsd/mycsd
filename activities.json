@@ -291,6 +291,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Mastering Charts, Spotting Trends",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdRwR_drNoT5a0_-3cJ4zurLhemC_SYg4coSbfoHQipuqnx3A/viewform",
+      "status": "upcoming"
     }
   ]
 }
