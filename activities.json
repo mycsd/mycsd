@@ -173,6 +173,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-18",
+      "event name": "Kavipaadum Thendral 13.0: Procrastination to Productivity",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/YFzsS3PcX9PpgZ8E9",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-19",
       "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
       "time": "20:00",
@@ -233,6 +243,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2025-12-22",
+      "event name": "Fast Smarter, Live Better — Unlocking the 16:8 Advantage",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/2vfj63r37UpH76r69",
+      "status": "upcoming"
+    },
+    {
       "date": "2025-12-24",
       "event name": "Technical Video Workshop",
       "time": "14:30",
@@ -270,26 +290,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-18",
-      "event name": "Kavipaadum Thendral 13.0: Procrastination to Productivity",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/YFzsS3PcX9PpgZ8E9",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-22",
-      "event name": "Fast Smarter, Live Better — Unlocking the 16:8 Advantage",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/2vfj63r37UpH76r69",
       "status": "upcoming"
     }
   ]
