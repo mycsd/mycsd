@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-11",
-      "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/5684T26BKegijxks9",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-11",
-      "event name": "HOPE: Honouring Caregivers - Live Quiz",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/2cyxjfm5",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-11",
-      "event name": "第十五屆儒家道德思想講座會｜由健康飲食談身心靈合一之道",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "WEBEX",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/S2Y9UCAAajvH3rBM6",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-12",
       "event name": "Grow Your Future",
       "time": "20:30",
@@ -40,8 +8,10 @@
       "venue": "WEBEX",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-13",
       "event name": "MedHealth 7.0",
