@@ -1,26 +1,5 @@
 {
-  "today_events": [
-    {
-      "date": "2025-12-13",
-      "event name": "MedHealth 7.0",
-      "time": "10:00",
-      "end time": "16:00",
-      "venue": "Dewan Utama Desasiswa, Universiti Sains Malaysia",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/vbN6M7ATZayXiFfT8",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-13",
-      "event name": "STIGMA VS REALITI: Jangan Kasihani Kami, Fahami Kami",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/cZXS8VYz9Vfw5eeB7",
-      "status": "today"
-    }
-  ],
+  "today_events": [],
   "upcoming_events": [
     {
       "date": "2025-12-16",
