@@ -271,6 +271,16 @@
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-22",
+      "event name": "Resume and CV Writing Workshop",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vUeYqFP6h8q9HwLV8",
+      "status": "upcoming"
     }
   ]
 }
