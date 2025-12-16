@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-16",
-      "event name": "Coping in the Modern World: Managing Stress, Anxiety, and Burnout",
-      "time": "19:00",
-      "end time": "21:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/g88Km9vsc1KsSabHA",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-16",
-      "event name": "Invisible Citizens：Statelessness in Our World \"当世界看不见你，谁来为你发声？\"",
-      "time": "19:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYZrsyMhNtDxqWBVP7ZqD8nr21pjVZ26kelf-aZYKVdmZmXw/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-16",
-      "event name": "Project Young Minds : Phase 1 - Ignite The Vision",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/eDYfjWGQUP3hFCYC7",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-17",
       "event name": "USMCEC Technical Infographic Workshop 2025/2026",
       "time": "14:30",
@@ -40,7 +8,7 @@
       "venue": "Online Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScT2TWdBv68QR66Pa0jCPG0KOs4Sk1FLE8II1X9T9XSuh-eZQ/viewform?usp=header",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-17",
@@ -50,7 +18,7 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfeQ7nlqX_aXz-WFarimhfO5oGcNC2fvDDRfzJt9MTM8gUruQ/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-17",
@@ -60,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-17",
@@ -70,7 +38,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-17",
@@ -80,8 +48,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/XZpir1mSz4mzSjaXA",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-18",
       "event name": "Espresso Your Future: From Equation to Industry",
