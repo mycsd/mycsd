@@ -29,6 +29,16 @@
       "fee": 1,
       "registration link": "https://forms.gle/eDYfjWGQUP3hFCYC7",
       "status": "today"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Invisible Citizens: Statelessness in Our World",
+      "time": "19:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/2HYMVbCFDPiXAk7t6",
+      "status": "today"
     }
   ],
   "upcoming_events": [
@@ -210,6 +220,66 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfT-dALHazRuDez5xWawgL5jU-QYbhCwfMYlC15Pmhh_wGNtA/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-21",
+      "event name": "Lain Keupayaan, Sama Nilai",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/QXi4WpbnvPMpsJKWA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-01-03",
+      "event name": "Inside The Pill: How Medications Work in Your Body",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Online (Cisco Webex)",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Bicara Menjana Pendapatan Sampingan",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/XZpir1mSz4mzSjaXA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Community Outreach Programme 25/26 Webinar 3: Cancer & Lifestyle: How Daily Habits Shape Your Risks",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-23",
+      "event name": "The Glow Edit: How Science Says About Staying Youthful",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/UGj4e9PpGQ9XsSSj6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "SHINING STAR: ALUMNI TALK BEYOND THE MEDAL",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FNwpTNQr2u7dpsZT7",
       "status": "upcoming"
     }
   ]
