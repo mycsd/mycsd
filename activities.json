@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-17",
-      "event name": "USMCEC Technical Infographic Workshop 2025/2026",
-      "time": "14:30",
-      "end time": "17:00",
-      "venue": "Online Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScT2TWdBv68QR66Pa0jCPG0KOs4Sk1FLE8II1X9T9XSuh-eZQ/viewform?usp=header",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-17",
-      "event name": "An Introduction to Drone Engineering",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfeQ7nlqX_aXz-WFarimhfO5oGcNC2fvDDRfzJt9MTM8gUruQ/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-17",
-      "event name": "Join Our Webinar: Cancer and Lifestyle: How Daily Habits Shape Your Risk",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-17",
-      "event name": "Bicara Menjana Pendapatan Sampingan",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/XZpir1mSz4mzSjaXA",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-18",
       "event name": "Espresso Your Future: From Equation to Industry",
       "time": "14:00",
@@ -50,7 +8,7 @@
       "venue": "Bilik Seminar 3, PPSF @ Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdQ_4JocGC_7vK5xZz_MnzTDNdGTbV_gl_-Z_YYFG-zJAHq_Q/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-18",
@@ -60,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/YFzsS3PcX9PpgZ8E9",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-19",
       "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
