@@ -201,6 +201,56 @@
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform",
       "status": "upcoming"
+    },
+    {
+      "date": "2026-01-07",
+      "event name": "Digital Detox for Mental Health: Building Real Connections for a Sustainable Future",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe0au8CT4kQblm-x_za3dqsYvUvmMuFdjiYWOnyH9KDuLjMvg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-27",
+      "event name": "Kuiz Jejak Warisan",
+      "time": "08:00",
+      "end time": "22:00",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/B7T2krqJe4XeRPST6",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-28",
+      "event name": "From Malaysia To Japan: The Premium Insider Talk",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/spKNLrVXWRiUUA3u5",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "Menulis Jiwa: Bicara Puisi",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjTbl0n50kHKsInp9pWEkZW77VxaonCb9boauoyUoifSsUAQ/viewform?usp=header",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-29",
+      "event name": "Wacana Pantun : Seni Warisan, Suara Baharu",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSek1xirVYscLQbtwAsVLbNfWoyQFPFXzPxVmlBEDrrHe0a60A/viewform?usp=publish-editor",
+      "status": "upcoming"
     }
   ]
 }
