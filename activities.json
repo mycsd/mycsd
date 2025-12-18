@@ -1,38 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-18",
-      "event name": "Espresso Your Future: From Equation to Industry",
-      "time": "14:00",
-      "end time": "16:00",
-      "venue": "Bilik Seminar 3, PPSF @ Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdQ_4JocGC_7vK5xZz_MnzTDNdGTbV_gl_-Z_YYFG-zJAHq_Q/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-18",
-      "event name": "Kavipaadum Thendral 13.0: Procrastination to Productivity",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/YFzsS3PcX9PpgZ8E9",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-18",
-      "event name": "It's Okay to Ask for Help: Breaking the Stigma of Counseling",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Webex Live, Facebook Live",
-      "fee": "✨Free",
-      "registration link": "https://shorturl.at/fcZzW",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-19",
       "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
       "time": "20:00",
@@ -40,7 +8,7 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/N6Zkp7DeqyU5zxg97",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-19",
@@ -50,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-19",
@@ -60,7 +28,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/KfJghWvpXbShRh2P7",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-19",
@@ -70,7 +38,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdRwR_drNoT5a0_-3cJ4zurLhemC_SYg4coSbfoHQipuqnx3A/viewform",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-19",
@@ -80,8 +48,10 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-20",
       "event name": "The EngiQuest",
