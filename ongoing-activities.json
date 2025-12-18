@@ -7,5 +7,14 @@
         "venue": "Google Form",
         "fee": 1,
         "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSczHzr-De-1KSSIiVjdegJD1UjM16qWucVYe4PaKZW6TqOAZw/viewform"
+    },
+    {
+        "activity name": "[QUIZ] Pharma Trivia Quiz",
+        "start_date": "2025-12-08",
+        "end_date": "2026-01-12",
+        "time": null,
+        "venue": "Google Form",
+        "fee": 1,
+        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfJ_VWp80JmO7mWbErs5y5azP5HlaL80ma4ag2hI-Tqt-yKrA/viewform"
     }
 ]
