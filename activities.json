@@ -1,58 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-19",
-      "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/N6Zkp7DeqyU5zxg97",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-19",
-      "event name": "Healthy Minds, Healthy Students: Balancing Wellness and Education",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/VGQ3t4Rn353oMih97",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-19",
-      "event name": "Let’s Talk Networking: Building Connections Beyond Borders",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/KfJghWvpXbShRh2P7",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-19",
-      "event name": "Mastering Charts, Spotting Trends",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdRwR_drNoT5a0_-3cJ4zurLhemC_SYg4coSbfoHQipuqnx3A/viewform",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-19",
-      "event name": "PHYSICS COFFEE TALK: Life Cycle of Field",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-20",
       "event name": "The EngiQuest",
       "time": "10:00",
@@ -60,7 +8,7 @@
       "venue": "Quizizz (Online)",
       "fee": 1,
       "registration link": "https://forms.gle/6MNMSLiV9FF4NfnH7",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-20",
@@ -70,7 +18,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-20",
@@ -80,8 +28,20 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/FNwpTNQr2u7dpsZT7",
-      "status": "upcoming"
+      "status": "today"
     },
+    {
+      "date": "2025-12-20",
+      "event name": "Menulis Jiwa: Bicara Puisi",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjTbl0n50kHKsInp9pWEkZW77VxaonCb9boauoyUoifSsUAQ/viewform?usp=header",
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-21",
       "event name": "Lain Keupayaan, Sama Nilai",
@@ -210,16 +170,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/spKNLrVXWRiUUA3u5",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-20",
-      "event name": "Menulis Jiwa: Bicara Puisi",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjTbl0n50kHKsInp9pWEkZW77VxaonCb9boauoyUoifSsUAQ/viewform?usp=header",
       "status": "upcoming"
     },
     {
