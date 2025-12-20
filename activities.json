@@ -1,48 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-20",
-      "event name": "The EngiQuest",
-      "time": "10:00",
-      "end time": "22:00",
-      "venue": "Quizizz (Online)",
-      "fee": 1,
-      "registration link": "https://forms.gle/6MNMSLiV9FF4NfnH7",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-20",
-      "event name": "Develop Skills for the Future",
-      "time": "20:00",
-      "end time": "23:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-20",
-      "event name": "SHINING STAR: ALUMNI TALK BEYOND THE MEDAL",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/FNwpTNQr2u7dpsZT7",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-20",
-      "event name": "Menulis Jiwa: Bicara Puisi",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjTbl0n50kHKsInp9pWEkZW77VxaonCb9boauoyUoifSsUAQ/viewform?usp=header",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-21",
       "event name": "Lain Keupayaan, Sama Nilai",
       "time": "20:30",
@@ -50,8 +8,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/QXi4WpbnvPMpsJKWA",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-22",
       "event name": "Fast Smarter, Live Better — Unlocking the 16:8 Advantage",
