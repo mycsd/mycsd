@@ -104,6 +104,16 @@
     },
     {
       "date": "2026-01-07",
+      "event name": "Feed Your Focus",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/U8voDS8hoNMcmHWo7",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-01-07",
       "event name": "Digital Detox for Mental Health: Building Real Connections for a Sustainable Future",
       "time": "20:00",
       "end time": "22:00",
@@ -168,18 +178,8 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-N6ggr0Nlsa91NBu4_m_t_AdVLJcLH_UGvGungiKRk6QCUA/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2025-12-27",
-      "event name": "SEE Eco Week 2025 TikTok Challenge",
-      "time": "00:00",
-      "end time": "23:59",
-      "venue": "TikTok",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-j2zfR6K9ilHHtQ9oLU5NH_NkiMFqRN4hZCMVxqqzjfH-bw/viewform?usp=send_form",
       "status": "upcoming"
     },
     {
