@@ -161,6 +161,56 @@
       "fee": 1,
       "registration link": "https://forms.gle/HtvsHjF6fggNrRvq6",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-23",
+      "event name": "Environmental engineering & green tech expert talk",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-N6ggr0Nlsa91NBu4_m_t_AdVLJcLH_UGvGungiKRk6QCUA/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-27",
+      "event name": "SEE Eco Week 2025 TikTok Challenge",
+      "time": "00:00",
+      "end time": "23:59",
+      "venue": "TikTok",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-j2zfR6K9ilHHtQ9oLU5NH_NkiMFqRN4hZCMVxqqzjfH-bw/viewform?usp=send_form",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-26",
+      "event name": "ONLINE TALK SERIES 3: JOURNEY TO BECOME A PILOT",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd7XHIrbePmnpDFY8QlUV281zs-zLoy8ODeTiIXpzmXc4_9yQ/viewform?usp=publish-editor",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-31",
+      "event name": "ULTIMATE CAR KNOWLEDGE QUIZ",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Quizizz",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe6lSQywuLLCX7y7qtmHzmJbAsHAx6nFnJkV-nn8b7mM6_YfQ/viewform?usp=sharing&ouid=102756081264112814533",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-22",
+      "event name": "BENGKEL NOTEBOOKLM",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Meet",
+      "fee": "✨Free",
+      "registration link": "ezy.la/NotebookLMDEC25",
+      "status": "upcoming"
     }
   ]
 }
