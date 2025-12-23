@@ -54,6 +54,16 @@
     },
     {
       "date": "2025-12-26",
+      "event name": "E-Waste Quizzizz",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/kGhsB71pezdaTJNEA",
+      "status": "upcoming"
+    },
+    {
+      "date": "2025-12-26",
       "event name": "ONLINE TALK SERIES 3: JOURNEY TO BECOME A PILOT",
       "time": "20:30",
       "end time": "22:00",
@@ -133,6 +143,16 @@
       "status": "upcoming"
     },
     {
+      "date": "2026-01-02",
+      "event name": "SSI Volunteer Voices : Episode 6",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco WebEx (Online)",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSIVV-EP6-Registration",
+      "status": "upcoming"
+    },
+    {
       "date": "2026-01-03",
       "event name": "Inside The Pill: How Medications Work in Your Body",
       "time": "20:00",
@@ -140,6 +160,16 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform",
+      "status": "upcoming"
+    },
+    {
+      "date": "2026-01-03",
+      "event name": "Mental Health Talk: From Burnout to Balance",
+      "time": "20:30",
+      "end time": "23:00",
+      "venue": "online via Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/bD4YvfE1pLnr8bxC7",
       "status": "upcoming"
     },
     {
@@ -170,26 +200,6 @@
       "venue": "Dewan Utama Pelajar, USM",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScsjfUkxm36Y6rmoCXfhvyzVA1xifaHWAcRUZLmitG04xfhYQ/viewform",
-      "status": "upcoming"
-    },
-    {
-      "date": "2026-01-02",
-      "event name": "SSI Volunteer Voices : Episode 6",
-      "time": "20:00",
-      "end time": "21:30",
-      "venue": "Cisco WebEx (Online)",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVV-EP6-Registration",
-      "status": "upcoming"
-    },
-    {
-      "date": "2026-01-03",
-      "event name": "Mental Health Talk: From Burnout to Balance",
-      "time": "20:30",
-      "end time": "23:00",
-      "venue": "online via Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/bD4YvfE1pLnr8bxC7",
       "status": "upcoming"
     }
   ]
