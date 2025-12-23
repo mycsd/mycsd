@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-23",
-      "event name": "The Glow Edit: How Science Says About Staying Youthful",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/UGj4e9PpGQ9XsSSj6",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-23",
-      "event name": "Future Engineer, Future Earth",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-N6ggr0Nlsa91NBu4_m_t_AdVLJcLH_UGvGungiKRk6QCUA/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-24",
       "event name": "Technical Video Workshop",
       "time": "14:30",
@@ -30,7 +8,7 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9",
-      "status": "upcoming"
+      "status": "today"
     },
     {
       "date": "2025-12-24",
@@ -40,8 +18,10 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfT-dALHazRuDez5xWawgL5jU-QYbhCwfMYlC15Pmhh_wGNtA/viewform",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-25",
       "event name": "Kuiz Kewangan by Exco Muamalah PMI USMKKJ 25/26",
