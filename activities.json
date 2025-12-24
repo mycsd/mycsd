@@ -1,28 +1,6 @@
 {
   "today_events": [
     {
-      "date": "2025-12-24",
-      "event name": "Technical Video Workshop",
-      "time": "14:30",
-      "end time": "17:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9",
-      "status": "today"
-    },
-    {
-      "date": "2025-12-24",
-      "event name": "DARI UNIVERSITI KE INDUSTRI: PENTINGNYA NETWORKING",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfT-dALHazRuDez5xWawgL5jU-QYbhCwfMYlC15Pmhh_wGNtA/viewform",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
-    {
       "date": "2025-12-25",
       "event name": "Kuiz Kewangan by Exco Muamalah PMI USMKKJ 25/26",
       "time": "08:00",
@@ -30,8 +8,10 @@
       "venue": "Google Form",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1",
-      "status": "upcoming"
-    },
+      "status": "today"
+    }
+  ],
+  "upcoming_events": [
     {
       "date": "2025-12-26",
       "event name": "E-Waste Quizzizz",
