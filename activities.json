@@ -211,6 +211,16 @@
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform",
       "status": "upcoming"
+    },
+    {
+      "date": "2025-12-31",
+      "event name": "Buli Bukan Gurauan: Memahami Risiko Undang-undang dan Akibatnya",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe-F20bI4ZleWd2Gfqrre7U-seFdM34kcl1aDDlehxRXFXtyA/viewform?usp=publish-editor",
+      "status": "upcoming"
     }
   ]
 }
