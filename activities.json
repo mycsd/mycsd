@@ -1,5 +1,1094 @@
 {
-  "today_events": [
+  "events": [
+    {
+      "date": "1970-01-01",
+      "event name": "Event",
+      "time": "NaN:00",
+      "end time": "NaN:00",
+      "venue": "Platform",
+      "fee": "Fee",
+      "registration link": "Registration Link"
+    },
+    {
+      "date": "2025-11-25",
+      "event name": "MedHealth Phase 2: Live Quiz",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/SLNX7du3LfoW2Mf4A"
+    },
+    {
+      "date": "2025-11-27",
+      "event name": "SSI Volunteer Voices : Episode 3",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco WebEx (Online)",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSI-VV3-Registration"
+    },
+    {
+      "date": "2025-12-03",
+      "event name": "USMCEC Technical Presentation Workshop 2025/2026",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Etqgt2VeGgNVfW738"
+    },
+    {
+      "date": "2025-12-03",
+      "event name": "Webinar 2: Beyond Beauty — The Science & Safety of Skincare",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/RqzzAnRg4zcThnnp9"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "Early Detection and Lifestyle Interventions in Alzheimer’s Disease – What You Need to Know?!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/LQxEpdzHiSNeTj5f6"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "Mathematics in Action: Structuring Success from the Ground Up",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/hqdQSu2oQgUEuxYS6"
+    },
+    {
+      "date": "2025-12-04",
+      "event name": "The Power Of MyCSD",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/uMpg4k5yJMvvNFrU8"
+    },
+    {
+      "date": "2025-10-25",
+      "event name": "WMHD 2025: Your Mind Matters",
+      "time": "08:00",
+      "end time": "18:00",
+      "venue": "DSG USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/hNx9dEbPKDTHET8PA"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "Chemistry Interactive Talk 2.0- Why Chemistry Matters: From Molecule Design to Real- World Impact",
+      "time": "09:15",
+      "end time": "10:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m86aa0a43f28f13f2a27c82198ff7a2e6"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "ASEAN Technopreneurship in 2025: Riding the Volatilities of AI, Funding and Geopolitics",
+      "time": "10:00",
+      "end time": "12:15",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSedHftVwVx9TqCzONNM0OUVXsvsCdGqXndXzqSu9fROTCkjNg/viewform"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "BIJAKWANG CHALLENGE 2025",
+      "time": "13:00",
+      "end time": "14:00",
+      "venue": "ONLINE",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/XjiDkUm3YR8diokZ8"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "IEEE USM Welcoming Day 2025",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "DSG USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdLVynCbz7T6C06bG2yO0Kna2GUOH5aeZ3SKsm7lPPbY_TJiA/viewform"
+    },
+    {
+      "date": "2025-10-07",
+      "event name": "ROADSHOW IDEA Fair 2025",
+      "time": "14:00",
+      "end time": "17:00",
+      "venue": "CAFE LEMBARAN",
+      "fee": "✨Free",
+      "registration link": "walk in"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "Japan Career Talk",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/tsYkLwLfRwchy3u36"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "Level Up Your Career: Internship Recruitment with NI Emerson",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "DK5 USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/kqoRxRzpCqFGiSeQA"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "Micron & the Moment: Opportunities in Semiconductor Memory and Storage",
+      "time": "14:30",
+      "end time": "15:30",
+      "venue": "Auditorium USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.office.com/r/L2x8pJSz7A"
+    },
+    {
+      "date": "2025-10-28",
+      "event name": "IEEE Engagement Day 2025",
+      "time": "17:30",
+      "end time": "20:00",
+      "venue": "CAFE LEMBARAN USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdlK2ODUb7uFUQSbHWk8F594GdVU7l5yMLURCGs6wfdUUDfMw/viewform"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": " 看不见的学校：影子里的教育故事",
+      "time": "19:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/nj7HTVxvwNaKmcAo8"
+    },
+    {
+      "date": "2025-10-23",
+      "event name": "理工佛学会迎新夜",
+      "time": "19:00",
+      "end time": "23:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/2YtZ9vsUMnvX8uyC8"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "理工华乐团迎新夜",
+      "time": "19:00",
+      "end time": "22:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/x8br2MeHpWDWmth59"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "THEERAN 2025: SILAMBAM - A Legacy of Strength and Culture",
+      "time": "19:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/srWEQY155C7vGhsdA"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "小草颂迎新夜",
+      "time": "19:30",
+      "end time": "22:30",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://tinyurl.com/5btcfe47"
+    },
+    {
+      "date": "2025-10-31",
+      "event name": "理工华协文娱夜迎新夜",
+      "time": "19:30",
+      "end time": "22:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeds3DtZFk2crhHP1J8O-S49W9tG8LNj4U8P43wtJ_tHXov5g/viewform"
+    },
+    {
+      "date": "2025-10-17",
+      "event name": "GREEN CONVEX Episode 1 – Ethics of Recycling",
+      "time": "19:45",
+      "end time": "22:00",
+      "venue": "Cisco Webex & YouTube",
+      "fee": 1,
+      "registration link": "https://forms.gle/TjMsEHKm8bQ5HsER6"
+    },
+    {
+      "date": "2025-11-06",
+      "event name": "下乡迎新夜",
+      "time": "19:45",
+      "end time": "23:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfrbsOy24kylDfAZ4UJ_6PlHcqQ7kCA0POvFijpD8WTO8DN5Q/viewform"
+    },
+    {
+      "date": "2025-11-20",
+      "event name": "[NATIONAL MYCSD]\nTALK 3S SHOOT, STRIVE & SUCCEED",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/TpVsvpV2jhddXSA29"
+    },
+    {
+      "date": "2025-11-06",
+      "event name": "Academic Integrity in the Digital Era: Copyright, Plagiarism and AI in Research Writing",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/N1ce6iuzJbS8qEQf6"
+    },
+    {
+      "date": "2025-11-22",
+      "event name": "AI Assisted Organ-on-Chip — A Future of Nano-Medicine",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeue5yjbCDaPFeAtyphdznT3LXfpS9An7mgWEuUY4rciiKB2Q/viewform"
+    },
+    {
+      "date": "2025-10-23",
+      "event name": "ASHRAE USM Welcoming Night",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Mechanical School MEK 2",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdvLmiRjMJChkpAWTrI8UR8WAQTDXvHz7BPl3-afl9s5smuAA/viewform"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "Balancing Mind and Body: Complementary Therapies for Student Well-Being",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/dXZRoQUcZtNZFn1h8"
+    },
+    {
+      "date": "2025-10-17",
+      "event name": "Balancing: Health, Medicine & Happiness",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfg_N4ghIXbsyjUfHmszlFgwh--ETTskSmGAvalamoFoFsseA/viewform"
+    },
+    {
+      "date": "2025-10-15",
+      "event name": "Beyond Boundaries Online Talk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyzxvCPNqJK8wsjeAjESp4vftUnCslZXlXldHp01Z1Nk9PRA/viewform"
+    },
+    {
+      "date": "2025-10-15",
+      "event name": "Beyond Prescriptions: Health Literacy in Action for Safe and Responsible Medicine Practices",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/eUr6rwztSJSsqZwn7"
+    },
+    {
+      "date": "2025-10-23",
+      "event name": "Cancer Clues: What Early Signs Can Tell Us",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/Registration-Form-OT1"
+    },
+    {
+      "date": "2025-10-30",
+      "event name": "Compassion in Action: Uplifting Orphaned Lives",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/7w2LLKkZwTNpbMVG9"
+    },
+    {
+      "date": "2025-09-16",
+      "event name": "event 1",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "GITHUB",
+      "fee": "✨Free",
+      "registration link": "none"
+    },
+    {
+      "date": "2025-09-22",
+      "event name": "event 1",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "GITHUB",
+      "fee": 1,
+      "registration link": ""
+    },
+    {
+      "date": "2025-09-23",
+      "event name": "event 2",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "GITHUB",
+      "fee": 1,
+      "registration link": ""
+    },
+    {
+      "date": "2025-09-24",
+      "event name": "event 3",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "GITHUB",
+      "fee": "✨Free",
+      "registration link": ""
+    },
+    {
+      "date": "2025-09-25",
+      "event name": "event 4",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "GITHUB",
+      "fee": "✨Free",
+      "registration link": ""
+    },
+    {
+      "date": "2025-10-23",
+      "event name": "GREEN CONVEX Episode 2 – AI & Water Consumption",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/ZCqhrUs7nHQeijf68"
+    },
+    {
+      "date": "2025-10-30",
+      "event name": "GREEN CONVEX Episode 3 – Global Policies & Natural Resources",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/R1TxHVhsanuikSKk7"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "IMechE Welcoming Night",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Mechanical School, MEK 2",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/fsnKC564bURAtPsU6"
+    },
+    {
+      "date": "2025-11-11",
+      "event name": "It's Okay to Not Be Okay: Break the Stigma of Mental Health",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScnn9G2ZXpiLbmwlm8Qx1sCyQqwEfvdqiQW9uSatU3GZcxN9Q/viewform?pli=1"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "LENSA PENTAS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FwDxGvxQAmBLMtcD9"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Limitless Lights",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/TS-LLIGHT"
+    },
+    {
+      "date": "2025-11-18",
+      "event name": "MedHealth Phase 1: Online Talk",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tmDFbw9HR5mv7C3b7"
+    },
+    {
+      "date": "2025-11-08",
+      "event name": "Mind Over Matters — Coping with Stress and Finding Purpose in University",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSc7bdjt1r5bnG_yKChJO7jq8XsO5QWFVIrxtUS_xsYpHP2Lyg/viewform"
+    },
+    {
+      "date": "2025-11-05",
+      "event name": "Pharmacy Compounding Challenge Webinar 1: The Future of Pharmacy: From Compounding to AI-Driven Care",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/3J8hnwoHXASDoYjJ8"
+    },
+    {
+      "date": "2025-10-30",
+      "event name": "PHARMATRADE WEBINAR 1 : Immunity in Aging",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://shorturl.at/RxNXO"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "PharmEx 25/26: Webinar 1 - Vape, Shisha & You — What’s the Truth About It?",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/caV1yArw9YCLwEj4A"
+    },
+    {
+      "date": "2025-11-21",
+      "event name": "PHYSICS COFFEE TALK: Exploring the World of Seismic Interpretation",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSf3f-ibl3yHbNiNadlBoq1JvRt1ZSmWM60mGWkCOKS60dQdFQ/viewform"
+    },
+    {
+      "date": "2025-10-29",
+      "event name": "Physics Trivia Quiz Night",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/W4grqKkkqWqbYAQh6"
+    },
+    {
+      "date": "2025-10-16",
+      "event name": "SSI Volunteer Voices: Episode 1",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSIVV1-Registration"
+    },
+    {
+      "date": "2025-10-31",
+      "event name": "SSI Volunteer Voices: Episode 2",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSIVV2"
+    },
+    {
+      "date": "2025-11-12",
+      "event name": "The Case Unfolds: Rights, Arrest and Trials",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfu5pfZ6_cXSgytrUc2uztr_oMtMwjZykGeqaQLjbz8_gHXPw/viewform"
+    },
+    {
+      "date": "2025-11-17",
+      "event name": "Unlock Your Best Self",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BF3D6fGja5KHX4kF7"
+    },
+    {
+      "date": "2025-11-15",
+      "event name": "Vaccines: Myths vs. Facts – What You Need to Know",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/PYSTeQQCZfdDXsKp7"
+    },
+    {
+      "date": "2025-11-21",
+      "event name": "Webinar: Stress Management in a Fast-Paced World",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vqJUV5U4V64VjHHBA"
+    },
+    {
+      "date": "2025-11-19",
+      "event name": "Wild Wisdom Online Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/1Y8t6MaSkHv8J7Gy8"
+    },
+    {
+      "date": "2025-11-01",
+      "event name": "华文班迎新夜",
+      "time": "20:00",
+      "end time": "22:40",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/fBALcppTdTHV7gEm6"
+    },
+    {
+      "date": "2025-11-07",
+      "event name": "理升迎新夜",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSekVRTuoP5BCl3727yJfpF6PMcn7Htbh474rmI1jp5oW5dleg/viewform"
+    },
+    {
+      "date": "2025-11-03",
+      "event name": "理工辩迎新夜",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/PLVWhuqFaq1Fznb6A"
+    },
+    {
+      "date": "2025-11-09",
+      "event name": "Adikarma Mini Showcase 2025",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Kafe Lembaran, USMKKJ",
+      "fee": "✨Free",
+      "registration link": "walk in"
+    },
+    {
+      "date": "2025-11-20",
+      "event name": "Bounce Back Better: The Journey Beyond Grief",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Webex Live, Facebook Live",
+      "fee": "✨Free",
+      "registration link": "https://shorturl.at/vZzqd"
+    },
+    {
+      "date": "2025-11-14",
+      "event name": "Financial Planning Workshop",
+      "time": "20:30",
+      "end time": "23:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vJrBpu4aCgPZ7Ac97"
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "HEAL & RISE: MASTER YOUR EMOTIONS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScMPvIkXgzO_IXL4HQe32HNymAXMmDDHpjzYfgBspXQ4CASxA/viewform"
+    },
+    {
+      "date": "2025-10-24",
+      "event name": "Zero Tolerance: Katakan Tidak Pada Buli dan Amang Seksual",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Microsoft Teams",
+      "fee": 1,
+      "registration link": "https://forms.gle/rjKgxWQvo1WnpBmK9"
+    },
+    {
+      "date": "2025-10-30",
+      "event name": "舞蹈组迎新夜",
+      "time": "20:30",
+      "end time": "23:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdTvWPSnrbYeLb5-84eubqXaRVq6SZxAhQ79hSAums6z4FbHQ/viewform"
+    },
+    {
+      "date": "2025-09-17",
+      "event name": "event 2",
+      "time": "",
+      "end time": "",
+      "venue": "",
+      "fee": "",
+      "registration link": ""
+    },
+    {
+      "date": "2025-11-16",
+      "event name": "PharmaCare: Promoting Knowledge for Better Health",
+      "time": "",
+      "end time": "",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeMTeu7W7-A1fkggPXZ1Ixu2CjO1To0yHKHOn3tYxzSY0trCw/viewform?usp=sharing&ouid=103013791037563037366"
+    },
+    {
+      "date": "2025-12-05",
+      "event name": "PANTUN: WARISAN BUDAYA MELAYU",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/XhYSQZXVk3M2YJrk7"
+    },
+    {
+      "date": "2025-12-05",
+      "event name": "SSI Volunteer Voices : Episode 4",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/SSIVVEp4RegistrationForm"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "PRO-ETIQUETTE FORUM 2025",
+      "time": "14:30",
+      "end time": "18:00",
+      "venue": "Lattice Lounge, PPKBSM and WebEx",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdUCahjlOL0UWMjeR3drx0QhqjC3-RhBmO5VRSTAFslj97ykA/viewform?usp=header"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "CHRISTMAS NIGHT 2025 – JOY TO THE WORLD: THE GIFT OF GRACE",
+      "time": "19:00",
+      "end time": "22:00",
+      "venue": "PUMA Hall @ Engineering Campus",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeGM39Fu3Rzkx6B0CFzme4c_tjTDJUQFLBJc0joMPz414XWYQ/viewform?usp=sharing&ouid=109637154485609188906"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "SkinRx: Secrets of Healthy and Radiant Skin",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfxS4MeauXvk53C9OP6QAV6M4jLQcSOB84Vwl8SpExTfTW9xw/viewform?usp=header"
+    },
+    {
+      "date": "2025-12-10",
+      "event name": "理工华乐团-基础乐理课",
+      "time": "20:00",
+      "end time": "23:00",
+      "venue": "PUMA HALL USMKKJ",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqclIWML86SZbWFYFn0g7rBFSIgAGSLLpS3G8vhxDZ-31xYg/viewform"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "Click, Edit & Impress: Your Guide to Perfecting Visuals with Canva",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/5684T26BKegijxks9"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "HOPE: Honouring Caregivers - Live Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/2cyxjfm5"
+    },
+    {
+      "date": "2025-12-11",
+      "event name": "第十五屆儒家道德思想講座會｜由健康飲食談身心靈合一之道",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/S2Y9UCAAajvH3rBM6"
+    },
+    {
+      "date": "2025-12-12",
+      "event name": "Grow Your Future",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "WEBEX",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdstZtonYWog-ZYYgFVYoVOOY-ixqY4gYGL7oWIpfIiVgITig/viewform?pli=1"
+    },
+    {
+      "date": "2025-12-13",
+      "event name": "MedHealth 7.0",
+      "time": "10:00",
+      "end time": "16:00",
+      "venue": "Dewan Utama Desasiswa, Universiti Sains Malaysia",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/vbN6M7ATZayXiFfT8"
+    },
+    {
+      "date": "2025-12-13",
+      "event name": "STIGMA VS REALITI: Jangan Kasihani Kami, Fahami Kami",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/cZXS8VYz9Vfw5eeB7"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "USMCEC Technical Infographic Workshop 2025/2026",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Online Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScT2TWdBv68QR66Pa0jCPG0KOs4Sk1FLE8II1X9T9XSuh-eZQ/viewform?usp=header"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "An Introduction to Drone Engineering",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfeQ7nlqX_aXz-WFarimhfO5oGcNC2fvDDRfzJt9MTM8gUruQ/viewform"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Join Our Webinar: Cancer and Lifestyle: How Daily Habits Shape Your Risk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Bicara Menjana Pendapatan Sampingan",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/XZpir1mSz4mzSjaXA"
+    },
+    {
+      "date": "2025-12-18",
+      "event name": "Espresso Your Future: From Equation to Industry",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "Bilik Seminar 3, PPSF @ Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdQ_4JocGC_7vK5xZz_MnzTDNdGTbV_gl_-Z_YYFG-zJAHq_Q/viewform"
+    },
+    {
+      "date": "2025-12-18",
+      "event name": "Kavipaadum Thendral 13.0: Procrastination to Productivity",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/YFzsS3PcX9PpgZ8E9"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Bengkel Proposal & Tajaan: Dari Idea Ke Dana",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/N6Zkp7DeqyU5zxg97"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Healthy Minds, Healthy Students: Balancing Wellness and Education",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/VGQ3t4Rn353oMih97"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "MedHealth Phase 3: Online Talk 2",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/aga12Pbs5LEJ6ps97"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "Women in Sports: Achievements, Challenges and the Road Ahead",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/yJmutRDzAMUL8o3t7"
+    },
+    {
+      "date": "2025-12-01",
+      "event name": "RC PLANE CLUB Online Talk Series (OTS) 1",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe19Lu_tzFIPIlDb1WNaEQOg_8LJRRPHIpKOphhAbCf_NK_0g/viewform?usp=publish-editor"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Let’s Talk Networking: Building Connections Beyond Borders",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/KfJghWvpXbShRh2P7"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "Mastering Charts, Spotting Trends",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdRwR_drNoT5a0_-3cJ4zurLhemC_SYg4coSbfoHQipuqnx3A/viewform"
+    },
+    {
+      "date": "2025-12-19",
+      "event name": "PHYSICS COFFEE TALK: Life Cycle of Field",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdjWseTdmBRpGt4lFtjQXjEixP9xyAjzPJl62S6lWEjCwB_yQ/viewform"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "The EngiQuest",
+      "time": "10:00",
+      "end time": "22:00",
+      "venue": "Quizizz (Online)",
+      "fee": 1,
+      "registration link": "https://forms.gle/6MNMSLiV9FF4NfnH7"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "Develop Skills for the Future",
+      "time": "20:00",
+      "end time": "23:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vkwtvKyTzBsvZtfY8"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "SHINING STAR: ALUMNI TALK BEYOND THE MEDAL",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FNwpTNQr2u7dpsZT7"
+    },
+    {
+      "date": "2025-12-21",
+      "event name": "Lain Keupayaan, Sama Nilai",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/QXi4WpbnvPMpsJKWA"
+    },
+    {
+      "date": "2025-12-22",
+      "event name": "Fast Smarter, Live Better — Unlocking the 16:8 Advantage",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/2vfj63r37UpH76r69"
+    },
+    {
+      "date": "2025-12-22",
+      "event name": "Resume and CV Writing Workshop",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/vUeYqFP6h8q9HwLV8"
+    },
+    {
+      "date": "2025-12-06",
+      "event name": "Bengkel Artificial Intelligence",
+      "time": "09:00",
+      "end time": "11:00",
+      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/gfqNQVLuHWTz2tZJ8"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "BENGKEL DRON 2025 – LEVEL UP YOUR FLIGHT SKILLS!",
+      "time": "10:00",
+      "end time": "13:00",
+      "venue": "Bilik Seminar Hangar, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "第十五屆儒家道德思想講座會｜轉生之我成為儒家弟子這件事",
+      "time": "13:00",
+      "end time": "17:00",
+      "venue": "Dewan Serbaguna (DSG)",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/MTexuGNWEwcrAeGg8"
+    },
+    {
+      "date": "2025-12-06",
+      "event name": "Bengkel Canva di Festival Gegaq25",
+      "time": "15:00",
+      "end time": "17:00",
+      "venue": "Bilik Seminar PUMA, USM Kampus Kejuruteraan, Nibong Tebal",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/zhJS1mzpPfRWEaf58"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "第十五屆儒家道德思想講座會｜杏壇到講堂",
+      "time": "19:30",
+      "end time": "22:00",
+      "venue": "USM KKJ DK5",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/snukyBNU2gmEJ3aK7"
+    },
+    {
+      "date": "2025-12-06",
+      "event name": "From Broke to Bold: How Financial Planning Shapes Your Future",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScC4gcY6hs-RgijX_gETu6035xiJ32LVx8cryGCMB9WElkDrQ/viewform?usp=dialog"
+    },
+    {
+      "date": "2025-12-07",
+      "event name": "Leadership and Time Management: The Power To Lead and Success",
+      "time": "21:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe2fI0xRx9a6UYd-ZFoxCRWOyfK665uFmEa9TLwy6Q0peRMMA/viewform?usp=publish-editor"
+    },
+    {
+      "date": "2025-12-22",
+      "event name": "BENGKEL NOTEBOOKLM",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Meet",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScKrgsRj_fZMPKIolx2Erc_qgYeUiSijfzkerc9xFmjCRDJAQ/viewform"
+    },
+    {
+      "date": "2025-12-09",
+      "event name": "Baktisiswa 25/26: Webinar 1 - The Resistance Awakens: When Antibiotics Fail in Superbugs",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdrwSZ6eVtiF74Y1Ml5F5Yb24sFCSjH_W2P9J7f-CTpLpyCRw/viewform"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "Nature's Voice: A Wake-Up Call for the Planet",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsPlryyLOsXMtevx4I8ACi8JCThID1e_HrzJHphHkHLoNyxg/viewform"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "RC PLANE CLUB ONLINE TALK SERIES 2: The Future of Malaysia's Aerospace Industry",
+      "time": "20:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/u5ZGCyF2r4N6tYuj8"
+    },
+    {
+      "date": "2025-12-08",
+      "event name": "Googling Your Symptoms: Finding Truth Amid Misinformation",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Yf6LUqtfNVjohDNj6"
+    },
+    {
+      "date": "2025-12-23",
+      "event name": "The Glow Edit: How Science Says About Staying Youthful",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/UGj4e9PpGQ9XsSSj6"
+    },
+    {
+      "date": "2025-12-23",
+      "event name": "Future Engineer, Future Earth",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-N6ggr0Nlsa91NBu4_m_t_AdVLJcLH_UGvGungiKRk6QCUA/viewform"
+    },
+    {
+      "date": "2025-12-24",
+      "event name": "Technical Video Workshop",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/tYo5y1wv9ZQhgyqR9"
+    },
+    {
+      "date": "2025-12-24",
+      "event name": "DARI UNIVERSITI KE INDUSTRI: PENTINGNYA NETWORKING",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfT-dALHazRuDez5xWawgL5jU-QYbhCwfMYlC15Pmhh_wGNtA/viewform"
+    },
+    {
+      "date": "2025-12-25",
+      "event name": "Kuiz Kewangan by Exco Muamalah PMI USMKKJ 25/26",
+      "time": "08:00",
+      "end time": "20:00",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd6Lv3DfNl0e-TMROhCcZT66ov-7KVgeqYcjFTEYH1xjYkfjA/viewform?pli=1&pli=1"
+    },
     {
       "date": "2025-12-26",
       "event name": "E-Waste Quizzizz",
@@ -7,8 +1096,25 @@
       "end time": "22:30",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/kGhsB71pezdaTJNEA",
-      "status": "today"
+      "registration link": "https://forms.gle/kGhsB71pezdaTJNEA"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Coping in the Modern World: Managing Stress, Anxiety, and Burnout",
+      "time": "19:00",
+      "end time": "21:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/g88Km9vsc1KsSabHA"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Invisible Citizens：Statelessness in Our World \"当世界看不见你，谁来为你发声？\"",
+      "time": "19:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYZrsyMhNtDxqWBVP7ZqD8nr21pjVZ26kelf-aZYKVdmZmXw/viewform"
     },
     {
       "date": "2025-12-26",
@@ -17,11 +1123,17 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd7XHIrbePmnpDFY8QlUV281zs-zLoy8ODeTiIXpzmXc4_9yQ/viewform?usp=publish-editor",
-      "status": "today"
-    }
-  ],
-  "upcoming_events": [
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd7XHIrbePmnpDFY8QlUV281zs-zLoy8ODeTiIXpzmXc4_9yQ/viewform?usp=publish-editor"
+    },
+    {
+      "date": "2025-12-16",
+      "event name": "Project Young Minds : Phase 1 - Ignite The Vision",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/eDYfjWGQUP3hFCYC7"
+    },
     {
       "date": "2025-12-27",
       "event name": "Kuiz Jejak Warisan",
@@ -29,8 +1141,7 @@
       "end time": "22:00",
       "venue": "Google Form",
       "fee": 1,
-      "registration link": "https://forms.gle/B7T2krqJe4XeRPST6",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/B7T2krqJe4XeRPST6"
     },
     {
       "date": "2025-12-28",
@@ -39,8 +1150,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/spKNLrVXWRiUUA3u5",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/spKNLrVXWRiUUA3u5"
     },
     {
       "date": "2025-12-29",
@@ -49,8 +1159,16 @@
       "end time": "23:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/CZAzC8UVCwmcaYPRA",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/CZAzC8UVCwmcaYPRA"
+    },
+    {
+      "date": "2025-12-20",
+      "event name": "Menulis Jiwa: Bicara Puisi",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfjTbl0n50kHKsInp9pWEkZW77VxaonCb9boauoyUoifSsUAQ/viewform?usp=header"
     },
     {
       "date": "2025-12-29",
@@ -59,8 +1177,16 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/HtvsHjF6fggNrRvq6",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/HtvsHjF6fggNrRvq6"
+    },
+    {
+      "date": "2025-12-17",
+      "event name": "Community Outreach Programme 25/26 Webinar 3: Cancer & Lifestyle: How Daily Habits Shape Your Risks",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/B9DQayVdPVkwrRfK9"
     },
     {
       "date": "2025-12-29",
@@ -69,8 +1195,16 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/877T4p88Y2yRhf6C8",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/877T4p88Y2yRhf6C8"
+    },
+    {
+      "date": "2025-12-18",
+      "event name": "It's Okay to Ask for Help: Breaking the Stigma of Counseling",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Webex Live, Facebook Live",
+      "fee": "✨Free",
+      "registration link": "https://shorturl.at/fcZzW"
     },
     {
       "date": "2025-12-29",
@@ -79,8 +1213,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSek1xirVYscLQbtwAsVLbNfWoyQFPFXzPxVmlBEDrrHe0a60A/viewform?usp=publish-editor",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSek1xirVYscLQbtwAsVLbNfWoyQFPFXzPxVmlBEDrrHe0a60A/viewform?usp=publish-editor"
     },
     {
       "date": "2025-12-31",
@@ -89,8 +1222,7 @@
       "end time": "22:00",
       "venue": "Quizizz",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe6lSQywuLLCX7y7qtmHzmJbAsHAx6nFnJkV-nn8b7mM6_YfQ/viewform?usp=sharing&ouid=102756081264112814533",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe6lSQywuLLCX7y7qtmHzmJbAsHAx6nFnJkV-nn8b7mM6_YfQ/viewform?usp=sharing&ouid=102756081264112814533"
     },
     {
       "date": "2026-01-02",
@@ -99,8 +1231,7 @@
       "end time": "21:30",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://tinyurl.com/SSIVV-EP6-Registration",
-      "status": "upcoming"
+      "registration link": "https://tinyurl.com/SSIVV-EP6-Registration"
     },
     {
       "date": "2026-01-03",
@@ -109,8 +1240,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform"
     },
     {
       "date": "2026-01-03",
@@ -119,8 +1249,7 @@
       "end time": "23:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/bD4YvfE1pLnr8bxC7",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/bD4YvfE1pLnr8bxC7"
     },
     {
       "date": "2026-01-07",
@@ -129,8 +1258,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe0au8CT4kQblm-x_za3dqsYvUvmMuFdjiYWOnyH9KDuLjMvg/viewform",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe0au8CT4kQblm-x_za3dqsYvUvmMuFdjiYWOnyH9KDuLjMvg/viewform"
     },
     {
       "date": "2026-01-07",
@@ -139,8 +1267,25 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/U8voDS8hoNMcmHWo7",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/U8voDS8hoNMcmHWo7"
+    },
+    {
+      "date": "1970-01-01",
+      "event name": "Program Derma Darah Perkasa Care 2026",
+      "time": "09:00",
+      "end time": "15:00",
+      "venue": "Dewan Utama Pelajar, USM",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScsjfUkxm36Y6rmoCXfhvyzVA1xifaHWAcRUZLmitG04xfhYQ/viewform"
+    },
+    {
+      "date": "1970-01-01",
+      "event name": "SEE E-Waste Poster Challenge 2025",
+      "time": "00:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9Lj9aL0UeoP2tQrlX9_lLv8WZp6iVFz4xdECtnfs8uo-pWA/viewform"
     },
     {
       "date": "2026-01-07",
@@ -149,8 +1294,16 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfF4cAa5LhdY5yZM4_hZQIXmsEscZzzRrgpXhU4WmebqfD7xg/viewform?usp=header",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfF4cAa5LhdY5yZM4_hZQIXmsEscZzzRrgpXhU4WmebqfD7xg/viewform?usp=header"
+    },
+    {
+      "date": "2025-12-12",
+      "event name": "Sweet but Dangerous: Understanding Diabetes",
+      "time": "00:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/HnPTYoQnsUpfTrjK7"
     },
     {
       "date": "2026-01-04",
@@ -159,8 +1312,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/DnWE7xGdCUhK5gR19",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/DnWE7xGdCUhK5gR19"
     },
     {
       "date": "2026-01-09",
@@ -169,8 +1321,7 @@
       "end time": "17:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/J3GALpda1AniYMfq6",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/J3GALpda1AniYMfq6"
     },
     {
       "date": "2026-01-09",
@@ -179,8 +1330,7 @@
       "end time": "22:30",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/NNJT5PBGDFpx6Ytz7",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/NNJT5PBGDFpx6Ytz7"
     },
     {
       "date": "2026-01-09",
@@ -189,8 +1339,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/z349H3YV9jYRhDMVA",
-      "status": "upcoming"
+      "registration link": "https://forms.gle/z349H3YV9jYRhDMVA"
     },
     {
       "date": "2026-01-10",
@@ -199,8 +1348,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform"
     },
     {
       "date": "2025-12-31",
@@ -209,8 +1357,7 @@
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe-F20bI4ZleWd2Gfqrre7U-seFdM34kcl1aDDlehxRXFXtyA/viewform?usp=publish-editor",
-      "status": "upcoming"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe-F20bI4ZleWd2Gfqrre7U-seFdM34kcl1aDDlehxRXFXtyA/viewform?usp=publish-editor"
     }
   ]
 }
