@@ -170,6 +170,33 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform"
+    },
+    {
+      "date": "2026-01-17",
+      "event name": "NEXTGEN LEADERSHIP TALK",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "CISCO WEBEX",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/PENDAFTARANNLT"
+    },
+    {
+      "date": "2026-01-03",
+      "event name": "Melihat Suara, Merasakan Makna",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/DH7sCnvZosGpUmm29"
+    },
+    {
+      "date": "2026-01-09",
+      "event name": "ONLINE TALK PERKASA CARE (SIRI 1): Youth HIV Awareness",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/z349H3YV9jYRhDMVA"
     }
   ]
 }
