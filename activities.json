@@ -177,7 +177,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/Ywm6EwvaCqR37UhS6"
     },
     {
@@ -188,6 +188,15 @@
       "venue": "Online via Webex, Quizizz, and Kahoot",
       "fee": 1,
       "registration link": "https://forms.gle/haptAFADbpF6sipb7"
+    },
+    {
+      "date": "2025-12-30",
+      "event name": "BENGKEL AI TOOLS: SENJATA AKADEMIK PELAJAR UNIVERSITI",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Google Meet",
+      "fee": 1,
+      "registration link": "ezy.la/AITOOLSDEC25"
     }
   ]
 }
