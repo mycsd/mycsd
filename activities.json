@@ -1,40 +1,13 @@
 {
   "events": [
     {
-      "date": "2025-12-29",
-      "event name": "Jaga Minda, Jaga Diri: Kunci Ketenangan Dalam Tekanan",
-      "time": "20:00",
-      "end time": "23:00",
+      "date": "2025-12-30",
+      "event name": "BENGKEL AI TOOLS: SENJATA AKADEMIK PELAJAR UNIVERSITI",
+      "time": "20:30",
+      "end time": "21:30",
       "venue": "Google Meet",
       "fee": 1,
-      "registration link": "https://forms.gle/CZAzC8UVCwmcaYPRA"
-    },
-    {
-      "date": "2025-12-29",
-      "event name": "MAKE THEM SMILE WEBINAR 3 - BEYOND THE FACE: TOTAL SKIN WELLNESS FOR EVERY BODY",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/HtvsHjF6fggNrRvq6"
-    },
-    {
-      "date": "2025-12-29",
-      "event name": "Talent Show Phase 4: A Star Is Born",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/877T4p88Y2yRhf6C8"
-    },
-    {
-      "date": "2025-12-29",
-      "event name": "Wacana Pantun : Seni Warisan, Suara Baharu",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSek1xirVYscLQbtwAsVLbNfWoyQFPFXzPxVmlBEDrrHe0a60A/viewform?usp=publish-editor"
+      "registration link": "ezy.la/AITOOLSDEC25"
     },
     {
       "date": "2025-12-31",
@@ -71,6 +44,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdsXOGAOilygWRDZsaTnZRnRCnNM2be8hF83-DlD_1OrVZpLg/viewform"
+    },
+    {
+      "date": "2026-01-03",
+      "event name": "Melihat Suara, Merasakan Makna",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/DH7sCnvZosGpUmm29"
     },
     {
       "date": "2026-01-03",
@@ -145,33 +127,6 @@
       "registration link": "https://forms.gle/z349H3YV9jYRhDMVA"
     },
     {
-      "date": "2026-01-10",
-      "event name": "GUTGOALS — How Probiotics Can Power Up Your Health",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform"
-    },
-    {
-      "date": "2026-01-17",
-      "event name": "NEXTGEN LEADERSHIP TALK",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/PENDAFTARANNLT"
-    },
-    {
-      "date": "2026-01-03",
-      "event name": "Melihat Suara, Merasakan Makna",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/DH7sCnvZosGpUmm29"
-    },
-    {
       "date": "2026-01-09",
       "event name": "MINDA SIHAT MAHASISWA: MENTAL HEALTH AWARENESS TALK",
       "time": "20:30",
@@ -179,6 +134,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Ywm6EwvaCqR37UhS6"
+    },
+    {
+      "date": "2026-01-10",
+      "event name": "GUTGOALS — How Probiotics Can Power Up Your Health",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform"
     },
     {
       "date": "2026-01-11",
@@ -190,13 +154,13 @@
       "registration link": "https://forms.gle/haptAFADbpF6sipb7"
     },
     {
-      "date": "2025-12-30",
-      "event name": "BENGKEL AI TOOLS: SENJATA AKADEMIK PELAJAR UNIVERSITI",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Google Meet",
+      "date": "2026-01-17",
+      "event name": "NEXTGEN LEADERSHIP TALK",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "ezy.la/AITOOLSDEC25"
+      "registration link": "https://tinyurl.com/PENDAFTARANNLT"
     }
   ]
 }
