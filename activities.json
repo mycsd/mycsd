@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2025-12-31",
-      "event name": "ULTIMATE CAR KNOWLEDGE QUIZ",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Quizizz",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe6lSQywuLLCX7y7qtmHzmJbAsHAx6nFnJkV-nn8b7mM6_YfQ/viewform?usp=sharing&ouid=102756081264112814533"
-    },
-    {
-      "date": "2025-12-31",
-      "event name": "Buli Bukan Gurauan: Memahami Risiko Undang-undang dan Akibatnya",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe-F20bI4ZleWd2Gfqrre7U-seFdM34kcl1aDDlehxRXFXtyA/viewform?usp=publish-editor"
-    },
-    {
       "date": "2026-01-02",
       "event name": "SSI Volunteer Voices : Episode 6",
       "time": "20:00",
