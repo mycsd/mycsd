@@ -1,33 +1,5 @@
 [
     {
-        "activity name": "SEE Eco Week 2025 TikTok Challenge",
-        "start_date": "2025-12-22",
-        "end_date": "2025-12-27",
-        "time": null,
-        "venue": "TikTok",
-        "fee": 1,
-        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-j2zfR6K9ilHHtQ9oLU5NH_NkiMFqRN4hZCMVxqqzjfH-bw/viewform?usp=send_form"
-    },
-    
-    {
-        "activity name": "SEE E-Waste Poster Challenge 2025",
-        "start_date": "2025-12-22",
-        "end_date": "2025-12-28",
-        "time": null,
-        "venue": "Google Form",
-        "fee": 0,
-        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9Lj9aL0UeoP2tQrlX9_lLv8WZp6iVFz4xdECtnfs8uo-pWA/viewform"
-    },
-    {
-        "activity name": "EngiQuiz - Test Your Knowledge",
-        "start_date": "2025-12-30",
-        "end_date": "2026-01-01",
-        "time": null,
-        "venue": "Google Form",
-        "fee": 1,
-        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdZ7MKecTB43KDpmuIh3AO1GA18kGIkklExKqFpv6ZLyZz7kA/viewform"
-    },
-    {
         "activity name": "Myths VS Medicine Pharmquiz Challenge",
         "start_date": "2025-12-02",
         "end_date": "2026-01-04",
@@ -44,5 +16,14 @@
         "venue": "Google Form",
         "fee": 1,
         "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfJ_VWp80JmO7mWbErs5y5azP5HlaL80ma4ag2hI-Tqt-yKrA/viewform"
+    },
+    {
+        "activity name": "Diabetes Awareness Quiz",
+        "start_date": "2025-12-12",
+        "end_date": "2026-01-12",
+        "time": null,
+        "venue": "Google Form",
+        "fee": 1,
+        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfRwAwTy6x1CmlMhDD_Z5t8Q7aQMW1iUY76H7RP9o2860Gztg/viewform"
     }
 ]
