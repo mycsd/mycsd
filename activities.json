@@ -143,6 +143,33 @@
       "venue": "Quizizz",
       "fee": 1,
       "registration link": "https://forms.gle/LnCtLw67ThHkBMSQA"
+    },
+    {
+      "date": "2026-01-03",
+      "event name": "YSS INSPIRING VOICE",
+      "time": "20:30",
+      "end time": "",
+      "venue": "Atas Talian",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSddWpOx43I8Ve8Kb30amW3IVIhh95puqXIcIDD30KOBf22x6g/viewform?usp=preview"
+    },
+    {
+      "date": "2026-01-12",
+      "event name": "How Your Mindset Shapes Your Tomorrow",
+      "time": "20:15",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/wMFJVJ2PzpPUjRLf6"
+    },
+    {
+      "date": "2026-01-07",
+      "event name": "Online Quiz Competition on Global Warming, SDGs, and 3R's",
+      "time": "19:00",
+      "end time": "19:45",
+      "venue": "Quizizz",
+      "fee": 2,
+      "registration link": "Walk In"
     }
   ]
 }
