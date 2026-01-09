@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "date": "2026-01-16",
+      "event name": "[POSTPONED] - FAST & CURIOUS: ASME EDITION",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Quizizz",
+      "fee": 1,
+      "registration link": "https://forms.gle/LnCtLw67ThHkBMSQA"
+    },
+    {
       "date": "2026-01-09",
       "event name": "Kenali Persona Anda",
       "time": "15:00",
@@ -89,6 +98,15 @@
       "venue": "Cafe Lembaran, USM KKJ",
       "fee": "✨Free",
       "registration link": "https://forms.gle/PtuhWWjUDyQ52bd19"
+    },
+    {
+      "date": "2026-01-14",
+      "event name": "ALUMNI TALK SERIES 2: Sky Is Not the Limit: Career Adventures Across Air and Space",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScjbdOvlf8s4F_L19yrNp8Et72k1M13qIC7Pes6KMC3N_gv-A/viewform"
     }
   ]
 }
