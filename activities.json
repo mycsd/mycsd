@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-01-16",
-      "event name": "[POSTPONED] - FAST & CURIOUS: ASME EDITION",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Quizizz",
-      "fee": 1,
-      "registration link": "https://forms.gle/LnCtLw67ThHkBMSQA"
-    },
-    {
       "date": "2026-01-10",
       "event name": "GUTGOALS — How Probiotics Can Power Up Your Health",
       "time": "20:00",
@@ -17,51 +8,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeU7HPHM6Vy2cJRw0wkTYMQErK2rTQZLS1_jz66ApCkiwL_PA/viewform"
-    },
-    {
-      "date": "2026-01-11",
-      "event name": "Econs Online Quiz Challenge 2026",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Online via Webex, Quizizz, and Kahoot",
-      "fee": 1,
-      "registration link": "https://forms.gle/haptAFADbpF6sipb7"
-    },
-    {
-      "date": "2026-01-12",
-      "event name": "How Your Mindset Shapes Your Tomorrow",
-      "time": "20:15",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/wMFJVJ2PzpPUjRLf6"
-    },
-    {
-      "date": "2026-01-17",
-      "event name": "NEXTGEN LEADERSHIP TALK",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/PENDAFTARANNLT"
-    },
-    {
-      "date": "2026-01-12",
-      "event name": "理升快闪活动｜光谱计划",
-      "time": "18:00",
-      "end time": "21:00",
-      "venue": "Cafe Lembaran, USM KKJ",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/PtuhWWjUDyQ52bd19"
-    },
-    {
-      "date": "2026-01-14",
-      "event name": "ALUMNI TALK SERIES 2: Sky Is Not the Limit: Career Adventures Across Air and Space",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScjbdOvlf8s4F_L19yrNp8Et72k1M13qIC7Pes6KMC3N_gv-A/viewform"
     },
     {
       "date": "2026-01-10",
@@ -73,13 +19,22 @@
       "registration link": "https://forms.gle/HkrJdbBMZYU2wHvc7"
     },
     {
-      "date": "2026-01-16",
-      "event name": "CALCULUS TALK",
-      "time": "14:30",
-      "end time": "17:30",
-      "venue": "Cisco Webex (Online)",
+      "date": "2026-01-11",
+      "event name": "Econs Online Quiz Challenge 2026",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Online via Webex, Quizizz, and Kahoot",
       "fee": 1,
-      "registration link": "https://forms.gle/npwY56ck5UMiy4kNA"
+      "registration link": "https://forms.gle/haptAFADbpF6sipb7"
+    },
+    {
+      "date": "2026-01-11",
+      "event name": "TALK GLOBAL CLASSROOM: LEARN BEYOND BORDERS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "CISCO WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/S9p9Egj2ZZSeVxYcA"
     },
     {
       "date": "2026-01-11",
@@ -91,13 +46,58 @@
       "registration link": ""
     },
     {
-      "date": "2026-01-11",
-      "event name": "TALK GLOBAL CLASSROOM: LEARN BEYOND BORDERS",
+      "date": "2026-01-12",
+      "event name": "理升快闪活动｜光谱计划",
+      "time": "18:00",
+      "end time": "21:00",
+      "venue": "Cafe Lembaran, USM KKJ",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/PtuhWWjUDyQ52bd19"
+    },
+    {
+      "date": "2026-01-12",
+      "event name": "How Your Mindset Shapes Your Tomorrow",
+      "time": "20:15",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/wMFJVJ2PzpPUjRLf6"
+    },
+    {
+      "date": "2026-01-14",
+      "event name": "ALUMNI TALK SERIES 2: Sky Is Not the Limit: Career Adventures Across Air and Space",
       "time": "20:00",
       "end time": "22:00",
-      "venue": "CISCO WEBEX",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/S9p9Egj2ZZSeVxYcA"
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScjbdOvlf8s4F_L19yrNp8Et72k1M13qIC7Pes6KMC3N_gv-A/viewform"
+    },
+    {
+      "date": "2026-01-16",
+      "event name": "CALCULUS TALK",
+      "time": "14:30",
+      "end time": "17:30",
+      "venue": "Cisco Webex (Online)",
+      "fee": 1,
+      "registration link": "https://forms.gle/npwY56ck5UMiy4kNA"
+    },
+    {
+      "date": "2026-01-16",
+      "event name": "[POSTPONED] - FAST & CURIOUS: ASME EDITION",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Quizizz",
+      "fee": 1,
+      "registration link": "https://forms.gle/LnCtLw67ThHkBMSQA"
+    },
+    {
+      "date": "2026-01-17",
+      "event name": "NEXTGEN LEADERSHIP TALK",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/PENDAFTARANNLT"
     }
   ]
 }
