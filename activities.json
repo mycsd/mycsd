@@ -143,6 +143,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/nf9zW45stiNzYhDd6"
+    },
+    {
+      "date": "2026-01-15",
+      "event name": "PHYSICS COFFEE TALK: Why Geophysics Rocks",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe0zsXBr4gnPZWORlDeSR5dvMQaXds2oE8994hobhDRVDMhLg/viewform?usp=sharing&ouid=111511946201197306569"
     }
   ]
 }
