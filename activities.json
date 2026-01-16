@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-01-16",
-      "event name": "Wacana Dalam Talian: Da’ie Moden – Inspirasi Daripada Isra’ & Mi’raj",
-      "time": "09:30",
-      "end time": "11:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd9V_yYCPPepKm0WW2WJre4ZvaBKoQSEhXmz6KiR_3nM_wh6A/viewform"
-    },
-    {
-      "date": "2026-01-16",
-      "event name": "CALCULUS TALK",
-      "time": "14:30",
-      "end time": "17:30",
-      "venue": "Cisco Webex (Online)",
-      "fee": 1,
-      "registration link": "https://forms.gle/npwY56ck5UMiy4kNA"
-    },
-    {
-      "date": "2026-01-16",
-      "event name": "[POSTPONED] - FAST & CURIOUS: ASME EDITION",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Quizizz",
-      "fee": 1,
-      "registration link": "https://forms.gle/LnCtLw67ThHkBMSQA"
-    },
-    {
       "date": "2026-01-17",
       "event name": "CABARAN MAHASISWA: AKADEMIK, JATI DIRI & MASA DEPAN",
       "time": "14:30",
@@ -73,15 +46,6 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXe5-qVcTuDNGYjQpSKLxGGSmtPjyKymMH8Uvvwq9DiLwYxQ/viewform?usp=send_form"
     },
     {
-      "date": "2026-01-16",
-      "event name": "INSIGHT CHALLENGE : TEST YOUR MIND, UNLOCK YOUR INSIGHTS",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "WAYGROUND (WEBEX)",
-      "fee": 1,
-      "registration link": "https://forms.gle/tcEmTtctFGSqjH7Y6"
-    },
-    {
       "date": "2026-01-18",
       "event name": "KELESTARIAN IKLIM BERMULA DARI DAPUR",
       "time": "20:00",
@@ -89,15 +53,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "Walk In"
-    },
-    {
-      "date": "2026-01-16",
-      "event name": "SEGMEN CELOTEH KAUNSELOR PELATIH SIRI 9 \"PEACE OVER PRESSURE\"",
-      "time": "15:00",
-      "end time": "",
-      "venue": "Facebook Live Unit Kaunseling USM",
-      "fee": "✨Free",
-      "registration link": "https://www.facebook.com/share/1CFrAQcmT3/?mibextid=wwXIfr"
     }
   ]
 }
