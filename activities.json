@@ -1,22 +1,3 @@
 {
-  "events": [
-    {
-      "date": "2026-01-18",
-      "event name": "Bahasa Arab dalam Konteks Harian dan Kerjaya Profesional",
-      "time": "20:30",
-      "end time": "22:15",
-      "venue": "Online (Webex SSB)",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXe5-qVcTuDNGYjQpSKLxGGSmtPjyKymMH8Uvvwq9DiLwYxQ/viewform?usp=send_form"
-    },
-    {
-      "date": "2026-01-18",
-      "event name": "KELESTARIAN IKLIM BERMULA DARI DAPUR",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "Walk In"
-    }
-  ]
+  "events": []
 }
