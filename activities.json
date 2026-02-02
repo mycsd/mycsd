@@ -1,3 +1,13 @@
 {
-  "events": []
+  "events": [
+    {
+      "date": "2026-04-08",
+      "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
+      "time": "15:00",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FomeFwEvZuGt3GeJ6"
+    }
+  ]
 }
