@@ -35,6 +35,15 @@
       "venue": "Webex",
       "fee": "✨Free",
       "registration link": "https://forms.gle/ggdNi5jmehTBSJby5"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "From Tradition to Evidence: The Science of Herbal Products",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
     }
   ]
 }
