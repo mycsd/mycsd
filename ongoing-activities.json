@@ -1,29 +1,11 @@
 [
     {
-        "activity name": "Trivia: Camouflaged Lie",
-        "start_date": "2026-01-13",
-        "end_date": "2026-01-15",
-        "time": null,
-        "venue": "Online",
-        "fee": 1,
-        "registration link": "https://forms.gle/aiXfFji3MAdWdSKs5"
-    },
-    {
-        "activity name": "Pharma Trivia Quiz",
-        "start_date": "2025-12-08",
-        "end_date": "2026-01-12",
+        "activity name": "SELL IT SMART: MINI BIZ QUIZ",
+        "start_date": "2026-03-09",
+        "end_date": "2026-04-01",
         "time": null,
         "venue": "Google Form",
-        "fee": 1,
-        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfJ_VWp80JmO7mWbErs5y5azP5HlaL80ma4ag2hI-Tqt-yKrA/viewform"
-    },
-    {
-        "activity name": "Diabetes Awareness Quiz",
-        "start_date": "2025-12-12",
-        "end_date": "2026-01-12",
-        "time": null,
-        "venue": "Google Form",
-        "fee": 1,
-        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfRwAwTy6x1CmlMhDD_Z5t8Q7aQMW1iUY76H7RP9o2860Gztg/viewform"
+        "fee": "Free",
+        "registration link": "https://forms.gle/m4dX1Lk5ui4iGEJ4A"
     }
 ]
