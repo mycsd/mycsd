@@ -35,6 +35,33 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
+    },
+    {
+      "date": "2026-03-11",
+      "event name": "Workshop 2: One Day To Go!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://tinyurl.com/VHACK2026-Registration-W2"
+    },
+    {
+      "date": "2026-03-15",
+      "event name": "Holistic Well-Being: A Pathway to Academic Success",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://linktr.ee/kprsusm"
+    },
+    {
+      "date": "2026-03-30",
+      "event name": "CYBERSHIELD TALK: THINK BEFORE YOU CLICK",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/C5gkYfKiNbzRoBD67"
     }
   ]
 }
