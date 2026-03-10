@@ -38,12 +38,12 @@
     },
     {
       "date": "2026-03-11",
-      "event name": "Workshop 2: One Day To Go!",
+      "event name": "Workshop 2: From Idea to Product: Strategic Stack Selection for Hackathons",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": "✨Free",
-      "registration link": "https://tinyurl.com/VHACK2026-Registration-W2"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfp8em3EMTBpJZCCIGOVrB2pO0SmSGzR103YKZtossn5KkBjA/viewform?usp=send_form"
     },
     {
       "date": "2026-03-15",
@@ -60,8 +60,17 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/C5gkYfKiNbzRoBD67"
+    },
+    {
+      "date": "2026-04-01",
+      "event name": "Growing Through Service",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
     }
   ]
 }
