@@ -80,6 +80,15 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfys3g62jfZyaD8Mvg5MEIpMkOqq7HkUAF0I1JvzphLWn_7bg/viewform"
+    },
+    {
+      "date": "2026-04-11",
+      "event name": "BOS TALK: YOUNG ENTREPRENEUR SHAPING THE FUTURE",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/K7XyxR7Xd5ya1rEa9"
     }
   ]
 }
