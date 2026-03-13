@@ -80,6 +80,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/K7XyxR7Xd5ya1rEa9"
+    },
+    {
+      "date": "2026-03-16",
+      "event name": "Workshop 4: Manus Sharing Session",
+      "time": "15:00",
+      "end time": "16:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeQed7Jvg2OpfzZ7_VGBhzzzVCsFNKyrNzShy2c4P0UWMaSgg/viewform"
     }
   ]
 }
