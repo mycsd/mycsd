@@ -98,6 +98,24 @@
       "venue": "Microsoft Teams",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfylmioP_Tsp5LG7e6zYDEKoPn1T5k3bcFlbryRYvTC1hrWiA/viewform"
+    },
+    {
+      "date": "2026-04-01",
+      "event name": "孔子 4Q —— 智慧、情绪、逆境与品德的全面修养",
+      "time": "15:00",
+      "end time": "16:30",
+      "venue": "Cisco Webex Meeting",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeuN3wexCOsUQ0AqyLJspbiBdlQeeDci1Li0nLvCXhKuaw-JA/viewform"
+    },
+    {
+      "date": "2026-03-31",
+      "event name": "IEEE Makerthon Roadshow 2026",
+      "time": "17:00",
+      "end time": "19:30",
+      "venue": "Cafe Lembaran",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
     }
   ]
 }
