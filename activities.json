@@ -71,6 +71,24 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeQed7Jvg2OpfzZ7_VGBhzzzVCsFNKyrNzShy2c4P0UWMaSgg/viewform"
+    },
+    {
+      "date": "2026-04-03",
+      "event name": "ONLINE TALK: NETWORKING WITHOUT LIMITS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex Online Meeting",
+      "fee": 1,
+      "registration link": "https://forms.gle/cthCPqw2djmyyBsW6"
+    },
+    {
+      "date": "2026-04-15",
+      "event name": "STEP Series Program – Online Talk",
+      "time": "20:30",
+      "end time": "",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BYS8ckfKBAwHoH7S9"
     }
   ]
 }
