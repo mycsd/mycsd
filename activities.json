@@ -89,6 +89,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/BYS8ckfKBAwHoH7S9"
+    },
+    {
+      "date": "2026-04-04",
+      "event name": "PwC PowerBI Insight Workshop 2026",
+      "time": "10:00",
+      "end time": "12:00",
+      "venue": "Microsoft Teams",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfylmioP_Tsp5LG7e6zYDEKoPn1T5k3bcFlbryRYvTC1hrWiA/viewform"
     }
   ]
 }
