@@ -125,6 +125,15 @@
       "venue": "Webex",
       "fee": 2,
       "registration link": "https://forms.gle/MG4HCCpzMk5nWHZJ7"
+    },
+    {
+      "date": "2026-04-10",
+      "event name": "Physics Coffee Talk: Switching Paths From Physics to Industry",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScTh-xhn8zS2nXOCQizE9VTVcX8ZnUS-uL_yyt9zNcmNX9SMw/viewform?usp=header"
     }
   ]
 }
