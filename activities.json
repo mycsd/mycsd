@@ -123,7 +123,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Webex",
-      "fee": 2,
+      "fee": 1,
       "registration link": "https://forms.gle/MG4HCCpzMk5nWHZJ7"
     },
     {
@@ -134,6 +134,42 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScTh-xhn8zS2nXOCQizE9VTVcX8ZnUS-uL_yyt9zNcmNX9SMw/viewform?usp=header"
+    },
+    {
+      "date": "2026-04-11",
+      "event name": "From Campus to Career",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "CISCO WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/urMtbGhWAhEXRQgZA"
+    },
+    {
+      "date": "2026-04-11",
+      "event name": "Webinar 2: Lebih Sekadar Kuliah, Membina Mahasiswa Seimbang",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/3o5rzp1waNo5EzvRA"
+    },
+    {
+      "date": "2026-04-16",
+      "event name": "Struggling with breakouts? Wondering why acne keeps coming back no matter what you try? It’s time to separate myths from facts and truly understand your skin!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScrmqDYfKutOTxhpVEr4yOoAGFASZBfI8s5E3DCvHH9LUfWzg/viewform"
+    },
+    {
+      "date": "2026-04-16",
+      "event name": "Struggling with breakouts? Wondering why acne keeps coming back no matter what you try? It’s time to separate myths from facts and truly understand your skin!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScrmqDYfKutOTxhpVEr4yOoAGFASZBfI8s5E3DCvHH9LUfWzg/viewform"
     }
   ]
 }
