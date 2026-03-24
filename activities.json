@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-04-08",
-      "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
-      "time": "15:00",
-      "end time": "17:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/FomeFwEvZuGt3GeJ6"
-    },
-    {
-      "date": "2026-03-31",
-      "event name": "FROM STRESS TO SUCCESS: RANCANG PEMBELAJARAN, GAPAI KECEMERLANGAN",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1yewGn7HLHTh9ZMU8"
-    },
-    {
       "date": "2026-03-27",
       "event name": "PharmEx 25/26: Webinar 3 — READY, SET, EXPLORE: Medicine Travel Tips",
       "time": "20:00",
@@ -28,13 +10,13 @@
       "registration link": "https://forms.gle/QAmqPx1ZQ7vK1qe7A"
     },
     {
-      "date": "2026-04-08",
-      "event name": "From Tradition to Evidence: The Science of Herbal Products",
+      "date": "2026-03-28",
+      "event name": "NATIONAL MYCSD RAID AND RULE Online Talk",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
+      "fee": 2,
+      "registration link": "https://forms.gle/3UnF67xYduhk5HYb8"
     },
     {
       "date": "2026-03-30",
@@ -46,49 +28,22 @@
       "registration link": "https://forms.gle/C5gkYfKiNbzRoBD67"
     },
     {
-      "date": "2026-04-01",
-      "event name": "Growing Through Service",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
-    },
-    {
-      "date": "2026-04-11",
-      "event name": "BOS TALK: YOUNG ENTREPRENEUR SHAPING THE FUTURE",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/K7XyxR7Xd5ya1rEa9"
-    },
-    {
-      "date": "2026-04-03",
-      "event name": "ONLINE TALK: NETWORKING WITHOUT LIMITS",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex Online Meeting",
-      "fee": 1,
-      "registration link": "https://forms.gle/cthCPqw2djmyyBsW6"
-    },
-    {
-      "date": "2026-04-15",
-      "event name": "STEP Series Program – Online Talk",
-      "time": "20:30",
-      "end time": "",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/BYS8ckfKBAwHoH7S9"
-    },
-    {
-      "date": "2026-04-04",
-      "event name": "PwC PowerBI Insight Workshop 2026",
-      "time": "10:00",
-      "end time": "12:00",
-      "venue": "Microsoft Teams",
+      "date": "2026-03-31",
+      "event name": "IEEE Makerthon Roadshow 2026",
+      "time": "17:00",
+      "end time": "19:30",
+      "venue": "Cafe Lembaran",
       "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfylmioP_Tsp5LG7e6zYDEKoPn1T5k3bcFlbryRYvTC1hrWiA/viewform"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
+    },
+    {
+      "date": "2026-03-31",
+      "event name": "FROM STRESS TO SUCCESS: RANCANG PEMBELAJARAN, GAPAI KECEMERLANGAN",
+      "time": "21:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/1yewGn7HLHTh9ZMU8"
     },
     {
       "date": "2026-04-01",
@@ -100,31 +55,49 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeuN3wexCOsUQ0AqyLJspbiBdlQeeDci1Li0nLvCXhKuaw-JA/viewform"
     },
     {
-      "date": "2026-03-31",
-      "event name": "IEEE Makerthon Roadshow 2026",
-      "time": "17:00",
-      "end time": "19:30",
-      "venue": "Cafe Lembaran",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
+      "date": "2026-04-01",
+      "event name": "Growing Through Service",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
     },
     {
-      "date": "2026-03-28",
-      "event name": "RAID AND RULE Online Talk",
+      "date": "2026-04-03",
+      "event name": "ONLINE TALK: NETWORKING WITHOUT LIMITS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex Online Meeting",
+      "fee": 1,
+      "registration link": "https://forms.gle/cthCPqw2djmyyBsW6"
+    },
+    {
+      "date": "2026-04-04",
+      "event name": "PwC PowerBI Insight Workshop 2026",
+      "time": "10:00",
+      "end time": "12:00",
+      "venue": "Microsoft Teams",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfylmioP_Tsp5LG7e6zYDEKoPn1T5k3bcFlbryRYvTC1hrWiA/viewform"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
+      "time": "15:00",
+      "end time": "17:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FomeFwEvZuGt3GeJ6"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "From Tradition to Evidence: The Science of Herbal Products",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/3UnF67xYduhk5HYb8"
-    },
-    {
-      "date": "2026-04-11",
-      "event name": "REFASHION GREENWAVE: FAST FASHION BEYOND THE TREND",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/MG4HCCpzMk5nWHZJ7"
+      "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
     },
     {
       "date": "2026-04-10",
@@ -137,12 +110,12 @@
     },
     {
       "date": "2026-04-11",
-      "event name": "From Campus to Career",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "CISCO WEBEX",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/urMtbGhWAhEXRQgZA"
+      "event name": "BOS TALK: YOUNG ENTREPRENEUR SHAPING THE FUTURE",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/K7XyxR7Xd5ya1rEa9"
     },
     {
       "date": "2026-04-11",
@@ -154,17 +127,35 @@
       "registration link": "https://forms.gle/3o5rzp1waNo5EzvRA"
     },
     {
-      "date": "2026-04-16",
-      "event name": "Struggling with breakouts? Wondering why acne keeps coming back no matter what you try? It’s time to separate myths from facts and truly understand your skin!",
-      "time": "20:00",
-      "end time": "22:00",
+      "date": "2026-04-11",
+      "event name": "From Campus to Career",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "CISCO WEBEX",
+      "fee": 1,
+      "registration link": "https://forms.gle/urMtbGhWAhEXRQgZA"
+    },
+    {
+      "date": "2026-04-11",
+      "event name": "REFASHION GREENWAVE: FAST FASHION BEYOND THE TREND",
+      "time": "20:30",
+      "end time": "22:30",
       "venue": "Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScrmqDYfKutOTxhpVEr4yOoAGFASZBfI8s5E3DCvHH9LUfWzg/viewform"
+      "registration link": "https://forms.gle/MG4HCCpzMk5nWHZJ7"
+    },
+    {
+      "date": "2026-04-15",
+      "event name": "STEP Series Program – Online Talk",
+      "time": "20:30",
+      "end time": "",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BYS8ckfKBAwHoH7S9"
     },
     {
       "date": "2026-04-16",
-      "event name": "Struggling with breakouts? Wondering why acne keeps coming back no matter what you try? It’s time to separate myths from facts and truly understand your skin!",
+      "event name": " Webinar 4: “Acne Awareness: Causes, Prevention, and Proper Management”",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Webex",
