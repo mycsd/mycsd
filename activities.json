@@ -161,6 +161,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScrmqDYfKutOTxhpVEr4yOoAGFASZBfI8s5E3DCvHH9LUfWzg/viewform"
+    },
+    {
+      "date": "2026-04-04",
+      "event name": "Sounds of Confidence",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/G88HCAMzzjC9xZ4f7"
     }
   ]
 }
