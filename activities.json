@@ -30,8 +30,8 @@
     {
       "date": "2026-03-31",
       "event name": "IEEE Makerthon Roadshow 2026",
-      "time": "17:00",
-      "end time": "19:30",
+      "time": "18:00",
+      "end time": "20:00",
       "venue": "Cafe Lembaran",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
@@ -119,15 +119,6 @@
     },
     {
       "date": "2026-04-11",
-      "event name": "Webinar 2: Lebih Sekadar Kuliah, Membina Mahasiswa Seimbang",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/3o5rzp1waNo5EzvRA"
-    },
-    {
-      "date": "2026-04-11",
       "event name": "From Campus to Career",
       "time": "20:30",
       "end time": "22:30",
@@ -168,8 +159,17 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/G88HCAMzzjC9xZ4f7"
+    },
+    {
+      "date": "2026-04-01",
+      "event name": "IDEA Science Fair 2026 Roadshow",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "DEWAN SERBAGUNA, USM TUANKU SYED SIRAJUDDIN ENGINEERING CAMPUS, NIBONG TEBAL",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/UEB9JmVScB6qQxRG9"
     }
   ]
 }
