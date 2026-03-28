@@ -158,7 +158,7 @@
       "event name": "IDEA Science Fair 2026 Roadshow",
       "time": "14:00",
       "end time": "16:00",
-      "venue": "DEWAN SERBAGUNA, USM TUANKU SYED SIRAJUDDIN ENGINEERING CAMPUS, NIBONG TEBAL",
+      "venue": "DEWAN SERBAGUNA",
       "fee": "✨Free",
       "registration link": "https://forms.gle/UEB9JmVScB6qQxRG9"
     },
@@ -215,15 +215,6 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Gex86UAebJKmEvZn8"
-    },
-    {
-      "date": "2026-04-13",
-      "event name": "EngiPreneur Challenge",
-      "time": "00:00",
-      "end time": "23:59",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://forms.gle/FAUoEVaaSu9o1wr4A"
     }
   ]
 }
