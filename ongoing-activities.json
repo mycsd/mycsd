@@ -16,5 +16,14 @@
         "venue": "Google Form",
         "fee": "✨Free✨",
         "registration link": "https://forms.gle/m4dX1Lk5ui4iGEJ4A"
+    }, 
+    {
+        "activity name": "EngiPreneur Challenge",
+        "start_date": "2026-04-13",
+        "end_date": "2026-04-19",
+        "time": null,
+        "venue": "Google Form",
+        "fee": "1",
+        "registration link": "https://forms.gle/FAUoEVaaSu9o1wr4A"
     }
 ]
