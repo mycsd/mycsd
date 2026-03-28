@@ -206,6 +206,24 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe7kuADlUrClEbP5ujrIj6O1B9K_JdEjQW1DaNsLfFytmXiaQ/viewform?usp=send_form"
+    },
+    {
+      "date": "2026-04-14",
+      "event name": "SMALL STEPS, BIG IMPACT!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "Walk In"
+    },
+    {
+      "date": "2026-04-13",
+      "event name": "EngiPreneur Challenge",
+      "time": "00:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/FAUoEVaaSu9o1wr4A"
     }
   ]
 }
