@@ -168,7 +168,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/zRCwW8VHdXFpCmZU8"
     },
     {
@@ -177,7 +177,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/YrBDVm5MGoUJWdMF6"
     },
     {
@@ -204,7 +204,7 @@
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe7kuADlUrClEbP5ujrIj6O1B9K_JdEjQW1DaNsLfFytmXiaQ/viewform?usp=send_form"
     },
     {
@@ -214,7 +214,7 @@
       "end time": "22:00",
       "venue": "Webex",
       "fee": 1,
-      "registration link": "Walk In"
+      "registration link": "https://forms.gle/Gex86UAebJKmEvZn8"
     },
     {
       "date": "2026-04-13",
