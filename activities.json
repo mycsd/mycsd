@@ -215,6 +215,33 @@
       "venue": "Google Form",
       "fee": 1,
       "registration link": "https://forms.gle/TDEvmuXUSauwZLwu8"
+    },
+    {
+      "date": "2026-04-04",
+      "event name": "Kuiz Mitos vs Fakta",
+      "time": "21:00",
+      "end time": "",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeVmN3l8geNcXmP9KsuaMDAjI0YN1_zzx61zAuWzn0S58NtEA/viewform?usp=sharing&ouid=113506218219047157567"
+    },
+    {
+      "date": "2026-04-01",
+      "event name": "Kalakshetra 7.0: Online talk on how service and values build a stronger community",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
+    },
+    {
+      "date": "2026-04-29",
+      "event name": "1899-12-30T12:53:18.000Z",
+      "time": "",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/Y85AadvYLjECViwW6"
     }
   ]
 }
