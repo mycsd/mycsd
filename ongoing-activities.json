@@ -25,5 +25,23 @@
         "venue": "Google Form",
         "fee": "1",
         "registration link": "https://forms.gle/FAUoEVaaSu9o1wr4A"
+    },
+    {
+        "activity name": "Bingo Challenge: Around the World Bingo – Discovering Cultures Together",
+        "start_date": "2026-03-17",
+        "end_date": "2026-04-10",
+        "time": null,
+        "venue": "Instagram Story ",
+        "fee": "1",
+        "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeleKNQpMIaEsf_pEEdwW6aK5WS0-TVo9eOuCt1L9pNqHJORw/viewform"
+    },
+    {
+        "activity name": "Skin Bright, Health Right: Quiz Challenge",
+        "start_date": "2026-03-16",
+        "end_date": "2026-04-13",
+        "time": null,
+        "venue": "Google Form",
+        "fee": "1",
+        "registration link": "https://forms.gle/9x3duXDTtxHX6sfE9"
     }
 ]
