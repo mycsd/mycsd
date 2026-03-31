@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-03-31",
-      "event name": "IEEE Makerthon Roadshow 2026",
-      "time": "18:00",
-      "end time": "20:30",
-      "venue": "Cafe Lembaran",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
-    },
-    {
-      "date": "2026-03-31",
-      "event name": "FROM STRESS TO SUCCESS: RANCANG PEMBELAJARAN, GAPAI KECEMERLANGAN",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1yewGn7HLHTh9ZMU8"
-    },
-    {
       "date": "2026-04-01",
       "event name": "IDEA Science Fair 2026 Roadshow",
       "time": "14:00",
