@@ -2,15 +2,6 @@
   "events": [
     {
       "date": "2026-03-31",
-      "event name": "FROM STRESS TO SUCCESS: RANCANG PEMBELAJARAN, GAPAI KECEMERLANGAN",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1yewGn7HLHTh9ZMU8"
-    },
-    {
-      "date": "2026-03-31",
       "event name": "IEEE Makerthon Roadshow 2026",
       "time": "18:00",
       "end time": "20:30",
@@ -19,13 +10,13 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScqZETJAkck_NfASAM9YfB960l3T_sObD26LmFHDAZnsLVNVw/formResponse"
     },
     {
-      "date": "2026-04-01",
-      "event name": "Growing Through Service",
-      "time": "20:30",
+      "date": "2026-03-31",
+      "event name": "FROM STRESS TO SUCCESS: RANCANG PEMBELAJARAN, GAPAI KECEMERLANGAN",
+      "time": "21:00",
       "end time": "22:00",
-      "venue": "Webex",
+      "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
+      "registration link": "https://forms.gle/1yewGn7HLHTh9ZMU8"
     },
     {
       "date": "2026-04-01",
@@ -38,21 +29,21 @@
     },
     {
       "date": "2026-04-01",
-      "event name": "Kalakshetra 7.0: Online talk on how service and values build a stronger community",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
-    },
-    {
-      "date": "2026-04-01",
       "event name": "孔子 4Q —— 智慧、情绪、逆境与品德的全面修养",
       "time": "15:00",
       "end time": "16:30",
       "venue": "Cisco Webex Meeting",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeuN3wexCOsUQ0AqyLJspbiBdlQeeDci1Li0nLvCXhKuaw-JA/viewform"
+    },
+    {
+      "date": "2026-04-01",
+      "event name": "Kalakshetra 7.0: Online talk on how service and values build a stronger community",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
     },
     {
       "date": "2026-04-02",
@@ -74,15 +65,6 @@
     },
     {
       "date": "2026-04-04",
-      "event name": "Kuiz Mitos vs Fakta",
-      "time": "21:00",
-      "end time": "",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeVmN3l8geNcXmP9KsuaMDAjI0YN1_zzx61zAuWzn0S58NtEA/viewform?usp=sharing&ouid=113506218219047157567"
-    },
-    {
-      "date": "2026-04-04",
       "event name": "PwC PowerBI Insight Workshop 2026",
       "time": "10:00",
       "end time": "12:00",
@@ -101,6 +83,15 @@
     },
     {
       "date": "2026-04-04",
+      "event name": "Kuiz Mitos vs Fakta",
+      "time": "21:00",
+      "end time": "",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeVmN3l8geNcXmP9KsuaMDAjI0YN1_zzx61zAuWzn0S58NtEA/viewform?usp=sharing&ouid=113506218219047157567"
+    },
+    {
+      "date": "2026-04-04",
       "event name": "The CareQuest: Solve the Clues, Spread the Care",
       "time": "",
       "end time": "",
@@ -110,21 +101,21 @@
     },
     {
       "date": "2026-04-08",
-      "event name": "From Tradition to Evidence: The Science of Herbal Products",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
-    },
-    {
-      "date": "2026-04-08",
       "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
       "time": "15:00",
       "end time": "17:00",
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/FomeFwEvZuGt3GeJ6"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "From Tradition to Evidence: The Science of Herbal Products",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
     },
     {
       "date": "2026-04-10",
@@ -161,6 +152,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/MG4HCCpzMk5nWHZJ7"
+    },
+    {
+      "date": "2026-04-12",
+      "event name": "Beyond Books: Mahasiswa Bukan Sekadar Belajar",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "CISCO WEBEX",
+      "fee": 1,
+      "registration link": "https://forms.gle/ky7UMcwhVFnUzi1e6"
     },
     {
       "date": "2026-04-14",
@@ -233,15 +233,6 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Y85AadvYLjECViwW6"
-    },
-    {
-      "date": "2026-04-12",
-      "event name": "Beyond Books: Mahasiswa Bukan Sekadar Belajar",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "CISCO WEBEX",
-      "fee": 1,
-      "registration link": "https://forms.gle/ky7UMcwhVFnUzi1e6"
     }
   ]
 }
