@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-04-01",
-      "event name": "IDEA Science Fair 2026 Roadshow",
-      "time": "14:00",
-      "end time": "16:00",
-      "venue": "DEWAN SERBAGUNA",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/UEB9JmVScB6qQxRG9"
-    },
-    {
-      "date": "2026-04-01",
-      "event name": "孔子 4Q —— 智慧、情绪、逆境与品德的全面修养",
-      "time": "15:00",
-      "end time": "16:30",
-      "venue": "Cisco Webex Meeting",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeuN3wexCOsUQ0AqyLJspbiBdlQeeDci1Li0nLvCXhKuaw-JA/viewform"
-    },
-    {
-      "date": "2026-04-01",
-      "event name": "Kalakshetra 7.0: Online talk on how service and values build a stronger community",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/kPnfMgeqGzBU8AfV9"
-    },
-    {
       "date": "2026-04-02",
       "event name": "ADHD AWARENESS TALK: UNDERSTANDING THE MIND",
       "time": "20:00",
