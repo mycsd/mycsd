@@ -1,42 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-04-04",
-      "event name": "PwC PowerBI Insight Workshop 2026",
-      "time": "10:00",
-      "end time": "12:00",
-      "venue": "Microsoft Teams",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfylmioP_Tsp5LG7e6zYDEKoPn1T5k3bcFlbryRYvTC1hrWiA/viewform"
-    },
-    {
-      "date": "2026-04-04",
-      "event name": "Sounds of Confidence",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/G88HCAMzzjC9xZ4f7"
-    },
-    {
-      "date": "2026-04-04",
-      "event name": "Kuiz Mitos vs Fakta",
-      "time": "21:00",
-      "end time": "",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeVmN3l8geNcXmP9KsuaMDAjI0YN1_zzx61zAuWzn0S58NtEA/viewform?usp=sharing&ouid=113506218219047157567"
-    },
-    {
-      "date": "2026-04-04",
-      "event name": "The CareQuest: Solve the Clues, Spread the Care",
-      "time": "00:00",
-      "end time": "23:59",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://forms.gle/TDEvmuXUSauwZLwu8"
-    },
-    {
       "date": "2026-04-08",
       "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
       "time": "15:00",
