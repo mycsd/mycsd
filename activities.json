@@ -152,6 +152,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYESVXtE4sXaTVPyPStBCz7tv6PnxyA_uPzNoAgG_7gMxhGg/viewform"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "Madam Khor Vocal Symposium",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "KCK2, School of Chemical Engineering",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/ikAVFuPuQrcoQqPE6"
     }
   ]
 }
