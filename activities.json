@@ -2,6 +2,24 @@
   "events": [
     {
       "date": "2026-04-08",
+      "event name": "FINANCIAL TALK 2026",
+      "time": "14:30",
+      "end time": "16:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/L4p1u8dKVSibx38v7"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "Madam Khor Vocal Symposium",
+      "time": "14:30",
+      "end time": "16:00",
+      "venue": "KCK2, School of Chemical Engineering",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/ikAVFuPuQrcoQqPE6"
+    },
+    {
+      "date": "2026-04-08",
       "event name": "ONLINE TALK: PENGURUSAN MAJLIS",
       "time": "15:00",
       "end time": "17:00",
@@ -19,6 +37,24 @@
       "registration link": "https://forms.gle/1vAJfGEBDGponSZy7"
     },
     {
+      "date": "2026-04-08",
+      "event name": "Kavipaadum Thendral 13.0 Youth Empowerment & Leadership – Online Talk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco WebEx",
+      "fee": 1,
+      "registration link": "https://forms.gle/H7nkE6iA7B3AYrfW8"
+    },
+    {
+      "date": "2026-04-09",
+      "event name": "Daging Tanpa Haiwan? Revolusi atau Sekadar Gimik?",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYESVXtE4sXaTVPyPStBCz7tv6PnxyA_uPzNoAgG_7gMxhGg/viewform"
+    },
+    {
       "date": "2026-04-10",
       "event name": "Physics Coffee Talk: Switching Paths From Physics to Industry",
       "time": "20:00",
@@ -26,6 +62,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScTh-xhn8zS2nXOCQizE9VTVcX8ZnUS-uL_yyt9zNcmNX9SMw/viewform?usp=header"
+    },
+    {
+      "date": "2026-04-10",
+      "event name": "Protocol Workshop: Smooth Flow, Perfect Show",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/1JQ8EqEmm9bxEHR58"
     },
     {
       "date": "2026-04-11",
@@ -65,6 +110,15 @@
     },
     {
       "date": "2026-04-14",
+      "event name": "Handball Hustle: Quiz Series",
+      "time": "20:00",
+      "end time": "00:00",
+      "venue": "Google Form",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/R1AbQ1Zi1SCyj8f99"
+    },
+    {
+      "date": "2026-04-14",
       "event name": "SMALL STEPS, BIG IMPACT!",
       "time": "20:00",
       "end time": "22:00",
@@ -101,6 +155,15 @@
     },
     {
       "date": "2026-04-16",
+      "event name": "Dental Dialogue Episode 2.0: The Role of Dentists in KEMENTERIAN KESIHATAN MALAYSIA (KKM): Training, Services & Career Pathway",
+      "time": "20:00",
+      "end time": "",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Y27hdEriQkaHQ5or7"
+    },
+    {
+      "date": "2026-04-16",
       "event name": "POWERPROFILE TALK: STAND OUT ON LINKEDIN",
       "time": "20:30",
       "end time": "22:30",
@@ -118,24 +181,6 @@
       "registration link": "https://forms.gle/mhRPDhD1TbueoAXx8"
     },
     {
-      "date": "2026-04-21",
-      "event name": "PASSION TO PROFIT",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/YrBDVm5MGoUJWdMF6"
-    },
-    {
-      "date": "2026-04-29",
-      "event name": "AFFILIATE BOSS: FROM ZERO TO HERO",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/Y85AadvYLjECViwW6"
-    },
-    {
       "date": "2026-04-17",
       "event name": "Speak With Purpose: Kuasa Komunikasi dalam Membina Keyakinan Diri",
       "time": "20:30",
@@ -143,87 +188,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/EQ5WehdLPEvMES1W7"
-    },
-    {
-      "date": "2026-04-09",
-      "event name": "Daging Tanpa Haiwan? Revolusi atau Sekadar Gimik?",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScYESVXtE4sXaTVPyPStBCz7tv6PnxyA_uPzNoAgG_7gMxhGg/viewform"
-    },
-    {
-      "date": "2026-04-08",
-      "event name": "Madam Khor Vocal Symposium",
-      "time": "14:30",
-      "end time": "16:00",
-      "venue": "KCK2, School of Chemical Engineering",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/ikAVFuPuQrcoQqPE6"
-    },
-    {
-      "date": "2026-04-19",
-      "event name": "Program 3K (KELAS, KAFE, KATIL)",
-      "time": "21:00",
-      "end time": "23:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/hyqjPJ7DzqFq49xg9"
-    },
-    {
-      "date": "2026-04-10",
-      "event name": "Protocol Workshop: Smooth Flow, Perfect Show",
-      "time": "20:00",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/1JQ8EqEmm9bxEHR58"
-    },
-    {
-      "date": "2026-04-14",
-      "event name": "Handball Hustle: Quiz Series",
-      "time": "20:00",
-      "end time": "00:00",
-      "venue": "Google Form",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/R1AbQ1Zi1SCyj8f99"
-    },
-    {
-      "date": "2026-04-24",
-      "event name": "Know Your Allergies: Live Healthy Without Sneezes and Itches",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/FhVC8UvP4Rjn7Uu17"
-    },
-    {
-      "date": "2026-04-26",
-      "event name": "Slay with Etiquette: Classy Outside, Confident Inside",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/1zwVyCvtptQwowyt9"
-    },
-    {
-      "date": "2026-04-22",
-      "event name": "REDEFINING MENSTRUATION: FROM TABOO TO SUSTAINABILITY",
-      "time": "20:00",
-      "end time": "22:15",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/BKEkxJ4zcTTRSia78"
-    },
-    {
-      "date": "2026-04-16",
-      "event name": "Dental Dialogue Episode 2.0: The Role of Dentists in KEMENTERIAN KESIHATAN MALAYSIA (KKM): Training, Services & Career Pathway",
-      "time": "20:00",
-      "end time": "",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/Y27hdEriQkaHQ5or7"
     },
     {
       "date": "2026-04-18",
@@ -244,22 +208,58 @@
       "registration link": "https://forms.gle/Hdip4wvRXD1h4XA86"
     },
     {
-      "date": "2026-04-08",
-      "event name": "Kavipaadum Thendral 13.0 Youth Empowerment & Leadership – Online Talk",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco WebEx",
-      "fee": 1,
-      "registration link": "https://forms.gle/H7nkE6iA7B3AYrfW8"
-    },
-    {
-      "date": "2026-04-08",
-      "event name": "FINANCIAL TALK 2026",
-      "time": "14:30",
-      "end time": "16:30",
+      "date": "2026-04-19",
+      "event name": "Program 3K (KELAS, KAFE, KATIL)",
+      "time": "21:00",
+      "end time": "23:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/L4p1u8dKVSibx38v7"
+      "registration link": "https://forms.gle/hyqjPJ7DzqFq49xg9"
+    },
+    {
+      "date": "2026-04-21",
+      "event name": "PASSION TO PROFIT",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/YrBDVm5MGoUJWdMF6"
+    },
+    {
+      "date": "2026-04-22",
+      "event name": "REDEFINING MENSTRUATION: FROM TABOO TO SUSTAINABILITY",
+      "time": "20:00",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BKEkxJ4zcTTRSia78"
+    },
+    {
+      "date": "2026-04-24",
+      "event name": "Know Your Allergies: Live Healthy Without Sneezes and Itches",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FhVC8UvP4Rjn7Uu17"
+    },
+    {
+      "date": "2026-04-26",
+      "event name": "Slay with Etiquette: Classy Outside, Confident Inside",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/1zwVyCvtptQwowyt9"
+    },
+    {
+      "date": "2026-04-29",
+      "event name": "AFFILIATE BOSS: FROM ZERO TO HERO",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/Y85AadvYLjECViwW6"
     }
   ]
 }
