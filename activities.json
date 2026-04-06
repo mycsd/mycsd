@@ -242,6 +242,24 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://forms.gle/Hdip4wvRXD1h4XA86"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "Kavipaadum Thendral 13.0 Youth Empowerment & Leadership – Online Talk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco WebEx",
+      "fee": 1,
+      "registration link": "https://forms.gle/H7nkE6iA7B3AYrfW8"
+    },
+    {
+      "date": "2026-04-08",
+      "event name": "FINANCIAL TALK 2026",
+      "time": "14:30",
+      "end time": "16:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/L4p1u8dKVSibx38v7"
     }
   ]
 }
