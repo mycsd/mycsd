@@ -215,6 +215,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/Y85AadvYLjECViwW6"
+    },
+    {
+      "date": "2026-04-10",
+      "event name": "Kalam Pujangga Sastera",
+      "time": "20:15",
+      "end time": "22:20",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScq5hNViquOB9RKOMnz_-Z1A0FmiGUwT2eRv5v8maSPmW_vsA/viewform"
     }
   ]
 }
