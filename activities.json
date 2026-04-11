@@ -197,6 +197,15 @@
       "venue": "Cisco Webex (Online)",
       "fee": "✨Free",
       "registration link": "https://forms.gle/oBFx9mg16XXwRFNr7"
+    },
+    {
+      "date": "2026-04-11",
+      "event name": "MOVIE NIGHT",
+      "time": "20:00",
+      "end time": "",
+      "venue": "Discord",
+      "fee": 1,
+      "registration link": "https://forms.gle/XVcaARmZbRCHRynP7"
     }
   ]
 }
