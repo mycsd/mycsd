@@ -242,6 +242,51 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/q6kEUhdiPCjgWZvw7"
+    },
+    {
+      "date": "2026-04-18",
+      "event name": "MOTIVASI ANAK SISWA: CABARAN HARI INI UNTUK KEJAYAAN HARI ESOK",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BhZLvRYEpNhmismM9"
+    },
+    {
+      "date": "2026-04-29",
+      "event name": "Bengkel Khas Penulisan Lab Report",
+      "time": "14:30",
+      "end time": "17:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9ZI9nOd8FD9w_FKGo86OYBeeFbc7GKiyhA-bnBw0j_a2bFQ/viewform"
+    },
+    {
+      "date": "2026-04-17",
+      "event name": "Cyberscam Talk",
+      "time": "10:30",
+      "end time": "12:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSepLX6DVoMWA_hMGfpuizfRGF1mNg3Pq3IJZlcrb9MVvB1CdQ/viewform"
+    },
+    {
+      "date": "2026-04-17",
+      "event name": "MIND IN MOTION: REKREASI AKTIF & KESIHATAN EMOSI",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex Cisco",
+      "fee": "✨Free",
+      "registration link": "https://linktr.ee/kprsusm"
+    },
+    {
+      "date": "2026-04-14",
+      "event name": "Crack The Interview Code",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Microsoft Teams",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/9oGm2yDprN8FFMnr7"
     }
   ]
 }
