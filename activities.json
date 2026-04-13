@@ -251,6 +251,15 @@
       "venue": "Microsoft Teams",
       "fee": "✨Free",
       "registration link": "https://forms.gle/9oGm2yDprN8FFMnr7"
+    },
+    {
+      "date": "2026-04-13",
+      "event name": "Kuiz Dalam Talian: Kuasa Skrin, Kuasa Minda",
+      "time": "00:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": 2,
+      "registration link": "https://forms.gle/P5RhHXyaLkkQipPEA"
     }
   ]
 }
