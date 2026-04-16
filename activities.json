@@ -197,6 +197,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9ZI9nOd8FD9w_FKGo86OYBeeFbc7GKiyhA-bnBw0j_a2bFQ/viewform"
+    },
+    {
+      "date": "2026-04-17",
+      "event name": "ML Bang Bang: Train Your First AI",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Google Meet",
+      "fee": "✨Free",
+      "registration link": "Walk In"
     }
   ]
 }
