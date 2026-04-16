@@ -60,8 +60,8 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Webex Cisco",
-      "fee": "✨Free",
-      "registration link": "https://linktr.ee/kprsusm"
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeUKJtmfG1nrCH3idw27zzPItZGwLICi0mUziUwe5EWzsb_EA/viewform?pli=1"
     },
     {
       "date": "2026-04-18",
@@ -206,6 +206,51 @@
       "venue": "Google Meet",
       "fee": "✨Free",
       "registration link": "Walk In"
+    },
+    {
+      "date": "2026-04-19",
+      "event name": "TALK JIWA DALAM IRAMA: ATILIA HARON",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "WEBEX",
+      "fee": 2,
+      "registration link": "https://forms.gle/hQCSnbiL1zLoKvKZA"
+    },
+    {
+      "date": "2026-04-18",
+      "event name": "Challenges of Students Without Campus Housing",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/hazBsTiriDVTjcNa6"
+    },
+    {
+      "date": "2026-04-21",
+      "event name": "UPGRADE YOUR HUMANITY: BE THE CHANGE FOR UMMAH",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSey4DbcyPERGwHfyFhxGqtSm_lBd8-4KYxhDGWYpwr4nZJJpQ/viewform?usp=send_form"
+    },
+    {
+      "date": "2026-04-30",
+      "event name": "Tuberculosis: The Silent Comeback",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex (Online)",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeHYPjqrGn6zcVhTH26gMQU_SfxRH0NNbJW9PG8Sl-QyQmgFw/viewform"
+    },
+    {
+      "date": "2026-04-27",
+      "event name": "Track Titans: Quiz Series",
+      "time": "20:00",
+      "end time": "00:00",
+      "venue": "Google Form (Online)",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeScFfDT9crLdyAPaFHj5Yd6SBBCfSunbv-erLs2TfPLSbJAA/viewform?usp=sharing&ouid=100158697416161332620"
     }
   ]
 }
