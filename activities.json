@@ -6,7 +6,7 @@
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/Hdip4wvRXD1h4XA86"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "date": "2026-04-19",
-      "event name": "[POSTPONED EVENT, PLEASE CHECK DON'T PAY TWICE]] Speak With Purpose",
+      "event name": "[POSTPONED EVENT, PLEASE CHECK DON'T PAY TWICE] Speak With Purpose",
       "time": "20:30",
       "end time": "22:00",
       "venue": "Cisco Webex",
