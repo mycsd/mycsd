@@ -69,7 +69,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/1zwVyCvtptQwowyt9"
     },
     {
@@ -105,7 +105,7 @@
       "time": "20:00",
       "end time": "",
       "venue": "Cisco Webex (Online)",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/oBFx9mg16XXwRFNr7"
     },
     {
@@ -157,7 +157,7 @@
       "date": "2026-04-25",
       "event name": "University Scholars’ Excellence and Innovation",
       "time": "20:30",
-      "end time": "",
+      "end time": "23:00",
       "venue": "Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfZgwuT4oZiCD8wYxPdP1bZiafIr19cXbMbiG3VPt5g3LsKHQ/viewform?usp=header"
