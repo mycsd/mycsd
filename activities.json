@@ -143,6 +143,24 @@
       "venue": "Facebook Live Unit Kaunseling BHEPA USM",
       "fee": "✨Free",
       "registration link": "Walk In"
+    },
+    {
+      "date": "2026-04-29",
+      "event name": "Industry Sharing by AT&S: Effective Communications & Engineering Career at AT&S",
+      "time": "14:30",
+      "end time": "16:30",
+      "venue": "Dewan Kuliah 9 (DK9), USM Engineering Campus",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/WxZYZXCMmx1ST5kTA"
+    },
+    {
+      "date": "2026-05-15",
+      "event name": "PCOS 101: DECODING THE SILENT SIGNS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/gorny2LmEvRK3SD38"
     }
   ]
 }
