@@ -132,7 +132,7 @@
       "time": "20:30",
       "end time": "22:30",
       "venue": "Cisco Webex",
-      "fee": "✨Free",
+      "fee": 1,
       "registration link": "https://forms.gle/gorny2LmEvRK3SD38"
     },
     {
@@ -142,7 +142,7 @@
       "end time": "21:30",
       "venue": "Cisco Webex",
       "fee": "✨Free",
-      "registration link": "https://tinyurl.com/TheCSMyth-Registration-Form"
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSetl5BszTV7-X3twGQQh7xPWo--en752Trbhshrb9AF2XlmAQ/viewform"
     }
   ]
 }
