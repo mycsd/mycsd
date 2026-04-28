@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-04-28",
-      "event name": "PATHS OF HOPE: Walking the Cancer Care Continuum",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/Paths-of-Hope"
-    },
-    {
       "date": "2026-04-29",
       "event name": "Bengkel Khas Penulisan Lab Report",
       "time": "14:30",
@@ -136,13 +127,13 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd-s8S54MTiuOU2yRT90gCLNvoAT2DnCd8uPBYq65CrolBZag/viewform?"
     },
     {
-      "date": "2026-04-28",
-      "event name": "WAU COLLECTIVE QUIZ SERIES: ROCKETS",
-      "time": "08:00",
-      "end time": "22:00",
-      "venue": "Quizizz",
-      "fee": 1,
-      "registration link": "Walk In"
+      "date": "2026-05-04",
+      "event name": "From Student To Scholar: Kemahiran Berkomunikasi Dengan Pensyarah",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://linktr.ee/kprsusm"
     }
   ]
 }
