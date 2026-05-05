@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-09",
-      "event name": "[POSTPONED from 4 May] From Student To Scholar",
-      "time": "14:00",
-      "end time": "16:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScTJVTvx8bvuG5j5XRShn-AWKOY3V53HZbRiTuEhHaFznp53A/viewform"
-    },
-    {
       "date": "2026-05-07",
       "event name": "The CS Myth: Why 'Just Coding' Isn't Enough Anymore",
       "time": "20:00",
@@ -29,12 +20,39 @@
     },
     {
       "date": "2026-05-09",
+      "event name": "第八届理工初中华语辩论锦标赛初赛",
+      "time": "09:00",
+      "end time": "17:00",
+      "venue": "Online",
+      "fee": 1,
+      "registration link": "https://forms.gle/sYURXc23YzBYwpmy9"
+    },
+    {
+      "date": "2026-05-09",
+      "event name": "[POSTPONED from 4 May] From Student To Scholar",
+      "time": "14:00",
+      "end time": "16:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScTJVTvx8bvuG5j5XRShn-AWKOY3V53HZbRiTuEhHaFznp53A/viewform"
+    },
+    {
+      "date": "2026-05-09",
       "event name": "BizMaster Online Challenge",
       "time": "20:30",
       "end time": "22:00",
       "venue": "Cisco Webex + Quizizz",
       "fee": 1,
       "registration link": "https://forms.gle/MYUwCz3U4mdTJAfx9"
+    },
+    {
+      "date": "2026-05-10",
+      "event name": "第八届理工初中华语辩论锦标赛初赛",
+      "time": "13:00",
+      "end time": "17:00",
+      "venue": "Online",
+      "fee": 1,
+      "registration link": "https://forms.gle/sYURXc23YzBYwpmy9"
     },
     {
       "date": "2026-05-12",
