@@ -11,7 +11,16 @@
     },
     {
       "date": "2026-05-07",
-      "event name": "STAND UP SIT DOWN PODCAST SERIES 2 EPISODE 3: Beyond the Arena",
+      "event name": "STAND UP SIT DOWN PODCAST EPISODE 3: Beyond the Arena",
+      "time": "21:00",
+      "end time": "",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/qtBW4P56kUkyW7wD9"
+    },
+    {
+      "date": "2026-05-14",
+      "event name": "STAND UP SIT DOWN PODCAST EPISODE 4: International Diaries",
       "time": "21:00",
       "end time": "",
       "venue": "Webex",
