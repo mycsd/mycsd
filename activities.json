@@ -98,6 +98,15 @@
       "venue": "Webex Online",
       "fee": 1,
       "registration link": "https://forms.gle/TfHuphTXqhM4GJ9r7"
+    },
+    {
+      "date": "2026-05-13",
+      "event name": "Final Whistle: Football Quiz",
+      "time": "20:00",
+      "end time": "00:00",
+      "venue": "Google Form (Online)",
+      "fee": 1,
+      "registration link": "https://forms.gle/v9WDspBPvHnG8M576"
     }
   ]
 }
