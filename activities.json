@@ -71,6 +71,33 @@
       "venue": "Google Form (Online)",
       "fee": 1,
       "registration link": "https://forms.gle/v9WDspBPvHnG8M576"
+    },
+    {
+      "date": "2026-05-15",
+      "event name": "Healing From Within: Mental Health Awareness Talk",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://q.me-qr.com/ix2n6113"
+    },
+    {
+      "date": "2026-05-15",
+      "event name": "ILMIAH TALK 2.0: Mengenali Isyarat Kecemasan Diri",
+      "time": "21:00",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/FLeXH4d7QL3WfkG56"
+    },
+    {
+      "date": "2026-05-16",
+      "event name": "TALK BETTER PLACE, BETTER PACE",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/94yghNocn3XPaA1n9"
     }
   ]
 }
