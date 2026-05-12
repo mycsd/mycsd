@@ -116,6 +116,15 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScHIgUD1Ugb1BG1UVA6OcHxAxN8a0b_cFp8BHxKfn5EO4fpnA/viewform?usp=publish-editor"
+    },
+    {
+      "date": "2026-05-15",
+      "event name": "Bicara Bahasa: Asas Temuduga Profesional",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdGoObyAeFicfwgZLMziSXzxFzMIQe9jP0vP-Fmm0XP3yeofw/viewform"
     }
   ]
 }
