@@ -134,6 +134,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/js29UVT6eSyQbbf57"
+    },
+    {
+      "date": "2026-05-17",
+      "event name": "Stepping Beyond Campus: A Graduate’s Journey",
+      "time": "21:00",
+      "end time": "22:00",
+      "venue": "Online (Cisco Webex)",
+      "fee": 1,
+      "registration link": "https://forms.gle/AYznXU7UQ947eEyU9"
     }
   ]
 }
