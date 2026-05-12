@@ -125,6 +125,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdGoObyAeFicfwgZLMziSXzxFzMIQe9jP0vP-Fmm0XP3yeofw/viewform"
+    },
+    {
+      "date": "2026-05-21",
+      "event name": "Creative Strategies For Dynamic Presentation",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/js29UVT6eSyQbbf57"
     }
   ]
 }
