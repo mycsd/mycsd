@@ -134,6 +134,24 @@
       "venue": "Online (Cisco Webex)",
       "fee": 1,
       "registration link": "https://forms.gle/AYznXU7UQ947eEyU9"
+    },
+    {
+      "date": "2026-05-21",
+      "event name": "SURVIVE & THRIVE: STRATEGI CEMERLANG DI UNIVERSITI",
+      "time": "21:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/9c7rNK4KpyV4dUMj9"
+    },
+    {
+      "date": "2026-05-14",
+      "event name": "MODEC Career Talk",
+      "time": "15:30",
+      "end time": "17:15",
+      "venue": "Dewan Serbaguna, Tuanku Syed Sirajuddin Engineering Campus, USM",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/hGCsrmv1SewW3pPr7"
     }
   ]
 }
