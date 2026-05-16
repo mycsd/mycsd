@@ -1,33 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-16",
-      "event name": "LinkedIn Sharing Session",
-      "time": "21:00",
-      "end time": "22:30",
-      "venue": "Google Meet",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/Qr5qacaaYWqKwYCR7"
-    },
-    {
-      "date": "2026-05-16",
-      "event name": "TALK BETTER PLACE, BETTER PACE",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/94yghNocn3XPaA1n9"
-    },
-    {
-      "date": "2026-05-16",
-      "event name": "TETRIS IO Gamefest 2026 ",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex & TETR.IO",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfSD8bn1ih1OYYq_CsIJY97kHDiX-sT_BzdrIBnEThLvSNY-g/viewform"
-    },
-    {
       "date": "2026-05-17",
       "event name": "Stepping Beyond Campus: A Graduate’s Journey",
       "time": "21:00",
