@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-17",
-      "event name": "LinkedIn Sharing Session",
-      "time": "21:00",
-      "end time": "22:30",
-      "venue": "Google Meet",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/Qr5qacaaYWqKwYCR7"
-    },
-    {
-      "date": "2026-05-17",
-      "event name": "Stepping Beyond Campus: A Graduate’s Journey",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Online (Cisco Webex)",
-      "fee": 1,
-      "registration link": "https://forms.gle/AYznXU7UQ947eEyU9"
-    },
-    {
       "date": "2026-05-18",
       "event name": "Build Your Career Edge: Industry Insights & LinkedIn Workshop",
       "time": "20:00",
