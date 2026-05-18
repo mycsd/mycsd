@@ -71,6 +71,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/zook1hMcQEFiTUj16"
+    },
+    {
+      "date": "2026-05-19",
+      "event name": "Mastering the Mindset for Success",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/ehYCZMtduRgPfiJy8"
     }
   ]
 }
