@@ -62,6 +62,15 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScHIgUD1Ugb1BG1UVA6OcHxAxN8a0b_cFp8BHxKfn5EO4fpnA/viewform?usp=publish-editor"
+    },
+    {
+      "date": "2026-05-21",
+      "event name": "EMPATHY MATTERS: BUILDING A CARING CAMPUS",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/zook1hMcQEFiTUj16"
     }
   ]
 }
