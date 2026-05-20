@@ -71,6 +71,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/kTRtfLfJpbCPzfz4A"
+    },
+    {
+      "date": "2026-05-21",
+      "event name": "SDG Nexus: From Ideas to Impact",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex (Online)",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/uQhMEXfHCdxExBcp7"
     }
   ]
 }
