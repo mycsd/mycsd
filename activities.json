@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-21",
-      "event name": "Creative Strategies For Dynamic Presentation",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/js29UVT6eSyQbbf57"
-    },
-    {
-      "date": "2026-05-21",
-      "event name": "SURVIVE & THRIVE: STRATEGI CEMERLANG DI UNIVERSITI",
-      "time": "21:00",
-      "end time": "22:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/9c7rNK4KpyV4dUMj9"
-    },
-    {
       "date": "2026-05-22",
       "event name": "Online Talk Integriti Pemimpin Muda",
       "time": "20:00",
@@ -46,15 +28,6 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScHIgUD1Ugb1BG1UVA6OcHxAxN8a0b_cFp8BHxKfn5EO4fpnA/viewform?usp=publish-editor"
     },
     {
-      "date": "2026-05-21",
-      "event name": "EMPATHY MATTERS: BUILDING A CARING CAMPUS",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/zook1hMcQEFiTUj16"
-    },
-    {
       "date": "2026-05-22",
       "event name": "SEGMEN CELOTEH BERSAMA KAUNSELOR PELATIH – SIRI 13: Anda Di Mana: YOLO atau YONO?",
       "time": "15:00",
@@ -62,15 +35,6 @@
       "venue": "Facebook Live Unit Kaunseling BHEPA USM",
       "fee": "✨Free",
       "registration link": "Walk In"
-    },
-    {
-      "date": "2026-05-21",
-      "event name": "SDG Nexus: From Ideas to Impact",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex (Online)",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/uQhMEXfHCdxExBcp7"
     }
   ]
 }
