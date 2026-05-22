@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-22",
-      "event name": "Online Talk Integriti Pemimpin Muda",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/wnidyzRvWyHMbnpx5"
-    },
-    {
-      "date": "2026-05-22",
-      "event name": "SEGMEN CELOTEH BERSAMA KAUNSELOR PELATIH - SIRI 12",
-      "time": "15:00",
-      "end time": "16:00",
-      "venue": "Facebook Live Unit Kaunseling BHEPA USM",
-      "fee": "✨Free",
-      "registration link": "https://www.facebook.com/profile.php?id=61566789480006"
-    },
-    {
       "date": "2026-05-23",
       "event name": "Mastering Google Workspace",
       "time": "10:00",
