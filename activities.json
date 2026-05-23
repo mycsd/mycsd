@@ -1,13 +1,3 @@
 {
-  "events": [
-    {
-      "date": "2026-05-23",
-      "event name": "Mastering Google Workspace",
-      "time": "10:00",
-      "end time": "13:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScHIgUD1Ugb1BG1UVA6OcHxAxN8a0b_cFp8BHxKfn5EO4fpnA/viewform?usp=publish-editor"
-    }
-  ]
+  "events": []
 }
