@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-09-06",
-      "event name": "TEST1 2PM",
-      "time": "14:00",
-      "end time": "15:00",
-      "venue": "GITHUB",
-      "fee": 1,
-      "registration link": "github.com"
-    },
-    {
       "date": "2026-09-07",
       "event name": "TEST2 1PM",
       "time": "13:00",
