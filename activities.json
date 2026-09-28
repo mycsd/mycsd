@@ -17,6 +17,60 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/trGS5V4mVMHsLiwT8"
+    },
+    {
+      "date": "2026-10-06",
+      "event name": "Student Athletes Talk - Balancing Between Sport and Studies",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdZYTE3Enb4pc8Gzy7AeTS4r0-q9LzwuGEn43xtReesASuHmw/viewform"
+    },
+    {
+      "date": "2026-10-08",
+      "event name": "Medicines While Travelling",
+      "time": "20:00",
+      "end time": "21:55",
+      "venue": "Online",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfi2iv1YvLcmSPfJR3emW4jYqD7QrYGOBDT8PI6IcyjL6VaXg/viewform"
+    },
+    {
+      "date": "2026-10-09",
+      "event name": "Green ConvEx Episode 1: GREENMIND \"Healthy People, Healthy Planet\"",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScEAnhExmMGtcyedJw54jKYfxlnaC7avwdzdmL9yIxE86tAmw/viewform"
+    },
+    {
+      "date": "2026-10-16",
+      "event name": "Green ConvEx Episode 2: GREENFLOW 'Every Drop Tells a Story'",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe71mdtnH8vV4QxEywidqEuhyrNLPF8tLSd2ox4BkvCza5VVA/viewform"
+    },
+    {
+      "date": "2026-10-23",
+      "event name": "Green ConvEx Episode 3: GREENVOICE \"Speak. Act. Change.\"",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyA3xVrhDP2ZgG0wCqMZQqx2p9pOliAZoBQst98BV0fXkDHg/viewform"
+    },
+    {
+      "date": "2026-10-24",
+      "event name": "What's Your Number?: Understanding Your Blood Pressure, Blood Sugar and Cholesterol",
+      "time": "20:00",
+      "end time": "21:55",
+      "venue": "Webinar",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfqI38NITauJhL1GQ7QyBHuHwB0DvCdlqOW1zcydJSqE8cCCg/viewform"
     }
   ]
 }
