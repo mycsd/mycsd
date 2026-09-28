@@ -1,3 +1,22 @@
 {
-  "events": []
+  "events": [
+    {
+      "date": "2026-10-14",
+      "event name": "BLOOD DONATION 101: Everything You Need to Know!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/2vpe6263"
+    },
+    {
+      "date": "2026-10-02",
+      "event name": "FIRST YEAR TO FUTURE: MEMBINA MAHASISWA YANG CEMERLANG",
+      "time": "21:00",
+      "end time": "23:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/trGS5V4mVMHsLiwT8"
+    }
+  ]
 }
