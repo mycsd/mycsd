@@ -71,6 +71,60 @@
       "venue": "Webinar",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfqI38NITauJhL1GQ7QyBHuHwB0DvCdlqOW1zcydJSqE8cCCg/viewform"
+    },
+    {
+      "date": "2026-10-23",
+      "event name": "Webinar 2: Sleep Staging For Recovery: How It Impact Protein Synthesis In The Muscle",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/em7TD2DSeraHYce47"
+    },
+    {
+      "date": "2026-10-15",
+      "event name": "JODOH KERJAYA DAN MASA DEPAN, MEMBUAT PILIHAN BIJAK SEBAGAI MAHASISWA",
+      "time": "20:00",
+      "end time": "",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/ZCDys284Ut4T3aa16"
+    },
+    {
+      "date": "2026-10-16",
+      "event name": "JATI Talk 1 – Brand Name vs Generic: What Are You Really Paying For?",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/BxdbtcVjDrW1y7jM8"
+    },
+    {
+      "date": "2026-10-16",
+      "event name": "Youth 4 Change: Why Volunteering Builds Community Spirit",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Cisco Webex (Online)",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/64ehtpw3"
+    },
+    {
+      "date": "2026-10-13",
+      "event name": "NAVIGATING LIFE IN DEGREE: THRIVING BEYOND ACADEMICS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/7LaSQZZSMkViVadZ9"
+    },
+    {
+      "date": "2026-10-18",
+      "event name": "Campus Unfiltered: The Student Survival Talk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/BYbuTr9BRivz6Rdz8"
     }
   ]
 }
