@@ -125,6 +125,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/BYbuTr9BRivz6Rdz8"
+    },
+    {
+      "date": "2026-10-14",
+      "event name": "IEEE Engagement Day 2026",
+      "time": "16:00",
+      "end time": "19:00",
+      "venue": "Lembaran Cafe",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/CPakgKmBQgNvarui7"
     }
   ]
 }
