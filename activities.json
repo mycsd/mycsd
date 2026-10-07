@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-14",
-      "event name": "BLOOD DONATION 101: Everything You Need to Know!",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/2vpe6263"
-    },
-    {
-      "date": "2026-10-09",
-      "event name": "[POSTPONED TO 9 OCT] FIRST YEAR TO FUTURE: MEMBINA MAHASISWA YANG CEMERLANG",
-      "time": "21:00",
-      "end time": "23:00",
-      "venue": "Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/trGS5V4mVMHsLiwT8"
-    },
-    {
       "date": "2026-10-08",
       "event name": "Medicines While Travelling",
       "time": "20:00",
@@ -37,40 +19,40 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScEAnhExmMGtcyedJw54jKYfxlnaC7avwdzdmL9yIxE86tAmw/viewform"
     },
     {
-      "date": "2026-10-16",
-      "event name": "Green ConvEx Episode 2: GREENFLOW 'Every Drop Tells a Story'",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe71mdtnH8vV4QxEywidqEuhyrNLPF8tLSd2ox4BkvCza5VVA/viewform"
-    },
-    {
-      "date": "2026-10-23",
-      "event name": "Green ConvEx Episode 3: GREENVOICE \"Speak. Act. Change.\"",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyA3xVrhDP2ZgG0wCqMZQqx2p9pOliAZoBQst98BV0fXkDHg/viewform"
-    },
-    {
-      "date": "2026-10-24",
-      "event name": "What's Your Number?: Understanding Your Blood Pressure, Blood Sugar and Cholesterol",
-      "time": "20:00",
-      "end time": "21:55",
-      "venue": "Webinar",
+      "date": "2026-10-09",
+      "event name": "[POSTPONED TO 9 OCT] FIRST YEAR TO FUTURE: MEMBINA MAHASISWA YANG CEMERLANG",
+      "time": "21:00",
+      "end time": "23:00",
+      "venue": "Webex",
       "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfqI38NITauJhL1GQ7QyBHuHwB0DvCdlqOW1zcydJSqE8cCCg/viewform"
+      "registration link": "https://forms.gle/trGS5V4mVMHsLiwT8"
     },
     {
-      "date": "2026-10-23",
-      "event name": "Webinar 2: Sleep Staging For Recovery: How It Impact Protein Synthesis In The Muscle",
+      "date": "2026-10-13",
+      "event name": "NAVIGATING LIFE IN DEGREE: THRIVING BEYOND ACADEMICS",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/em7TD2DSeraHYce47"
+      "registration link": "https://forms.gle/7LaSQZZSMkViVadZ9"
+    },
+    {
+      "date": "2026-10-14",
+      "event name": "IEEE Engagement Day 2026",
+      "time": "16:00",
+      "end time": "19:00",
+      "venue": "Lembaran Cafe",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/CPakgKmBQgNvarui7"
+    },
+    {
+      "date": "2026-10-14",
+      "event name": "BLOOD DONATION 101: Everything You Need to Know!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://tinyurl.com/2vpe6263"
     },
     {
       "date": "2026-10-15",
@@ -80,6 +62,15 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/ZCDys284Ut4T3aa16"
+    },
+    {
+      "date": "2026-10-16",
+      "event name": "Green ConvEx Episode 2: GREENFLOW 'Every Drop Tells a Story'",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe71mdtnH8vV4QxEywidqEuhyrNLPF8tLSd2ox4BkvCza5VVA/viewform"
     },
     {
       "date": "2026-10-16",
@@ -100,15 +91,6 @@
       "registration link": "https://tinyurl.com/64ehtpw3"
     },
     {
-      "date": "2026-10-13",
-      "event name": "NAVIGATING LIFE IN DEGREE: THRIVING BEYOND ACADEMICS",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/7LaSQZZSMkViVadZ9"
-    },
-    {
       "date": "2026-10-18",
       "event name": "Campus Unfiltered: The Student Survival Talk",
       "time": "20:00",
@@ -118,13 +100,31 @@
       "registration link": "https://forms.gle/BYbuTr9BRivz6Rdz8"
     },
     {
-      "date": "2026-10-14",
-      "event name": "IEEE Engagement Day 2026",
-      "time": "16:00",
-      "end time": "19:00",
-      "venue": "Lembaran Cafe",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/CPakgKmBQgNvarui7"
+      "date": "2026-10-23",
+      "event name": "Green ConvEx Episode 3: GREENVOICE \"Speak. Act. Change.\"",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyA3xVrhDP2ZgG0wCqMZQqx2p9pOliAZoBQst98BV0fXkDHg/viewform"
+    },
+    {
+      "date": "2026-10-23",
+      "event name": "Webinar 2: Sleep Staging For Recovery: How It Impact Protein Synthesis In The Muscle",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/em7TD2DSeraHYce47"
+    },
+    {
+      "date": "2026-10-24",
+      "event name": "What's Your Number?: Understanding Your Blood Pressure, Blood Sugar and Cholesterol",
+      "time": "20:00",
+      "end time": "21:55",
+      "venue": "Webinar",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfqI38NITauJhL1GQ7QyBHuHwB0DvCdlqOW1zcydJSqE8cCCg/viewform"
     }
   ]
 }
