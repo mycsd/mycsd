@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-08",
-      "event name": "Medicines While Travelling",
-      "time": "20:00",
-      "end time": "21:55",
-      "venue": "Online",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfi2iv1YvLcmSPfJR3emW4jYqD7QrYGOBDT8PI6IcyjL6VaXg/viewform"
-    },
-    {
       "date": "2026-10-09",
       "event name": "Green ConvEx Episode 1: GREENMIND \"Healthy People, Healthy Planet\"",
       "time": "20:00",
@@ -137,7 +128,7 @@
     },
     {
       "date": "2026-10-14",
-      "event name": "INSIDE OUT: What’s Really Going on Inside?",
+      "event name": "*NationalCSD INSIDE OUT: What’s Really Going on Inside?",
       "time": "20:30",
       "end time": "22:30",
       "venue": "Webex Meeting",
