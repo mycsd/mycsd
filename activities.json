@@ -134,6 +134,24 @@
       "venue": "Puma Hall USM KKTSS",
       "fee": "✨Free",
       "registration link": "https://forms.gle/BPNPLM8pHZLSceXS8"
+    },
+    {
+      "date": "2026-10-21",
+      "event name": "NPSC WEBINAR 2 : UNLOCKING CELL HEALTH : EVERYDAY LIFESTYLE HABITS AND THE SCIENCE OF PREVENTION",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/npWFqoxTzuqwWPXF9"
+    },
+    {
+      "date": "2026-10-20",
+      "event name": "Building Bridges, Breaking Barriers",
+      "time": "19:45",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://q.me-qr.com/7zsi8m9d"
     }
   ]
 }
