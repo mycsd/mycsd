@@ -107,6 +107,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://q.me-qr.com/7zsi8m9d"
+    },
+    {
+      "date": "2026-10-30",
+      "event name": "Leprosy Awareness Talk",
+      "time": "21:00",
+      "end time": "22:00",
+      "venue": "Google Meet",
+      "fee": 1,
+      "registration link": "https://forms.gle/oAkk9xtdmJuHSmyB7"
     }
   ]
 }
