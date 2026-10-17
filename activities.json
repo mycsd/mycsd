@@ -98,6 +98,15 @@
       "venue": "Cisco Webex Meeting",
       "fee": 2,
       "registration link": "https://wmhcarnivalmrs2627.base44.app"
+    },
+    {
+      "date": "2026-10-22",
+      "event name": "Veterinary Compounding: Why Commercial Human And Pet Drugs Don’t Always Fit?",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/mqePJnjEENm46Dq1A"
     }
   ]
 }
