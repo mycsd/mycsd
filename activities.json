@@ -107,6 +107,24 @@
       "venue": "PUMA Hall, USMKKTSS",
       "fee": "✨Free",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSeRh9FmyXlLZCyTEcHg4irm0GJGNrMzGQf_z4ajcSSHqwwLiA/viewform"
+    },
+    {
+      "date": "2026-10-27",
+      "event name": "Prevention is Better Than Cure: Building a Healthier Lifestyle",
+      "time": "20:00",
+      "end time": "21:30",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/G2CoEhf9ieAuhPku5"
+    },
+    {
+      "date": "2026-10-24",
+      "event name": "Beyond the Turf: The Journey of Arif Esa in Hockey",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd2ixqAI0vLE54EHOEv12W6cUm7UJJkODUgkmMLArobzOUnYw/viewform"
     }
   ]
 }
