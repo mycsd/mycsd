@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-10-23",
-      "event name": "Green ConvEx Episode 3: GREENVOICE \"Speak. Act. Change.\"",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdyA3xVrhDP2ZgG0wCqMZQqx2p9pOliAZoBQst98BV0fXkDHg/viewform"
-    },
-    {
-      "date": "2026-10-23",
-      "event name": "Webinar 2: Sleep Staging For Recovery: How It Impact Protein Synthesis In The Muscle",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/em7TD2DSeraHYce47"
-    },
-    {
       "date": "2026-10-24",
       "event name": "What's Your Number?: Understanding Your Blood Pressure, Blood Sugar and Cholesterol",
       "time": "20:00",
@@ -80,15 +62,6 @@
       "venue": "Webex",
       "fee": 2,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd2ixqAI0vLE54EHOEv12W6cUm7UJJkODUgkmMLArobzOUnYw/viewform"
-    },
-    {
-      "date": "2026-10-23",
-      "event name": "BEYOND GRADUATION: THE STRUGGLES OF REAL LIFE",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/dXAhVuvQnfFfp1Cx8"
     },
     {
       "date": "2026-10-29",
