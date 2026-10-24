@@ -107,6 +107,15 @@
       "venue": "Webex Cisco",
       "fee": 1,
       "registration link": "https://forms.gle/QXD4xC2NLpRuifZC7"
+    },
+    {
+      "date": "2026-10-25",
+      "event name": "SYSTEM TEST",
+      "time": "01:00",
+      "end time": "02:00",
+      "venue": "CHROME",
+      "fee": 99,
+      "registration link": ""
     }
   ]
 }
