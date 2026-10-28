@@ -107,6 +107,15 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://me-l.co/rhnvcuj3"
+    },
+    {
+      "date": "2026-11-12",
+      "event name": "Stay Sharp, Stay in Control",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/EkgdTq4v6dGk84pa8"
     }
   ]
 }
