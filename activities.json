@@ -89,6 +89,24 @@
       "venue": "Cisco Webex",
       "fee": 2,
       "registration link": "https://forms.gle/EkgdTq4v6dGk84pa8"
+    },
+    {
+      "date": "2026-10-30",
+      "event name": "SKUAD LESTARI, ASPIRASI BERSAMA KINI TIBA!",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/nLRT83BCTt48T6z6A"
+    },
+    {
+      "date": "2026-11-07",
+      "event name": "Talk Kehidupan Alam Universiti: Survive & Thrive di Universiti",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Google Meet",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/w5QucvtAd8CGZGQM7"
     }
   ]
 }
