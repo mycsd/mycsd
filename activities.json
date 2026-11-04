@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-04",
-      "event name": "理工华乐团迎新夜 COFEC WELCOMING NIGHT 2026/2027",
-      "time": "19:00",
-      "end time": "22:00",
-      "venue": "PUMA HALL, USMKKJ",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfhBUFxU0To8DcHyw3VTRIGeGUgzdfku3bcth8HbWkw3teOrQ/viewform"
-    },
-    {
-      "date": "2026-11-04",
-      "event name": "Webinar 3 – Sleep Is Your Superpower: The Hidden Cost of All-Nighters",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/N4g3sTSamrkxfkQEA"
-    },
-    {
       "date": "2026-11-06",
       "event name": "Webinar 3: Rescue Ready: Mastering The Art of First Aid",
       "time": "20:00",
