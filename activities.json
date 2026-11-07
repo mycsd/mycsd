@@ -62,6 +62,15 @@
       "venue": "Zoom",
       "fee": "✨Free",
       "registration link": "https://forms.gle/ALELC9NfLLrd3MWg7"
+    },
+    {
+      "date": "2026-11-11",
+      "event name": "You Are More Than Your CGPA",
+      "time": "20:15",
+      "end time": "22:15",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/bh4XFLEMi9sk1JGt6"
     }
   ]
 }
