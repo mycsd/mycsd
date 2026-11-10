@@ -1,31 +1,13 @@
 {
   "events": [
     {
-      "date": "2026-11-13",
-      "event name": "JATI Talk 2 – Your Health, Your Money: The Business Behind Everyday",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://me-l.co/rhnvcuj3"
-    },
-    {
-      "date": "2026-11-12",
-      "event name": "Stay Sharp, Stay in Control",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/EkgdTq4v6dGk84pa8"
-    },
-    {
-      "date": "2026-11-18",
-      "event name": "WEBINAR 2: ARTIFICIAL INTELLIGENCE IN HEALTHCARE: THE FUTURE OF PHARMACY",
-      "time": "20:00",
-      "end time": "21:55",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/DFqPsZg2eZCqmXTc7"
+      "date": "2026-11-11",
+      "event name": "JAPAN CAREER TALK: ACF2027 Pre-event INFOSESSION",
+      "time": "17:00",
+      "end time": "18:00",
+      "venue": "Zoom",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/ALELC9NfLLrd3MWg7"
     },
     {
       "date": "2026-11-11",
@@ -37,24 +19,6 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSekDkWaAIjkXI8vAZbiUCh_RaHVqHsG56_3ohrxSmUTClfJzg/viewform"
     },
     {
-      "date": "2026-11-14",
-      "event name": "HOPE 26/27 WEBINAR 3 : GROWING UP WHILE THEY AGE : NAVIGATING RELATIONSHIPS WITH AGING PARENTS",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd9G5OMJwGd4Eu6ZV7SOnkHgDRop2-VqLwdnIyCPpQNSMO4rg/viewform"
-    },
-    {
-      "date": "2026-11-11",
-      "event name": "JAPAN CAREER TALK: ACF2027 Pre-event INFOSESSION",
-      "time": "17:00",
-      "end time": "18:00",
-      "venue": "Zoom",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/ALELC9NfLLrd3MWg7"
-    },
-    {
       "date": "2026-11-11",
       "event name": "You Are More Than Your CGPA",
       "time": "20:15",
@@ -64,31 +28,40 @@
       "registration link": "https://forms.gle/bh4XFLEMi9sk1JGt6"
     },
     {
-      "date": "2026-11-22",
-      "event name": "SPORTIFY ONLINE QUIZ: PROVE YOUR SPORTS KNOWLEDGE!",
-      "time": "08:00",
-      "end time": "23:59",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://forms.gle/GShRXpv3hUYJqTYAA"
+      "date": "2026-11-11",
+      "event name": "WEBINAR PENYALAHGUNAAN DADAH DALAM KALANGAN BELIA",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/eN27fSUc4muQWBhE6"
     },
     {
-      "date": "2026-11-26",
-      "event name": "National Pharmacy Sports Carnival 26/27: Quiz Challenge: Master Your Glow — The Skincare Quiz",
+      "date": "2026-11-12",
+      "event name": "Stay Sharp, Stay in Control",
       "time": "20:00",
       "end time": "22:00",
-      "venue": "Google Form (Online Quiz)",
+      "venue": "Cisco Webex",
       "fee": 2,
-      "registration link": "https://forms.gle/kCo5cgk9CKRnFBK6A"
+      "registration link": "https://forms.gle/EkgdTq4v6dGk84pa8"
     },
     {
-      "date": "2026-11-17",
-      "event name": "First Lap: The Race Starts With Knowledge",
+      "date": "2026-11-13",
+      "event name": "JATI Talk 2 – Your Health, Your Money: The Business Behind Everyday",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://tinyurl.com/yszdhvb7"
+      "registration link": "https://me-l.co/rhnvcuj3"
+    },
+    {
+      "date": "2026-11-14",
+      "event name": "HOPE 26/27 WEBINAR 3 : GROWING UP WHILE THEY AGE : NAVIGATING RELATIONSHIPS WITH AGING PARENTS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSd9G5OMJwGd4Eu6ZV7SOnkHgDRop2-VqLwdnIyCPpQNSMO4rg/viewform"
     },
     {
       "date": "2026-11-15",
@@ -98,15 +71,6 @@
       "venue": "Webex",
       "fee": 1,
       "registration link": "https://forms.gle/UYNrrALVtagqxAmb9"
-    },
-    {
-      "date": "2026-11-21",
-      "event name": "From Cloud Training To Your First Cloud Career",
-      "time": "",
-      "end time": "",
-      "venue": "Webex",
-      "fee": "✨Free",
-      "registration link": "https://tinyurl.com/AWS-SBG-USMxExabyte-Attendance"
     },
     {
       "date": "2026-11-16",
@@ -127,22 +91,40 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfFQafU1YYSIyZENhvADc3AeKZEp_JbtODC04tfGenVQPynfQ/viewform"
     },
     {
-      "date": "2026-11-25",
-      "event name": "Sports & Gender Stereotypes- How Sport Broadcasting Reinforces Gender Stereotypes",
+      "date": "2026-11-17",
+      "event name": "First Lap: The Race Starts With Knowledge",
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/bTsPYNwgNiumnwNd9"
+      "registration link": "https://tinyurl.com/yszdhvb7"
     },
     {
-      "date": "2026-11-27",
-      "event name": "Transfusion Reactions – Recognising, Managing and Preventing",
-      "time": "19:00",
-      "end time": "22:00",
+      "date": "2026-11-18",
+      "event name": "WEBINAR 2: ARTIFICIAL INTELLIGENCE IN HEALTHCARE: THE FUTURE OF PHARMACY",
+      "time": "20:00",
+      "end time": "21:55",
       "venue": "Cisco Webex",
       "fee": 1,
-      "registration link": "https://forms.gle/YFkU2rvmX9DthDeY9"
+      "registration link": "https://forms.gle/DFqPsZg2eZCqmXTc7"
+    },
+    {
+      "date": "2026-11-21",
+      "event name": "From Cloud Training To Your First Cloud Career",
+      "time": "",
+      "end time": "",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://tinyurl.com/AWS-SBG-USMxExabyte-Attendance"
+    },
+    {
+      "date": "2026-11-22",
+      "event name": "SPORTIFY ONLINE QUIZ: PROVE YOUR SPORTS KNOWLEDGE!",
+      "time": "08:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/GShRXpv3hUYJqTYAA"
     },
     {
       "date": "2026-11-25",
@@ -154,15 +136,6 @@
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfoc8uDqH3ywTDdboa4iC7f5whPCuLXWzdBAPNmjGX0A_e5Rw/viewform"
     },
     {
-      "date": "2026-11-11",
-      "event name": "WEBINAR PENYALAHGUNAAN DADAH DALAM KALANGAN BELIA",
-      "time": "20:30",
-      "end time": "22:30",
-      "venue": "Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/eN27fSUc4muQWBhE6"
-    },
-    {
       "date": "2026-11-25",
       "event name": "Paws & Promises: Voices for the Voiceless",
       "time": "20:00",
@@ -170,6 +143,42 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/QsbBPPPv9BFB4b5K9"
+    },
+    {
+      "date": "2026-11-25",
+      "event name": "Sports & Gender Stereotypes- How Sport Broadcasting Reinforces Gender Stereotypes",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/bTsPYNwgNiumnwNd9"
+    },
+    {
+      "date": "2026-11-26",
+      "event name": "National Pharmacy Sports Carnival 26/27: Quiz Challenge: Master Your Glow — The Skincare Quiz",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Google Form (Online Quiz)",
+      "fee": 2,
+      "registration link": "https://forms.gle/kCo5cgk9CKRnFBK6A"
+    },
+    {
+      "date": "2026-11-27",
+      "event name": "Transfusion Reactions – Recognising, Managing and Preventing",
+      "time": "19:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/YFkU2rvmX9DthDeY9"
+    },
+    {
+      "date": "2026-11-12",
+      "event name": "SIRI KASIH BHEPA 2026: Cinta Buta ke Waras?",
+      "time": "20:30",
+      "end time": "21:30",
+      "venue": "Webex",
+      "fee": "✨Free",
+      "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m235938197bc1d796c6f15cbf9bd39911"
     }
   ]
 }
