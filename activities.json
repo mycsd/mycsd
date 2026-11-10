@@ -161,6 +161,15 @@
       "venue": "Webex",
       "fee": 2,
       "registration link": "https://forms.gle/eN27fSUc4muQWBhE6"
+    },
+    {
+      "date": "2026-11-25",
+      "event name": "Paws & Promises: Voices for the Voiceless",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/QsbBPPPv9BFB4b5K9"
     }
   ]
 }
