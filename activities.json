@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-12",
-      "event name": "Stay Sharp, Stay in Control",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/EkgdTq4v6dGk84pa8"
-    },
-    {
       "date": "2026-11-13",
       "event name": "JATI Talk 2 – Your Health, Your Money: The Business Behind Everyday",
       "time": "20:00",
@@ -134,15 +125,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/YFkU2rvmX9DthDeY9"
-    },
-    {
-      "date": "2026-11-12",
-      "event name": "SIRI KASIH BHEPA 2026: Cinta Buta ke Waras?",
-      "time": "20:30",
-      "end time": "21:30",
-      "venue": "Webex",
-      "fee": "✨Free",
-      "registration link": "https://usm-cmr.webex.com/usm-cmr/j.php?MTID=m235938197bc1d796c6f15cbf9bd39911"
     }
   ]
 }
