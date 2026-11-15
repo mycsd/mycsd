@@ -61,5 +61,23 @@
     "venue": "Google Form",
     "fee": "RM1",
     "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdbc3DC2HBOxH4yV0BrKekbNvVSuJskMGXzQmX8PIU2I3x5jQ/viewform"
-    }
+    },
+    {
+    "activity name": "NationalCSD - MINDSPARK: The National STEM Quiz",
+    "start_date": "2026-11-02",
+    "end_date": "2026-12-23",
+    "time": null,
+    "venue": "Google Forms",
+    "fee": "RM2",
+    "registration link": "https://forms.gle/3VLgKJEu8UXQrLxe7"
+    },
+    {
+    "activity name": "NationalCSD - EARTHWISE: THE SUSTAINABILITY QUIZ",
+    "start_date": "2026-11-02",
+    "end_date": "2026-12-23",
+    "time": null,
+    "venue": "Google Forms",
+    "fee": "RM2",
+    "registration link": "https://forms.gle/eErGkStnpWCvaVr26"
+}
 ]
