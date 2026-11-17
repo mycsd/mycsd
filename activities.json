@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-17",
-      "event name": "First Lap: The Race Starts With Knowledge",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://tinyurl.com/yszdhvb7"
-    },
-    {
       "date": "2026-11-18",
       "event name": "WEBINAR 2: ARTIFICIAL INTELLIGENCE IN HEALTHCARE: THE FUTURE OF PHARMACY",
       "time": "20:00",
@@ -107,6 +98,15 @@
       "venue": "Webex",
       "fee": 2,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform?usp=header"
+    },
+    {
+      "date": "2026-11-23",
+      "event name": "Alumni Talk – Lessons Beyond Lecture Hall",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/VcHJcHrVCH5mzD4XA"
     }
   ]
 }
