@@ -89,6 +89,24 @@
       "venue": "Cisco Webex",
       "fee": 2,
       "registration link": "https://forms.gle/opG6PAUcKKm1iPpz7"
+    },
+    {
+      "date": "2026-11-20",
+      "event name": "COFFEE TALK 2026: FROM EARTH, TO INNOVATION: BUILDING THE FUTURE",
+      "time": "14:30",
+      "end time": "16:30",
+      "venue": "WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/kBiEd92YcA2xC7Hj6"
+    },
+    {
+      "date": "2026-12-02",
+      "event name": "SAFE AND EFFICIENT GEO SATELLITE OPERATIONS: COLLOCATION, RELOCATION AND COLLISION AVOIDANCE TALK",
+      "time": "13:30",
+      "end time": "16:00",
+      "venue": "Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform?usp=header"
     }
   ]
 }
