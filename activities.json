@@ -107,6 +107,69 @@
       "venue": "Cisco Webex",
       "fee": "✨Free",
       "registration link": "https://forms.gle/VcHJcHrVCH5mzD4XA"
+    },
+    {
+      "date": "2026-11-23",
+      "event name": "PCC 26/27 Webinar 2: Decentralized Health: Foundations of Blockchain, Smart Contracts and Medical Integrity",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "Walk In"
+    },
+    {
+      "date": "2026-11-24",
+      "event name": "Dear Self, Take a Breath: Understanding Your Mental Wellbeing",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "Walk In"
+    },
+    {
+      "date": "2026-11-24",
+      "event name": "Physics Coffee Talk: Can AI Discover Things About Universe That Human Can't?",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Online via Cisco Webex",
+      "fee": "✨Free",
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXfZ9klYgEVpiZFcD0r3mFhpYurdsHWaylo3Ly34-ESDrI6w/viewform"
+    },
+    {
+      "date": "2026-11-27",
+      "event name": "SURVIVING & THRIVING in AEROSPACE: THE ULTIMATE STUDENT BLUEPRINT (SERIES 1)",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex (Online)",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdd2GMurvrh5ZhablHw2mFQAHk-LFNVzh8u7nwtqguHM_WqLg/viewform"
+    },
+    {
+      "date": "2026-11-28",
+      "event name": "MONEY MATTERS : SKILLS FOR FINANCIAL WELL-BEING",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "Microsoft Teams",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScexck0zikPDobokC0drbn6m5ykK0Nu1G0uuxPauwzzjkAcPg/viewform"
+    },
+    {
+      "date": "2026-11-30",
+      "event name": "Degree to Deployment",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9kpvjMJzQcZCIVAKb_J8Hj3OhphvbYRpuhTEPX8qcSLYdqg/viewform"
+    },
+    {
+      "date": "2026-12-02",
+      "event name": "TURKSAT Orbital Frontier: Next-Gen Satellites & Space Infrastructure Talk",
+      "time": "13:30",
+      "end time": "16:00",
+      "venue": "Cisco WebEx",
+      "fee": 2,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform"
     }
   ]
 }
