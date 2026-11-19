@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "date": "2026-11-19",
+      "event name": "MYCSD KEBANGSAAN Webinar 3 – The Stories Behind the Raid: Inside Pharmaceutical Enforcement",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 2,
+      "registration link": "https://forms.gle/opG6PAUcKKm1iPpz7"
+    },
+    {
+      "date": "2026-11-20",
+      "event name": "COFFEE TALK 2026: FROM EARTH, TO INNOVATION: BUILDING THE FUTURE",
+      "time": "14:30",
+      "end time": "16:30",
+      "venue": "WEBEX",
+      "fee": "✨Free",
+      "registration link": "https://forms.gle/kBiEd92YcA2xC7Hj6"
+    },
+    {
       "date": "2026-11-21",
       "event name": "From Cloud Training To Your First Cloud Career",
       "time": "",
@@ -17,6 +35,51 @@
       "venue": "Google Form",
       "fee": 1,
       "registration link": "https://forms.gle/GShRXpv3hUYJqTYAA"
+    },
+    {
+      "date": "2026-11-22",
+      "event name": "CANVALAB: A CREATIVE DIGITAL DESIGN WORKSHOP",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Microsoft Teams",
+      "fee": 1,
+      "registration link": "https://forms.gle/xcYAdnAdMy1y7mS88"
+    },
+    {
+      "date": "2026-11-23",
+      "event name": "Alumni Talk – Lessons Beyond Lecture Hall",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": "2 (NationalCSD)",
+      "registration link": "https://forms.gle/VcHJcHrVCH5mzD4XA"
+    },
+    {
+      "date": "2026-11-23",
+      "event name": "PCC 26/27 Webinar 2: Decentralized Health: Foundations of Blockchain, Smart Contracts and Medical Integrity",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/M3Ck9cQSuMkjDWrW7"
+    },
+    {
+      "date": "2026-11-24",
+      "event name": "Dear Self, Take a Breath: Understanding Your Mental Wellbeing",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfCN1QESCHGwYFQK21MTofiwSYezo23nGoXKsHckzi_iG_AHw/viewform"
+    },
+    {
+      "date": "2026-11-24",
+      "event name": "Physics Coffee Talk: Can AI Discover Things About Universe That Human Can't?",
+      "time": "20:30",
+      "end time": "22:00",
+      "venue": "Online via Cisco Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXfZ9klYgEVpiZFcD0r3mFhpYurdsHWaylo3Ly34-ESDrI6w/viewform"
     },
     {
       "date": "2026-11-25",
@@ -55,6 +118,15 @@
       "registration link": "https://forms.gle/kCo5cgk9CKRnFBK6A"
     },
     {
+      "date": "2026-11-26",
+      "event name": "Pharmacy Quiz Challenge 2026/2027 Quiz Competition: How Well Do You Know Your Health?",
+      "time": "09:00",
+      "end time": "23:59",
+      "venue": "Google Form",
+      "fee": 1,
+      "registration link": "https://forms.gle/2wGibuc4n79Hwq3X8"
+    },
+    {
       "date": "2026-11-27",
       "event name": "Transfusion Reactions – Recognising, Managing and Preventing",
       "time": "19:00",
@@ -62,69 +134,6 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://forms.gle/YFkU2rvmX9DthDeY9"
-    },
-    {
-      "date": "2026-11-19",
-      "event name": "MYCSD KEBANGSAAN Webinar 3 – The Stories Behind the Raid: Inside Pharmaceutical Enforcement",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 2,
-      "registration link": "https://forms.gle/opG6PAUcKKm1iPpz7"
-    },
-    {
-      "date": "2026-11-20",
-      "event name": "COFFEE TALK 2026: FROM EARTH, TO INNOVATION: BUILDING THE FUTURE",
-      "time": "14:30",
-      "end time": "16:30",
-      "venue": "WEBEX",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/kBiEd92YcA2xC7Hj6"
-    },
-    {
-      "date": "2026-12-02",
-      "event name": "SAFE AND EFFICIENT GEO SATELLITE OPERATIONS: COLLOCATION, RELOCATION AND COLLISION AVOIDANCE TALK",
-      "time": "13:30",
-      "end time": "16:00",
-      "venue": "Webex",
-      "fee": 2,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform?usp=header"
-    },
-    {
-      "date": "2026-11-23",
-      "event name": "Alumni Talk – Lessons Beyond Lecture Hall",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://forms.gle/VcHJcHrVCH5mzD4XA"
-    },
-    {
-      "date": "2026-11-23",
-      "event name": "PCC 26/27 Webinar 2: Decentralized Health: Foundations of Blockchain, Smart Contracts and Medical Integrity",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "Walk In"
-    },
-    {
-      "date": "2026-11-24",
-      "event name": "Dear Self, Take a Breath: Understanding Your Mental Wellbeing",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "Walk In"
-    },
-    {
-      "date": "2026-11-24",
-      "event name": "Physics Coffee Talk: Can AI Discover Things About Universe That Human Can't?",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Online via Cisco Webex",
-      "fee": "✨Free",
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXfZ9klYgEVpiZFcD0r3mFhpYurdsHWaylo3Ly34-ESDrI6w/viewform"
     },
     {
       "date": "2026-11-27",
@@ -150,7 +159,7 @@
       "time": "20:00",
       "end time": "22:00",
       "venue": "Cisco Webex",
-      "fee": 2,
+      "fee": "2 (NationalCSD)",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSe9kpvjMJzQcZCIVAKb_J8Hj3OhphvbYRpuhTEPX8qcSLYdqg/viewform"
     },
     {
@@ -159,26 +168,8 @@
       "time": "13:30",
       "end time": "16:00",
       "venue": "Cisco WebEx",
-      "fee": 2,
+      "fee": "2 (InternationalCSD)",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform"
-    },
-    {
-      "date": "2026-11-26",
-      "event name": "Pharmacy Quiz Challenge 2026/2027 Quiz Competition: How Well Do You Know Your Health?",
-      "time": "",
-      "end time": "",
-      "venue": "Google Form",
-      "fee": 1,
-      "registration link": "https://forms.gle/2wGibuc4n79Hwq3X8"
-    },
-    {
-      "date": "2026-11-22",
-      "event name": "CANVALAB: A CREATIVE DIGITAL DESIGN WORKSHOP",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Microsoft Teams",
-      "fee": 1,
-      "registration link": "https://forms.gle/xcYAdnAdMy1y7mS88"
     }
   ]
 }
