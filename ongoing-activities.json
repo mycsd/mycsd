@@ -1,50 +1,5 @@
 [
     {
-    "activity name": "PharmQuiz: A Dose of Knowledge",
-    "start_date": "2026-10-05",
-    "end_date": "2026-10-18",
-    "time": null,
-    "venue": "Google Form",
-    "fee": "RM1",
-    "registration link": "https://forms.gle/5GMHL4wRQjFrED38A"
-    },
-    {
-    "activity name": "Light Up Your Knowledge: Online Quiz",
-    "start_date": "2026-09-01",
-    "end_date": "2026-10-25",
-    "time": null,
-    "venue": "Google Form",
-    "fee": "RM1",
-    "registration link": "https://forms.gle/GE53g6hLqfd3QoQY7"
-    },
-    {
-    "activity name": "Lungs on the Line: The Reality of Asthma, Haze, and Smoking",
-    "start_date": "2026-10-12",
-    "end_date": "2026-10-25",
-    "time": null,
-    "venue": "Online (Google Form)",
-    "fee": "RM1",
-    "registration link": "https://forms.gle/NgqqduoDQGyNiQjt6"
-    },
-    {
-    "activity name": "Mission Possible: SDG Online Quiz",
-    "start_date": "2026-10-26",
-    "end_date": "2026-11-02",
-    "time": null,
-    "venue": "Online (Google Form)",
-    "fee": "RM1",
-    "registration link": "https://forms.gle/qqdLJnc7s7oNFC7Y6"
-    },
-    {
-    "activity name": "Unmasking Tobacco: Policy, Health & Impact Quiz Challenge",
-    "start_date": "2026-10-20",
-    "end_date": "2026-11-05",
-    "time": null,
-    "venue": "Online (via Google Form)",
-    "fee": "Free (Green Lungers) / RM1 (Non-Green Lungers)",
-    "registration link": "https://forms.gle/nveBSnGFJ9jyHLZB7"
-    },
-    {
     "activity name": "MedHealth 8.0: Blood Awareness and Health Quiz!",
     "start_date": "2026-09-30",
     "end_date": "2026-11-30",
@@ -61,6 +16,15 @@
     "venue": "Google Form",
     "fee": "RM1",
     "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdbc3DC2HBOxH4yV0BrKekbNvVSuJskMGXzQmX8PIU2I3x5jQ/viewform"
+    },
+    {
+    "activity name": "CHECKPOINT: Knowledge Is Your Fastest Lap",
+    "start_date": "2026-11-13",
+    "end_date": "2026-12-13",
+    "time": null,
+    "venue": "Google Form",
+    "fee": "RM1",
+    "registration link": "https://forms.gle/oVmHT1bMjPx5REZY6"
     },
     {
     "activity name": "NationalCSD - MINDSPARK: The National STEM Quiz",
