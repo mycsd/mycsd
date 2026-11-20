@@ -161,6 +161,15 @@
       "venue": "Cisco WebEx",
       "fee": "2 (InternationalCSD)",
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScvjzuv8oN8TVF6GDFJUiS3u5eVU5St_ZWUhnISwc90JGxZIg/viewform"
+    },
+    {
+      "date": "2026-12-02",
+      "event name": "Project Young Minds: Future Forward",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Cisco Webex",
+      "fee": 1,
+      "registration link": "https://forms.gle/SUUx1drj7wQRNALG7"
     }
   ]
 }
