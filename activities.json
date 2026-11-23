@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-23",
-      "event name": "Alumni Talk – Lessons Beyond Lecture Hall",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": "2 (NationalCSD)",
-      "registration link": "https://forms.gle/VcHJcHrVCH5mzD4XA"
-    },
-    {
-      "date": "2026-11-23",
-      "event name": "PCC 26/27 Webinar 2: Decentralized Health: Foundations of Blockchain, Smart Contracts and Medical Integrity",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://forms.gle/M3Ck9cQSuMkjDWrW7"
-    },
-    {
       "date": "2026-11-24",
       "event name": "Dear Self, Take a Breath: Understanding Your Mental Wellbeing",
       "time": "20:00",
