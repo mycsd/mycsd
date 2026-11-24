@@ -143,6 +143,24 @@
       "venue": "Cisco Webex",
       "fee": 1,
       "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScueFRQH6obfA0cE75lXyLMCI0DNi5d-YKoA3D9X1D_KlrmOA/viewform"
+    },
+    {
+      "date": "2026-12-04",
+      "event name": "ALUMNI TALK 26/27: FROM ALUMNI TO STUDENTS",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Walk In",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfFzJ0s_yNUDRl3oLhTjYbSHzNCaBUjLibtyPryjEmKqd7cpA/viewform?pli=1"
+    },
+    {
+      "date": "2026-11-25",
+      "event name": "The Language of Science – Online Talk",
+      "time": "20:00",
+      "end time": "22:00",
+      "venue": "Webex",
+      "fee": 1,
+      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLScrOYPtyom0D-SAN6xah6PHYazcOZdF7XoJeVpAEtcxgfnItQ/viewform"
     }
   ]
 }
