@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-11-24",
-      "event name": "Dear Self, Take a Breath: Understanding Your Mental Wellbeing",
-      "time": "20:00",
-      "end time": "22:00",
-      "venue": "Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSfCN1QESCHGwYFQK21MTofiwSYezo23nGoXKsHckzi_iG_AHw/viewform"
-    },
-    {
-      "date": "2026-11-24",
-      "event name": "Physics Coffee Talk: Can AI Discover Things About Universe That Human Can't?",
-      "time": "20:30",
-      "end time": "22:00",
-      "venue": "Online via Cisco Webex",
-      "fee": 1,
-      "registration link": "https://docs.google.com/forms/d/e/1FAIpQLSdXfZ9klYgEVpiZFcD0r3mFhpYurdsHWaylo3Ly34-ESDrI6w/viewform"
-    },
-    {
       "date": "2026-11-25",
       "event name": "Career Talk 4.0: Beyond the Numbers: Unlocking Corporate Career Opportunities",
       "time": "20:00",
