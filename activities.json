@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "event name": "Pharmacy Quiz Challenge 2026/2027 Quiz Competition: How Well Do You Know Your Health?",
       "time": "09:00",
       "end time": "23:59",
@@ -125,6 +125,24 @@
       "venue": "Microsoft Team (Online)",
       "fee": 1,
       "registration link": "https://forms.gle/5qwbr3MdM4bapbMq8"
+    },
+    {
+      "date": "2026-12-30",
+      "event name": "Active Lifestyles and Health Talk",
+      "time": "20:30",
+      "end time": "22:30",
+      "venue": "WEBEX Meeting",
+      "fee": 2,
+      "registration link": "https://forms.gle/njyaymx8Xm9nyKX88"
+    },
+    {
+      "date": "2026-12-10",
+      "event name": "Technical Video Workshop Registration Form 26/27: Create, Edit & Inspire: Master the Art of Technical Video Making!",
+      "time": "20:00",
+      "end time": "22:30",
+      "venue": "Cisco Webex (Online)",
+      "fee": 1,
+      "registration link": "https://forms.gle/5N2hxssSfgMX9JHx6"
     }
   ]
 }
