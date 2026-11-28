@@ -116,6 +116,15 @@
       "venue": "Webex",
       "fee": 2,
       "registration link": "https://forms.gle/UjZEWYfdDXFB4467A"
+    },
+    {
+      "date": "2026-12-12",
+      "event name": "MBSB IGNITE SERIES",
+      "time": "09:00",
+      "end time": "12:30",
+      "venue": "DKSK1",
+      "fee": "✨Free",
+      "registration link": "Walk In"
     }
   ]
 }
